@@ -58,5 +58,28 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-22",
+    "claimIds": [
+      "31j",
+      "31d",
+      "31c"
+    ],
+    "exampleId": "codex-20261009-063",
+    "keywordIds": [],
+    "text": "A post calls killing Jews an act of worship that brings believers closer to God; Cat contrasts it with a claim that Palestinian social-media trends are light-hearted fun.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1980742332090929241"
+    ],
+    "usTweets": [
+      "1981155844575379803"
+    ]
   }
 ]

@@ -65,6 +65,28 @@
     "usTweets": []
   },
   {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-03",
+    "claimIds": [
+      "51",
+      "53"
+    ],
+    "exampleId": "codex-20261011-b2-050",
+    "keywordIds": [],
+    "text": "An Israeli police tour finds no humanitarian supplies on one intercepted flotilla boat; Global Sumud Flotilla implicitly confirms that there was no aid, says its mission was not just delivering aid but breaking the siege.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1973878177526395235"
+    ],
+    "nowTweets": [
+      "1974149425233854695"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "",
     "date": "2026-01-11",
     "claimIds": [

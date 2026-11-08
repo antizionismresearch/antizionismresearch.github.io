@@ -20,7 +20,8 @@
     ],
     "usTweets": [
       "2053890774769541416",
-      "2053890665612812745"
+      "2053890665612812745",
+      "1981259127868576142"
     ]
   },
   {
@@ -113,6 +114,29 @@
     "source": false,
     "standaloneTweets": [
       "1984823382714540051"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-28",
+    "claimIds": [
+      "31b"
+    ],
+    "exampleId": "codex-20261009-016",
+    "keywordIds": [
+      "Claiming",
+      "Taking",
+      "Stealing"
+    ],
+    "text": "A speaker claims Muslims reached America before Columbus, were in Australia before Europeans, and were in Britain before England existed. Palestinianism steals history.",
+    "source": false,
+    "standaloneTweets": [
+      "1983111505827770775"
     ],
     "thenVsNowFormat": false,
     "thenTweets": [],

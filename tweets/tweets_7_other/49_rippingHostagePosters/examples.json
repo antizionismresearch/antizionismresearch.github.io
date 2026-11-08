@@ -198,5 +198,26 @@
     ],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-06",
+    "claimIds": [
+      "49",
+      "56",
+      "6z"
+    ],
+    "exampleId": "codex-20261011-b2-016",
+    "keywordIds": [],
+    "text": "A woman in Palo Alto tears down posters of Israeli hostages and responds, “I don’t give a shit.”",
+    "source": false,
+    "standaloneTweets": [
+      "1975295282536718458"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

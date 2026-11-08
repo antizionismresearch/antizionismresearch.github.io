@@ -176,5 +176,87 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-21",
+    "claimIds": [
+      "31h"
+    ],
+    "exampleId": "codex-20261009-071",
+    "keywordIds": [],
+    "text": "An Afghan man describes punching his pregnant wife in the back and causing a miscarriage after she upset him.",
+    "source": false,
+    "standaloneTweets": [
+      "1980720963919704319"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2024-10-18",
+    "claimIds": [
+      "31h",
+      "31j"
+    ],
+    "exampleId": "codex-20261011-008",
+    "keywordIds": [],
+    "text": "Mark Dubowitz highlights Fondapol’s October 2024 study: 66,872 Islamist terrorist attacks worldwide from 1979 through April 12, 2024, killing 249,941 people; 56,413 attacks occurred from 2013 onward.",
+    "source": true,
+    "standaloneTweets": [
+      "1979585839240732679"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.fondapol.org/en/study/islamist-terrorist-attacks-in-the-world-1979-2024/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2008-11-12",
+    "claimIds": [
+      "31h",
+      "30"
+    ],
+    "exampleId": "codex-20261011-016",
+    "keywordIds": [],
+    "text": "Egyptian lawyer Nagla al-Imam calls on Arab men to sexually harass Israeli women anywhere and by any means as resistance against Israel.",
+    "source": false,
+    "standaloneTweets": [
+      "1979692295923630479"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2023-03-05",
+    "claimIds": [
+      "31h",
+      "31j",
+      "30",
+      "31l"
+    ],
+    "exampleId": "codex-20261011-023",
+    "keywordIds": [],
+    "text": "March 2023,  Palestinian Sheikh Muhammad bin Maher Al-Aklouk / Muhammad Al-Aklouk in Beit Lahia’s Abu Muslim Grand Mosque in Gaza, waves a gun in a mosque and declares that killing an infidel is the best way to worship Allah and blesses those who kill disbelievers, in footage shared by Wall Street Apes. ",
+    "source": false,
+    "standaloneTweets": [
+      "1979574441589055494"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

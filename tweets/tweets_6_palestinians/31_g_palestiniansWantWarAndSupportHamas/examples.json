@@ -1,5 +1,28 @@
 [
   {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-13",
+    "claimIds": [
+      "26",
+      "31g",
+      "31n",
+      "27"
+    ],
+    "exampleId": "codex-20261009-055",
+    "keywordIds": [],
+    "text": "An Israel Institute of NZ thread attributes a promise to rearm, carry out another massacre and annihilate Israel to Hamas leader Khalil al-Hayya.",
+    "source": false,
+    "standaloneTweets": [
+      "1977857108235206706",
+      "1977857109753577706"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "",
     "date": "2019-05-27",
     "claimIds": [
@@ -424,5 +447,133 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.pcpsr.org/sites/default/files/Poll%2096%20press%20release%20FINAL%20ENGLISH%2028%20Oct%202025.pdf"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-28",
+    "claimIds": [
+      "31g",
+      "31i",
+      "31n"
+    ],
+    "exampleId": "codex-20261009-015",
+    "keywordIds": [],
+    "text": "In a video chat, a Hamas supporter says he would kill an Israeli baby first so the mother cries, then shoot the mother; he laughs when asked whether Islam is a religion of peace.",
+    "source": false,
+    "standaloneTweets": [
+      "1983272180785000504"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2024-08-14",
+    "claimIds": [
+      "31g",
+      "31j",
+      "31l",
+      "31p"
+    ],
+    "exampleId": "codex-20261011-025",
+    "keywordIds": [],
+    "text": "Eyal Yakoby shares a clip attributed to Hamas commanders threatening to pursue Jews and Christians worldwide and kill those who refuse to convert to Islam. “Our issue is not just Palestine, our issue is killing every non-Muslim. We will pursue Jews and Christians all over the world. Either they convert to Islam or we’ll kill them!”",
+    "source": false,
+    "standaloneTweets": [
+      "1979304865051365478"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "31g"
+    ],
+    "exampleId": "codex-20261011-059",
+    "keywordIds": [
+      "Doctor"
+    ],
+    "text": "Released Palestinian prisoner Dr. Azmi al-Dawahid declares that Israel will disappear and calls its destruction Allah’s promise, in a clip shared by Vivid.",
+    "source": false,
+    "standaloneTweets": [
+      "1978511100120367174"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2006-07-01",
+    "claimIds": [
+      "31g",
+      "31l",
+      "30y",
+      "27"
+    ],
+    "exampleId": "codex-20261011-099",
+    "keywordIds": [],
+    "text": "A Gazan woman says she has no problem with Hamas so long as it wipes Jews off the map, corrects herself to “Israel,” then asks what the difference is.",
+    "source": false,
+    "standaloneTweets": [
+      "1878909899402580079"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-08",
+    "claimIds": [
+      "31g",
+      "26"
+    ],
+    "exampleId": "codex-20261011-b2-001",
+    "keywordIds": [],
+    "text": "Hamas claims responsibility for an attempted kidnapping of an Israeli soldier in Gaza shortly before the October 2025 ceasefire; Ayn Reagan warns that hostage deals reward further kidnappings.",
+    "source": true,
+    "standaloneTweets": [
+      "1976483872310505652"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.timesofisrael.com/liveblog_entry/hamas-takes-responsibility-for-failed-attack-on-idf-in-south-gaza-hoped-to-kidnap-soldier/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-06",
+    "claimIds": [
+      "31g",
+      "31d"
+    ],
+    "exampleId": "codex-20261011-b2-014",
+    "keywordIds": [],
+    "text": "Gazans celebrate the October 7 massacre’s second anniversary; a speaker boasts, “On October 7th, we invaded you and trampled you with our boots.”",
+    "source": false,
+    "standaloneTweets": [
+      "1975354638561124699",
+      "1975330644621131801"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

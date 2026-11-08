@@ -297,5 +297,52 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-02",
+    "claimIds": [
+      "2"
+    ],
+    "exampleId": "codex-20261011-b2-052",
+    "keywordIds": [
+      "United Kingdom",
+      "Britain"
+    ],
+    "text": "ITV correspondent John Irvine links the Manchester synagogue attack to the interpretation of antizionists of Israel’s conduct, implicitly justifying the murder of British Jews based on their interpretation.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1973877859543646289"
+    ],
+    "usTweets": [
+      "1973694184751309196"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-02",
+    "claimIds": [
+      "2",
+      "13a"
+    ],
+    "exampleId": "codex-20261011-b2-043",
+    "keywordIds": [],
+    "text": "Rutgers lecturer Sabreena Ghaffar-Siddiqui says people should not be “surprised or horrified” by an attack on a Zionist synagogue and that hate toward Jews supporting Israel “would be valid,” blaming Israel for hatred of Jews worldwide.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1973771836253966739"
+    ],
+    "usTweets": [
+      "1974115111683137642",
+      "1973694184751309196"
+    ]
   }
 ]

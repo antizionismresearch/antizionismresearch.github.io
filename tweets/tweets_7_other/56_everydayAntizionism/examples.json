@@ -322,5 +322,26 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-18",
+    "claimIds": [
+      "56",
+      "28",
+      "21"
+    ],
+    "exampleId": "codex-20261011-026",
+    "keywordIds": [],
+    "text": "Students dressed like Hamas members disrupt October 7 survivor Yoni’s account at Pomona College, confronting a survivor of the attack on Kibbutz Mefalsim.",
+    "source": false,
+    "standaloneTweets": [
+      "1979486007318770101"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

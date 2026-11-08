@@ -71,5 +71,49 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.washingtonexaminer.com/news/1266294/we-will-chop-off-their-heads-young-girl-in-philadelphia-muslim-group-reads-bloodthirsty-poem/"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-24",
+    "claimIds": [
+      "31m",
+      "56",
+      "31o"
+    ],
+    "exampleId": "codex-20261009-049",
+    "keywordIds": [],
+    "text": "Langley High School’s Muslim Student Association posts a recruitment skit depicting hooded victims forced into a car trunk, making hostage-taking into entertainment after October 7.",
+    "source": true,
+    "standaloneTweets": [
+      "1983151908497101249"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.washingtonjewishweek.com/fairfax-county-schools-local-jewish-leaders-condemn-student-video-depicting-hostage-taking/"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-24",
+    "claimIds": [
+      "31m",
+      "56",
+      "31o"
+    ],
+    "exampleId": "codex-20261009-054",
+    "keywordIds": [],
+    "text": "Thomas Jefferson High School’s Muslim Student Association films a classroom skit in which students refusing an MSA meeting are dragged away while screaming that they are being kidnapped.",
+    "source": true,
+    "standaloneTweets": [
+      "1982639216392913252"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.washingtonjewishweek.com/fairfax-county-schools-local-jewish-leaders-condemn-student-video-depicting-hostage-taking/"
   }
 ]

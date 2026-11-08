@@ -1124,5 +1124,32 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.timesofisrael.com/israels-omri-haviv-wins-jiu-jitsu-gold-as-kazakh-rival-disqualified-for-illegal-kick/"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-28",
+    "claimIds": [
+      "44",
+      "31a",
+      "46",
+      "31c",
+      "53"
+    ],
+    "exampleId": "codex-20261009-010",
+    "keywordIds": [],
+    "text": "Hateful antizionist Evan Kilgore claims Gulf countries donated after Hurricane Ian destroyed parts of Florida in 2022, with Israel supposedly giving Florida nothing; Yoni Leviatan points to the IDF’s Surfside rescue work, while United Hatzalah has a Hurricane Ian relief mission photo.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1982868529725747268"
+    ],
+    "usTweets": [
+      "1983166879574487250",
+      "1983373389990633575"
+    ],
+    "sourceLink": "https://www.israaid.org/media/israaid-responds-to-hurricane-ian-in-florida/"
   }
 ]

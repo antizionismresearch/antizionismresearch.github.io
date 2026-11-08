@@ -733,5 +733,113 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://hk.news.yahoo.com/bbc-forced-correct-two-gaza-140000522.html"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-24",
+    "claimIds": [
+      "32",
+      "10"
+    ],
+    "exampleId": "codex-20261009-060",
+    "keywordIds": [],
+    "text": "A leaked BBC memo tells journalists the argument over how much aid entered Gaza is irrelevant; Yakoby criticizes the instruction for directing coverage against Israel.",
+    "source": true,
+    "standaloneTweets": [
+      "1981696483071299693"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://europeanconservative.com/articles/news-corner/bbc-reporters-instructed-to-blame-israel-for-gaza-hunger/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "32",
+      "52x"
+    ],
+    "exampleId": "codex-20261011-058-r1",
+    "keywordIds": [],
+    "text": "The BBC interviews the crying sister of Palestinian prisoner Murad Abu al-Rub without mentioning his four life sentences for involvement in a suicide bombing that killed four Israelis.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1978041373027692583",
+      "1978546461127123371"
+    ],
+    "usTweets": [
+      "1978041376110461321",
+      "1978041379004555732"
+    ],
+    "sourceLink": "https://www.jewishnews.co.uk/bbc-fails-to-tell-viewers-that-palestinian-prisoner-is-hamas-suicide-bomb-plotter/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-04",
+    "claimIds": [
+      "32",
+      "52x"
+    ],
+    "exampleId": "codex-20261011-b2-028",
+    "keywordIds": [],
+    "text": "Richard Tice highlights reporting that a BBC Gaza documentary ignored evidence of Hamas killing Palestinians in humanitarian aid queues, obscuring responsibility for their deaths.",
+    "source": false,
+    "standaloneTweets": [
+      "1974486134638924254"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-02",
+    "claimIds": [
+      "32",
+      "31a"
+    ],
+    "exampleId": "codex-20261011-b2-055",
+    "keywordIds": [],
+    "text": "A screenshot of BBC Russian coverage labels a photograph of a Tel Aviv market as Tehran; Hebrew signs expose the mismatch.",
+    "source": false,
+    "standaloneTweets": [
+      "1973759750098526368"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-02-17",
+    "claimIds": [
+      "32",
+      "55"
+    ],
+    "exampleId": "codex-20261011-b2-059",
+    "keywordIds": [],
+    "text": "The BBC subtitles praise for Yahya Sinwar’s “jihad against the Jews” as resistance to “Israeli forces,” removing the explicitly Jewish target from its Gaza documentary.",
+    "source": true,
+    "standaloneTweets": [
+      "1974070310501544347",
+      "1974046634880229562"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://hansard.parliament.uk/commons/2025-02-27/debates/89B386F6-B5B4-4013-B810-B1F4A4A1C741/GazaBBCCoverage"
   }
 ]

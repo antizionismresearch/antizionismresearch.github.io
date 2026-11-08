@@ -418,5 +418,49 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-16",
+    "claimIds": [
+      "6y",
+      "56"
+    ],
+    "exampleId": "codex-20261011-042",
+    "keywordIds": [
+      "Germany"
+    ],
+    "text": "Jewish schoolchildren in Munich leave school under armed police protection and reportedly at staggered times for their safety.",
+    "source": false,
+    "standaloneTweets": [
+      "1978930567056928814"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-10",
+    "claimIds": [
+      "6y",
+      "20",
+      "56",
+      "28"
+    ],
+    "exampleId": "codex-20261011-098",
+    "keywordIds": [],
+    "text": "Vandals deface Temple Israel in Minneapolis with “Watch out Zionists” and a red inverted triangle.",
+    "source": false,
+    "standaloneTweets": [
+      "1976713251577614380"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

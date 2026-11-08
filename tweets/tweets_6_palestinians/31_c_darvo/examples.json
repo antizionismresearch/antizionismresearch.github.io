@@ -1,5 +1,25 @@
 [
   {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-09",
+    "claimIds": [
+      "10",
+      "31c"
+    ],
+    "exampleId": "codex-20261011-b2-003",
+    "keywordIds": [],
+    "text": "A comparison contrasts Gaza journalist Bisan Owda’s photographs during famine claims with Evyatar David, an emaciated Israeli hostage held by Hamas who was forced to dig his own grave.",
+    "source": false,
+    "standaloneTweets": [
+      "1976282259167846697"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "2026-10-08",
     "date": "2025-11-04",
     "claimIds": [
@@ -390,5 +410,73 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2023-10-07",
+    "claimIds": [
+      "31c",
+      "42"
+    ],
+    "exampleId": "codex-20261009-088",
+    "keywordIds": [],
+    "text": "On October 7, 2023, Qatar’s foreign ministry holds Israel solely responsible for the escalation while Hamas is massacring Israelis and taking hostages.",
+    "source": true,
+    "standaloneTweets": [
+      "1710625372348576116"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://mofa.gov.qa/en/latest-articles/statements/qatar-expresses-concern-over-the-developments-in-gaza-strip-and-calls-for-de-escalation"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-20",
+    "claimIds": [
+      "31c",
+      "31a"
+    ],
+    "exampleId": "codex-20261009-095",
+    "keywordIds": [],
+    "text": "Eye on Palestine accuses Israeli soldiers of stealing a scooter in Nablus; a response compares the visible payment module with Israeli Lime rental scooters and identifies it as a stolen Israeli scooter.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1980393459895927134"
+    ],
+    "usTweets": [
+      "1980405366291587404"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-08",
+    "claimIds": [
+      "31c",
+      "1",
+      "10",
+      "17"
+    ],
+    "exampleId": "codex-20261011-b2-012",
+    "keywordIds": [],
+    "text": "Greta Thunberg shares a post about Palestinian prisoners’ suffering using Hamas footage of starved Israeli hostage Evyatar David, then quietly deletes the slide without apology, accountability or explanation after being called out. She doesn't care about famine, and she doesn't care about peace.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1975574089940242760"
+    ],
+    "nowTweets": [
+      "1975944871572652497"
+    ],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.jpost.com/diaspora/antisemitism/article-869703"
   }
 ]

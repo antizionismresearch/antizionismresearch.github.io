@@ -250,5 +250,27 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-16",
+    "claimIds": [
+      "1",
+      "17",
+      "45",
+      "41"
+    ],
+    "exampleId": "codex-20261011-050",
+    "keywordIds": [],
+    "text": "London School of Economics’ feminist society joins an open letter demanding cancellation of “A Quest for Justice – October 7 and Beyond,” an event about Hamas’s sexual violence, calling the Dinah Project event “egregious.” Antizionism consumes everything else.",
+    "source": false,
+    "standaloneTweets": [
+      "1978845328066453516"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

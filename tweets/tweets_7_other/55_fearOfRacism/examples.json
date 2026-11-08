@@ -158,5 +158,28 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-03",
+    "claimIds": [
+      "55",
+      "56"
+    ],
+    "exampleId": "codex-20261011-b2-040",
+    "keywordIds": [],
+    "text": "Good Morning Britain presenter Kate Garraway says the Manchester synagogue attacker’s religion and motive are unknown, despite being a Syrian named Jihad. The Tweets on the right are images from the attack, being blocked by Twitter's embed tool. Click through to see (WARNING: GRAPHIC).",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1973988008471798191"
+    ],
+    "usTweets": [
+      "1973694184751309196",
+      "1973695664283615437"
+    ]
   }
 ]

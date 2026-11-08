@@ -756,5 +756,229 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.aneeta.com/evidence-index"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-27",
+    "claimIds": [
+      "31o"
+    ],
+    "exampleId": "codex-20261009-013",
+    "keywordIds": [],
+    "text": "A man filmed in Arlington, Texas says people who reject Muhammad and people who leave Islam should be put to death.",
+    "source": false,
+    "standaloneTweets": [
+      "1982823524642468165"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-25",
+    "claimIds": [
+      "31o"
+    ],
+    "exampleId": "codex-20261009-014",
+    "keywordIds": [
+      "United Kingdom"
+    ],
+    "text": "In London street interviews, one man says he is ready to repeat the war in Syria in Britain; another says “we’re here to take over your country” and uphold Sharia law.",
+    "source": false,
+    "standaloneTweets": [
+      "1983190302522540220",
+      "1983089038790639863"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2014-01-16",
+    "claimIds": [
+      "31o"
+    ],
+    "exampleId": "codex-20261011-004",
+    "keywordIds": [],
+    "text": "British Islamist Abu Waleed advocates humiliating Christians and other non-Muslims under Islamic rule to pressure them to convert to Islam.",
+    "source": false,
+    "standaloneTweets": [
+      "1979783997392556093"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "1991-11-15",
+    "claimIds": [
+      "31o",
+      "30"
+    ],
+    "exampleId": "codex-20261011-011",
+    "keywordIds": [],
+    "text": "Brooklyn imam Siraj Wahhaj calls America “filthy” and “sick,” praises dying in jihad, and describes politics as a weapon for Islam in a compilation shared after Zohran Mamdani’s visit.",
+    "source": false,
+    "standaloneTweets": [
+      "1979996171759141120"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-18",
+    "claimIds": [
+      "31o",
+      "31i"
+    ],
+    "exampleId": "codex-20261011-024",
+    "keywordIds": [],
+    "text": "A Birmingham imam teaches how to stone a woman to death in footage Tommy Robinson contrasts with the city’s exclusion of Maccabi Tel Aviv supporters.",
+    "source": false,
+    "standaloneTweets": [
+      "1979511717152358681"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-09-24",
+    "claimIds": [
+      "31o",
+      "30",
+      "55"
+    ],
+    "exampleId": "codex-20261011-b2-025",
+    "keywordIds": [
+      "United Kingdom",
+      "Britain"
+    ],
+    "text": "British cleric Asrar Rashid advocates armed, preemptive jihad while warning Muslims about the “white man” and invoking Gaza and past genocides.",
+    "source": true,
+    "standaloneTweets": [
+      "1974815816773235132"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.meforum.org/fwi/fwi-news/radical-british-cleric-calls-for-preemptive-jihad-against-the-white-man"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-03",
+    "claimIds": [
+      "31o",
+      "30x"
+    ],
+    "exampleId": "codex-20261011-b2-041",
+    "keywordIds": [],
+    "text": "Manchester synagogue attacker Jihad al-Shamie’s father condemns his son’s “heinous act”; screenshots show his October 7, 2023 praise for the attackers as “men of God,” and later antizionist posts featuring Mehdi Hasan and Francesca Albanese.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1974086553812304120"
+    ],
+    "nowTweets": [
+      "1974111937568125123",
+      "1974099277808087284"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-03",
+    "claimIds": [
+      "31o"
+    ],
+    "exampleId": "codex-20261011-b2-058",
+    "keywordIds": [],
+    "text": "Former Punjab governor Chaudhry Sarwar calls in Glasgow for anti-blasphemy laws punishing insults to Muhammad, advocating imprisonment for critics of his religion.",
+    "source": false,
+    "standaloneTweets": [
+      "1974181072398397827"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-05-15",
+    "claimIds": [
+      "31o"
+    ],
+    "exampleId": "codex-20261011-b2-084",
+    "keywordIds": [],
+    "text": "Yossi BenYakar shares a cleric’s speech as an Islamist plan to build a nationwide network and impose sharia in America.",
+    "source": false,
+    "standaloneTweets": [
+      "1922918022588576060"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2011-05-28",
+    "claimIds": [
+      "31o"
+    ],
+    "exampleId": "codex-20261011-b2-090",
+    "keywordIds": [],
+    "text": "Yossi BenYakar presents a clip of imam Omar Suleiman advocating replacing the US Constitution with sharia.",
+    "source": false,
+    "standaloneTweets": [
+      "1973385365588238420"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-07-18",
+    "claimIds": [
+      "31o"
+    ],
+    "exampleId": "codex-20261011-b2-097",
+    "keywordIds": [],
+    "text": "Imam Saleh Abouelenen teaches men to hit disobedient wives during Friday prayers at Al Rahma mosque in Kristianstad, Sweden.",
+    "source": false,
+    "standaloneTweets": [
+      "1973346857033081295"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

@@ -1,5 +1,26 @@
 [
   {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "26",
+      "30w",
+      "56"
+    ],
+    "exampleId": "codex-20261011-060",
+    "keywordIds": [],
+    "text": "A street poster declares that a ceasefire does not matter and “We don’t stop until Israel ceases to exist.”",
+    "source": false,
+    "standaloneTweets": [
+      "1978469479504880090"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "",
     "date": "2026-01-13",
     "claimIds": [
@@ -166,6 +187,47 @@
     "source": false,
     "standaloneTweets": [
       "1984165012865417405"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-27",
+    "claimIds": [
+      "30w",
+      "27"
+    ],
+    "exampleId": "codex-20261009-035-r1",
+    "keywordIds": [],
+    "text": "Palestinian novelist Susan Abulhawa calls to wipe Israel off the map and describes Israelis as “soulless, cultureless, demonic parasites.”",
+    "source": false,
+    "standaloneTweets": [
+      "1983066567504974149"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-09",
+    "claimIds": [
+      "30w",
+      "26",
+      "31c"
+    ],
+    "exampleId": "codex-20261011-094",
+    "keywordIds": [],
+    "text": "Antizionist poster Omar, @thegingarab, writes: “A ceasefire is cool but wiping ‘israel’ off the world map is even better.”",
+    "source": false,
+    "standaloneTweets": [
+      "1976334179806613763"
     ],
     "thenVsNowFormat": false,
     "thenTweets": [],

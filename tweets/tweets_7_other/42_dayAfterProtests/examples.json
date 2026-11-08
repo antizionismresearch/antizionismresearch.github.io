@@ -329,5 +329,26 @@
     ],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2023-10-08",
+    "claimIds": [
+      "42",
+      "54",
+      "28"
+    ],
+    "exampleId": "codex-20261009-048",
+    "keywordIds": [],
+    "text": "Antizionists to Bernie Sanders after he condemns the Hamas and Palestinian Islamic Jihad attacks on Israel. \"Shut up Bernie.\"",
+    "source": false,
+    "standaloneTweets": [
+      "1983157326841557073"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

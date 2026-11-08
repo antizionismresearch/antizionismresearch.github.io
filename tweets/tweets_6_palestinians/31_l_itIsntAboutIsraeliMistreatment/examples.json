@@ -207,5 +207,29 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.memri.org/node/65994/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-01",
+    "claimIds": [
+      "31l",
+      "44",
+      "31g",
+      "31d",
+      "27"
+    ],
+    "exampleId": "codex-20261011-b2-082",
+    "keywordIds": [],
+    "text": "Palestinian Wafa al-Biss receives burn treatment in Israel, then tries to bomb the hospital treating her; reporter Leland Vittert recounts her continued support for killing Israelis after her release.",
+    "source": false,
+    "standaloneTweets": [
+      "1973444362542653507",
+      "1973197830388064423"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

@@ -38,5 +38,28 @@
     "usTweets": [
       "2012882710440694002"
     ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "19",
+      "54"
+    ],
+    "exampleId": "codex-20261011-045",
+    "keywordIds": [
+      "Doctor"
+    ],
+    "text": "Jewish Voice for Peace claims to speak for Jews, but Lebanon-based Facebook administrators and a screenshot of co-founder Dr. Hatem Bazian writing “As Jews” from his own Twitter account when he thought he was logged into the JVP account contradict that. Oops!",
+    "source": false,
+    "standaloneTweets": [
+      "1978557098100167126",
+      "1978532575191666848"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

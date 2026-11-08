@@ -13,5 +13,26 @@
     ],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2024-05-10",
+    "claimIds": [
+      "30",
+      "31o",
+      "31l"
+    ],
+    "exampleId": "codex-20261009-024",
+    "keywordIds": [],
+    "text": "British Muslim Mohammed Hijab describes jihad as expansion and conquest and says Jews and Christians must be fought until they pay jizya.",
+    "source": false,
+    "standaloneTweets": [
+      "1788871534653657242"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

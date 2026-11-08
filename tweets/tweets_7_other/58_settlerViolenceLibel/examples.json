@@ -1,0 +1,136 @@
+[
+  {
+    "dateAdded": "",
+    "date": "2026-09-20",
+    "claimIds": [
+      "58"
+    ],
+    "exampleId": "000058001",
+    "keywordIds": [
+      "Settler violence"
+    ],
+    "text": "One Israeli was killed when a Palestinian gunman opened fire on bathers at a natural spring near Neveh Tzuf. Footage below shows those at the site scrambling for cover as the shooting began.",
+    "standaloneTweets": [
+      "2101634079162573157"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-09-16",
+    "claimIds": [
+      "58"
+    ],
+    "exampleId": "000058002",
+    "keywordIds": [],
+    "text": "Anti-settler violence is completely acceptable to UK, et all. Jewish shepherds face daily violence, but since European countries say their very presence in their land is a crime, you won't hear complaints about attempts to ethnically cleanse them.",
+    "standaloneTweets": [
+      "2100203104847212951"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-10-16",
+    "claimIds": [
+      "58"
+    ],
+    "exampleId": "000058003",
+    "keywordIds": [],
+    "text": "Israelis injured as Palestinian Arab rioters set fire to Jewish farm: Several Israelis lightly injured as Palestinian Arab rioters throw rocks, launch fireworks, and torch farmland in Binyamin; regional council accuses Palestinian Authority of direct involvement.",
+    "source": true,
+    "sourceLink": "https://www.israelnationalnews.com/news/434722",
+    "standaloneTweets": [
+      "2111162578743279877"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-10-11",
+    "claimIds": [
+      "58",
+      "31c"
+    ],
+    "exampleId": "000058004",
+    "keywordIds": [],
+    "text": "The Israeli settlers are not poisoning their own sheep  so that they can later accuse Palestinians!!! Here is Evyatar Caro from the Metzudat David farm (a farm coordinated with the army in Area C), who was filmed in the Palestinian blood libel video holding the bottle that the Palestinians claimed was poison. Caro explains that the bottle contains charcoal water, which helps the sheep overcome the poison that Palestinians from al-Mughayyir in the Ramallah district hide in dates and pitas in order to poison the sheep.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "themTweets": [
+      "2110015201554694345",
+      "2109696620132512077"
+    ],
+    "usTweets": [
+      "2109603635780813228"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-10-10",
+    "claimIds": [
+      "58"
+    ],
+    "exampleId": "000058005",
+    "keywordIds": [],
+    "text": "Under cover of the olive harvest, Arab rioters attacked the young shepherd of Givat Shirat Tzion in Samaria with clubs and stones. A stone struck his head — MDA medics treated him at the scene.",
+    "source": false,
+    "standaloneTweets": [
+      "2109315880131739701"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-10-11",
+    "claimIds": [
+      "58"
+    ],
+    "exampleId": "000058006",
+    "keywordIds": [],
+    "text": "Another lynching this morning: Dozens of Arab rioters from the village of Ramin pelted Jews with stones in the grazing areas of Brit Avraham. A Jew was injured in his head and evacuated by Ranger, 4 more injured on site.",
+    "source": false,
+    "standaloneTweets": [
+      "2107829733937324282"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-10-16",
+    "claimIds": [
+      "58",
+      "32",
+      "52x"
+    ],
+    "exampleId": "000058007",
+    "keywordIds": [],
+    "text": "Bull**** antizionist one-way narrative. A perfect example of staging -- not that it was false, but it was contrived to tell a particular story which is antizionist. A Washington Post photojournalist was attacked with Palestinians by Israelis in Judea and Samaria, and it is an international story. When incidents of 'reverse settler violence', that is, violence from Palestinians against Jews from the the previous 10 days, there was no coverage at all. Last month, one Israeli was killed when Palestinains opened fire at a natural spring in Neveh Tzuf. THAT is what is happening in the West Bank, Judea and Samaria. No coverage in Western media existed. Those incidents are just taken for granted. They are not reported on at all, they simply do not move people.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "2101634079162573157",
+      "2111162578743279877",
+      "2109603635780813228"
+    ],
+    "nowTweets": [
+      "2111091840606724372",
+      "2111165267304751576",
+      "2111065477933904205",
+      "2111091381963800922",
+      "2111150217990987802"
+    ]
+  }
+]

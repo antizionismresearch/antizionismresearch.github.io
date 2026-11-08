@@ -302,5 +302,177 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-06-10",
+    "claimIds": [
+      "28",
+      "31o",
+      "56"
+    ],
+    "exampleId": "codex-20261009-068",
+    "keywordIds": [],
+    "text": "A Palestinian woman interviewed in Canada says she supports Hamas, calls its members the true fighters for Palestine and adds “alhamdulillah.”",
+    "source": false,
+    "standaloneTweets": [
+      "1981012673593762170"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-18",
+    "claimIds": [
+      "28",
+      "56",
+      "21",
+      "16",
+      "52",
+      "30x"
+    ],
+    "exampleId": "codex-20261011-017",
+    "keywordIds": [],
+    "text": "At Seattle’s No Kings march, a protester shouts “Long live October 7” and tells journalist Brandi Kruse that the massacre’s rapes and murders were Israeli propaganda. So Oct. 7 was a great day, but also it never happened and was Israeli propaganda.",
+    "source": false,
+    "standaloneTweets": [
+      "1979741435676229876"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2024-12-09",
+    "claimIds": [
+      "28",
+      "24",
+      "56"
+    ],
+    "exampleId": "codex-20261011-b2-005",
+    "keywordIds": [],
+    "text": "Fliers reading “Oct. 7 do it again” were found scattered through Melbourne, Australia.",
+    "source": false,
+    "standaloneTweets": [
+      "1866331307250500037"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-06",
+    "claimIds": [
+      "28"
+    ],
+    "exampleId": "codex-20261011-b2-020",
+    "keywordIds": [],
+    "text": "A London Palestine fundraiser refuses to discuss freeing Palestinians from Hamas, tells the questioner to leave, and claims Israel killed “687,000 Palestinians.”",
+    "source": false,
+    "standaloneTweets": [
+      "1975081547662537208"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-05",
+    "claimIds": [
+      "28",
+      "56",
+      "31m"
+    ],
+    "exampleId": "codex-20261011-b2-023",
+    "keywordIds": [
+      "Canada"
+    ],
+    "text": "Canadian antizionist Firas al Najim leads chants that “October 7 was justified,” with a child beside him joining the demonstration.",
+    "source": false,
+    "standaloneTweets": [
+      "1974863772574445609"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2024-10-07",
+    "claimIds": [
+      "28",
+      "56"
+    ],
+    "exampleId": "codex-20261011-b2-046",
+    "keywordIds": [],
+    "text": "A Bergen, Norway rally poster urges “Support Palestinian resistance” and celebrates one year of “Al-Aqsa Flood,” Hamas’s name for the October 7 massacre.",
+    "source": false,
+    "standaloneTweets": [
+      "1974038398705750197"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-09-28",
+    "claimIds": [
+      "28",
+      "51",
+      "56",
+      "5"
+    ],
+    "exampleId": "codex-20261011-b2-086",
+    "keywordIds": [],
+    "text": "An antizionist crowd boos Reggio Emilia mayor Marco Massari and shouts “shame” when he calls for the release of Israeli hostages while honoring UN rapporteur Francesca Albanese.",
+    "source": true,
+    "standaloneTweets": [
+      "1973535387055427935"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.reggioreport.it/2025/09/teatro-valli-finisce-in-gazzarra-pro-hamas-il-primo-tricolore-a-francesca-albanese-video-urla-e-fischi-al-sindaco-massariche-chiede-la-restituzione-degli-ostaggi/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-05-01",
+    "claimIds": [
+      "28",
+      "31d"
+    ],
+    "exampleId": "codex-20261011-b2-092",
+    "keywordIds": [],
+    "text": "Palestinian journalist and former Columbia professor Ahmed Shihab-Eldin refuses Piers Morgan’s request to call on Hamas to release the Israeli hostages.",
+    "source": true,
+    "standaloneTweets": [
+      "1973378325310574767"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://podcasts.apple.com/us/podcast/sharon-osbourne-demands-glastonbury-bans-kneecap-with/id1618445014?i=1000705783312"
   }
 ]

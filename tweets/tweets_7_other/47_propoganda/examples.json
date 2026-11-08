@@ -218,5 +218,45 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-22",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261009-081",
+    "keywordIds": [],
+    "text": "Joe Truzman exposes a synthetic Gaza news report claiming Israeli ceasefire strikes caused mass casualties.",
+    "source": false,
+    "standaloneTweets": [
+      "1980867742086623546",
+      "1980867744108302418"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-22",
+    "claimIds": [
+      "47",
+      "14"
+    ],
+    "exampleId": "codex-20261009-084",
+    "keywordIds": [],
+    "text": "Multiple accounts post identical claims that Jews engineered Charlie Kirk’s killing as a distraction, alongside references to September 11.",
+    "source": false,
+    "standaloneTweets": [
+      "1980973586228879765"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

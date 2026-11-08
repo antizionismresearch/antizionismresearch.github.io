@@ -204,5 +204,27 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-26",
+    "claimIds": [
+      "31i"
+    ],
+    "exampleId": "codex-20261009-057",
+    "keywordIds": [],
+    "text": "A Grok exchange highlights child marriage in Muslim-majority Niger, Chad and Mali and racism in Muslim countries Lebanon, Bahrain, Libya and Egypt.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1982467971210793151"
+    ],
+    "usTweets": [
+      "1982467837642911908"
+    ],
+    "sourceLink": "https://www.unicef.org/press-releases/high-level-meeting-accelerating-progress-ending-child-marriage-africa"
   }
 ]

@@ -329,5 +329,127 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-28",
+    "claimIds": [
+      "46",
+      "14"
+    ],
+    "exampleId": "codex-20261009-008",
+    "keywordIds": [],
+    "text": "Hamas stages a hostage-body recovery for the Red Cross so they can make it seem like they \"discovered\" a new hostage body, like they're trying so hard to cooperate; \"journalist\" Motasem Dalloul blames Israeli agents despite the drone footage and the ICRC’s own condemnation of the fake recovery.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1983221669322748178"
+    ],
+    "usTweets": [
+      "1983173294238118272",
+      "1983215902280610014",
+      "1983283282466033697",
+      "1983216605023617193",
+      "1983466197543788881"
+    ],
+    "sourceLink": "https://www.icrc.org/en/statement/israel-and-occupied-territories-icrc-response-staged-recovery-deceased-gaza"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-21",
+    "claimIds": [
+      "46",
+      "31a",
+      "47"
+    ],
+    "exampleId": "codex-20261009-083",
+    "keywordIds": [],
+    "text": "UNN claims Tommy Robinson was intimidated during an Israel trip; Robinson rejects the story as made up.",
+    "source": false,
+    "standaloneTweets": [
+      "1980732167140393007"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-20",
+    "claimIds": [
+      "46"
+    ],
+    "exampleId": "codex-20261009-094",
+    "keywordIds": [],
+    "text": "Tucker Carlson promotes a claim that COVID-19 was engineered to spare Ashkenazi Jews; Ted Cruz mocks the implication of a Jewish role in coronavirus at the Wuhan laboratory.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1980361344177312161"
+    ],
+    "usTweets": [
+      "1980472252014760339"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2023-09-14",
+    "claimIds": [
+      "46",
+      "17"
+    ],
+    "exampleId": "codex-20261009-052-r1",
+    "keywordIds": [],
+    "text": "Zohran Mamdani says the NYPD’s boot on New Yorkers’ necks is “laced by the IDF”; Haviv Rettig Gur identifies the claim as blaming Jews for American policing.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1982974662175752646"
+    ],
+    "usTweets": [
+      "1983081087162105945",
+      "1479007631373221891",
+      "1752805407314018583",
+      "1983509844775612681"
+    ],
+    "sourceLink": "https://www.jewishnews.co.uk/nyc-mayoral-front-runner-mamdani-dodges-questions-over-nypd-idf-comments/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-12",
+    "claimIds": [
+      "46",
+      "31c"
+    ],
+    "exampleId": "codex-20261011-082-r1",
+    "keywordIds": [
+      "Mr. FAFO",
+      "Mr FAFO"
+    ],
+    "text": "Antizionist account @missfalsteenia blames Israel for Gaza and Hamas propagandist Saleh al-Jafarawi’s (Mr. FAFO) death. Palestinian gunmen killed him during clashes between Hamas and local armed groups; even Al Jazeera reports that Gazan gunmen shot him, while Eli Lake exposes the blame directed at Israel.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1977433903427129473"
+    ],
+    "usTweets": [
+      "1977459499494433106",
+      "1977772725033988344"
+    ],
+    "sourceLink": "https://cpj.org/data/people/saleh-aljafarawi/"
   }
 ]

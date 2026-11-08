@@ -410,5 +410,74 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-16",
+    "claimIds": [
+      "18",
+      "6y",
+      "56"
+    ],
+    "exampleId": "codex-20261011-033",
+    "keywordIds": [],
+    "text": "Malmö’s Jewish International Film Festival is postponed after organizers cannot secure a cinema, with venues citing security concerns.",
+    "source": false,
+    "standaloneTweets": [
+      "1978767899729772914"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2024-04-13",
+    "claimIds": [
+      "18",
+      "56"
+    ],
+    "exampleId": "codex-20261011-b2-036",
+    "keywordIds": [
+      "Britain",
+      "England"
+    ],
+    "text": "A London police officer calls Gideon Falter “openly Jewish” and threatens arrest if he refuses to leave the area of an antizionist march.",
+    "source": true,
+    "standaloneTweets": [
+      "1974096845858087415"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://apnews.com/article/e76103e4d8108b55f49e8907287de859"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-01",
+    "claimIds": [
+      "18",
+      "56",
+      "30y",
+      "5"
+    ],
+    "exampleId": "codex-20261011-b2-093",
+    "keywordIds": [
+      "Australia"
+    ],
+    "text": "A man on a Melbourne tram tells a Jewish passenger wearing a kippah, “No Jews allowed on the tram. Get off. Free Palestine.”",
+    "source": false,
+    "standaloneTweets": [
+      "1973343192688021999"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

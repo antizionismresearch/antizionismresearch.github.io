@@ -197,5 +197,165 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-20",
+    "claimIds": [
+      "31f",
+      "51"
+    ],
+    "exampleId": "codex-20261009-093",
+    "keywordIds": [],
+    "text": "Palestinian Authority reporting says Hamas is using schools and hospitals to interrogate Gazan opponents and rebuild its control during the ceasefire.",
+    "source": true,
+    "standaloneTweets": [
+      "1980406149594902817"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://palwatch.org/page/41622"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-18",
+    "claimIds": [
+      "31f",
+      "17",
+      "51"
+    ],
+    "exampleId": "codex-20261011-012",
+    "keywordIds": [
+      "Ana Kasparian",
+      "Cenk Uygur",
+      "Mehdi Hasan"
+    ],
+    "text": "Posts document Hamas’s renewed crackdown after the October 2025 ceasefire, including public executions and torture of Palestinians; Gazans appeal for outside intervention.",
+    "source": false,
+    "standaloneTweets": [
+      "1979171880557822144",
+      "1978901678465200575",
+      "1979684091181289708",
+      "1979611989564633097"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-16",
+    "claimIds": [
+      "31f",
+      "51"
+    ],
+    "exampleId": "codex-20261011-029",
+    "keywordIds": [],
+    "text": "Gazan dissident Hamza Howidy reports that Hamas is holding missing influencers and activists inside Nasser and Al-Aqsa hospitals as makeshift detention and interrogation sites.",
+    "source": false,
+    "standaloneTweets": [
+      "1979043091379056889"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "31f",
+      "12",
+      "51",
+      "17"
+    ],
+    "exampleId": "codex-20261011-038",
+    "keywordIds": [],
+    "text": "Gazan dissident Hamza Howidy reports that Hamas executed a mother and her two young sons after their father joined an anti-Hamas militia; Alex Gideon criticizes the lack of attention to Hamas killing Palestinian children.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1978565985738117391"
+    ],
+    "usTweets": [
+      "1978666690427699480"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-16",
+    "claimIds": [
+      "31f",
+      "51"
+    ],
+    "exampleId": "codex-20261011-047",
+    "keywordIds": [],
+    "text": "Footage shared by Voice From The East is described as Hamas’s Arrow Unit breaking Gazan civilians’ legs with metal tubes. Tweet is censored on embed, click through to see video.",
+    "source": false,
+    "standaloneTweets": [
+      "1978733354078838958"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-14",
+    "claimIds": [
+      "31f",
+      "11"
+    ],
+    "exampleId": "codex-20261011-068",
+    "keywordIds": [],
+    "text": "Gaza journalist Motasem Dalloul justifies Hamas’s public executions by branding the victims Israeli collaborators who steal aid and sabotage Gaza; Adin Haykin: 0 photos of IDF soldiers executing Palestinians like this in the \"most documented genocide everrr\"",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1977938982714392869"
+    ],
+    "usTweets": [
+      "1978141701706289397"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-14",
+    "claimIds": [
+      "31f",
+      "51",
+      "31d",
+      "26"
+    ],
+    "exampleId": "codex-20261011-072",
+    "keywordIds": [],
+    "text": "Hamas’s Arrow Unit announces executions of Doghmush clan members after the ceasefire; posts show and condemn Hamas’s renewed killing and torture of Gazans. And see the crowd of Palestinians including children watching. Posts not all visible on embed, click through to see multiple videos.",
+    "source": false,
+    "standaloneTweets": [
+      "1977798702036066543",
+      "1977807679314895324",
+      "1978178259012509980",
+      "1977831803580023287"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

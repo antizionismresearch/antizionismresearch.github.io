@@ -5,7 +5,7 @@ import PageRouter from './components/router.jsx';
 
 export default function Home() {
   return (
-    <Router base="/antizionism">
+    <Router base="/">
       <div className="site-shell">
         <a className="skip-link" href="#main-content">Skip to entry</a>
         <header className="site-header">

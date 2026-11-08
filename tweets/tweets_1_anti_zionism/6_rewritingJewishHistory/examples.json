@@ -254,5 +254,27 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.jns.org/u.s.-news/bay-area-districts-map-deleting-israel-discriminated-against-jews-california-ed-dept-says"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-04",
+    "claimIds": [
+      "6",
+      "31a",
+      "0000009009",
+      "27"
+    ],
+    "exampleId": "codex-20261011-b2-034",
+    "keywordIds": [],
+    "text": "The Young Turks host Cenk Uygur claims Muslims and Jews got along well in the Middle East until 1948; a community note points out his erasure of discriminatory dhimmi laws and anti-Jewish massacres.",
+    "source": false,
+    "standaloneTweets": [
+      "1974284249567027659"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

@@ -224,7 +224,8 @@
     "claimIds": [
       "24",
       "6z",
-      "56"
+      "56",
+      "13a"
     ],
     "exampleId": "codex-20261005-next100-036",
     "keywordIds": [],
@@ -323,5 +324,145 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://alford.house.gov/UploadedFiles/Islamic_Center_of_Kansas_Letter.pdf"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-16",
+    "claimIds": [
+      "24",
+      "6y",
+      "18",
+      "56",
+      "31o"
+    ],
+    "exampleId": "codex-20261011-028",
+    "keywordIds": [
+      "United Kingdom",
+      "Britain"
+    ],
+    "text": "Birmingham preacher Asrar Rashid urges showing “no mercy” to visiting Maccabi Tel Aviv supporters; West Midlands authorities bar the club’s away fans from the Aston Villa match.",
+    "source": false,
+    "standaloneTweets": [
+      "1978898681475600620",
+      "1979079540711346352"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-08",
+    "claimIds": [
+      "24",
+      "28",
+      "56",
+      "42"
+    ],
+    "exampleId": "codex-20261011-b2-007",
+    "keywordIds": [],
+    "text": "‘Glory to Hamas’ and ‘Oct 7, Do it Again’ graffiti scrawled in Sydney and Melbourne, Australia.",
+    "source": false,
+    "standaloneTweets": [
+      "1975421665543921748"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-08",
+    "claimIds": [
+      "24",
+      "56",
+      "28",
+      "6z"
+    ],
+    "exampleId": "codex-20261011-b2-008",
+    "keywordIds": [],
+    "text": "A Montreal airport shuttle driver calls Jewish passengers “Zionist piece of shit”; he also threatened to decapitate their family “like Hamas.”",
+    "source": false,
+    "standaloneTweets": [
+      "1976054130507481403"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-07",
+    "claimIds": [
+      "24",
+      "28",
+      "31p",
+      "56",
+      "42"
+    ],
+    "exampleId": "codex-20261011-b2-009",
+    "keywordIds": [],
+    "text": "At an October 7 rally in New York, a speaker declares, “We did not act enough” and promises to return “stronger than we did the first October 7th,” as Hamas flags appear in the crowd.",
+    "source": false,
+    "standaloneTweets": [
+      "1975765993075908636"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-07",
+    "claimIds": [
+      "24",
+      "5",
+      "56",
+      "52",
+      "30y",
+      "LiberalGestapo",
+      "42"
+    ],
+    "exampleId": "codex-20261011-b2-010",
+    "keywordIds": [],
+    "text": "At a New York October 7 rally, a protester carrying a transgender/Palestinian flag tells interviewer Nate Friedman, “We need to kill all the Jews and put them in fast-food chain ovens.”",
+    "source": false,
+    "standaloneTweets": [
+      "1975744776268829095"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-09-13",
+    "claimIds": [
+      "24",
+      "56"
+    ],
+    "exampleId": "codex-20261011-b2-072",
+    "keywordIds": [],
+    "text": "Bob Vylan frontman Bobby Vylan tells an Amsterdam audience, “Fuck the Zionists,” urging them to fight Zionists and meet them in the streets.",
+    "source": true,
+    "standaloneTweets": [
+      "1973694997234114602"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://nos.nl/artikel/2582406-tientallen-meldingen-en-aangiften-na-optreden-bob-vylan-in-amsterdam"
   }
 ]

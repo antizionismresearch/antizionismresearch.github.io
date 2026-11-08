@@ -1,5 +1,27 @@
 [
   {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-12",
+    "claimIds": [
+      "26",
+      "45",
+      "48a",
+      "48"
+    ],
+    "exampleId": "codex-20261011-077",
+    "keywordIds": [],
+    "text": "Secretary of State Marco Rubio says British and French recognition of Palestinian statehood caused Israel–Hamas ceasefire negotiations to collapse because Hamas was empowered.",
+    "source": false,
+    "standaloneTweets": [
+      "1977569225696038963"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "",
     "date": "2018-10-02",
     "claimIds": [
@@ -346,5 +368,24 @@
       "1887174023270043743",
       "1887174025014575571"
     ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-06-22",
+    "claimIds": [
+      "45"
+    ],
+    "exampleId": "codex-20261011-076",
+    "keywordIds": [],
+    "text": "Representative Marjorie Taylor Greene predicts World War III, nuclear war and flag-draped coffins after the U.S. strikes Iran in Operation Midnight Hammer. Didn't quite work out that way.",
+    "source": false,
+    "standaloneTweets": [
+      "1977860691135451412"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

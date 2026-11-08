@@ -281,5 +281,77 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://news.met.police.uk/news/boy-charged-after-kenton-synagogue-arson-attack-508459"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "22",
+      "6y",
+      "18",
+      "56"
+    ],
+    "exampleId": "codex-20261011-041",
+    "keywordIds": [
+      "Spain"
+    ],
+    "text": "Antizionists surround Hapoel Jerusalem’s hotel after its EuroCup game near Barcelona, blocking access and forcing Israeli players to travel under police protection.",
+    "source": false,
+    "standaloneTweets": [
+      "1978727046084792572"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-02",
+    "claimIds": [
+      "22",
+      "5",
+      "56"
+    ],
+    "exampleId": "codex-20261011-b2-049",
+    "keywordIds": [
+      "New York City"
+    ],
+    "text": "Safta, a Jewish eatery in Crown Heights, Brooklyn, is vandalized on Yom Kippur with antizionist graffiti.",
+    "source": false,
+    "standaloneTweets": [
+      "1974183823534666047"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-03",
+    "claimIds": [
+      "22",
+      "24",
+      "20",
+      "56",
+      "5"
+    ],
+    "exampleId": "codex-20261011-b2-056",
+    "keywordIds": [
+      "Germany"
+    ],
+    "text": "Berlin flyers target Jewish bar owners under “Make Zionists Afraid,” saying they should not feel safe anywhere and demanding they be “silenced forever.”",
+    "source": false,
+    "standaloneTweets": [
+      "1974079310639346048"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

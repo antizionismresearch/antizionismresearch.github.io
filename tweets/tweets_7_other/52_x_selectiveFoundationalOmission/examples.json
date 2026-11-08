@@ -1,5 +1,29 @@
 [
   {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-24",
+    "claimIds": [
+      "7",
+      "52x",
+      "0000009009",
+      "31c"
+    ],
+    "exampleId": "codex-20261009-061-r1",
+    "keywordIds": [],
+    "text": "Ahmed Ashour says his family left Jaffa in 1948 expecting to return the next day; Adin asks what they expected to happen before that return. They expected the Jews to be killed so they could return. This is the fake Nakba they claim. If they were truly ejected by Israel, there would be no reason for them to hope \"to return the next day.\" They expected the Arabs to completely wipe out the Jews. ",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1981475595214114834"
+    ],
+    "usTweets": [
+      "1981605809646702594"
+    ]
+  },
+  {
     "dateAdded": "",
     "date": "2026-04-24",
     "claimIds": [
@@ -160,5 +184,100 @@
     "usTweets": [
       "1987804541568327822"
     ]
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2015-02-17",
+    "claimIds": [
+      "52x",
+      "47"
+    ],
+    "exampleId": "codex-20261009-096",
+    "keywordIds": [
+      "Rock throwing",
+      "Throwing rocks"
+    ],
+    "text": "A response to “he only threw a rock” recalls four-year-old Adele Biton, who died after a Palestinian rock attack caused the car carrying her to crash.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1980258340178403430"
+    ],
+    "usTweets": [
+      "1980426858077573248"
+    ],
+    "sourceLink": "https://www.jpost.com/arab-israeli-conflict/five-year-old-girl-hurt-in-2013-rock-throwing-terror-attack-dies-391317"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "52x",
+      "30x"
+    ],
+    "exampleId": "codex-20261011-053",
+    "keywordIds": [],
+    "text": "Political economist Ashok Kumar celebrates released novelist Bassem Khandaqji without mentioning his three life sentences for helping carry out the 2004 Carmel Market bombing: he drove the teenage bomber to Tel Aviv using a journalist ID to pass checkpoints; three Israelis were killed.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1978084399909388470"
+    ],
+    "usTweets": [
+      "1978352319352713539"
+    ],
+    "sourceLink": "https://www.ynetnews.com/culture/article/h1qnk2fnt"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "52x"
+    ],
+    "exampleId": "codex-20261011-064",
+    "keywordIds": [],
+    "text": "Antizionist Richard Medhurst calls Samir Abu Nimeh a Palestinian “hostage” without mentioning his involvement in a bus bombing that killed six Israelis and a grenade attack that killed another.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1977627601620603322"
+    ],
+    "usTweets": [
+      "1978413778912804977",
+      "1978220092811837630"
+    ],
+    "sourceLink": "https://palwatch.org/page/29726"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-14",
+    "claimIds": [
+      "52x"
+    ],
+    "exampleId": "codex-20261011-057-r1",
+    "keywordIds": [],
+    "text": "Censored Humans portrays Mahmoud Issa through his long imprisonment and solitary confinement, omitting his kidnapping and murder of Israeli police officer Nissim Toledano.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1977737151971258788"
+    ],
+    "usTweets": [
+      "1978163255546691904",
+      "1976780326094721033"
+    ],
+    "sourceLink": "https://apnews.com/article/4ff433ea39a313c1937d1c0a577efaf4"
   }
 ]

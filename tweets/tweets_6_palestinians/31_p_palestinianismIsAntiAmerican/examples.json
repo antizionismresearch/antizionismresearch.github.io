@@ -52,5 +52,27 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-03-19",
+    "claimIds": [
+      "31p",
+      "31o",
+      "41"
+    ],
+    "exampleId": "codex-20261011-b2-100",
+    "keywordIds": [],
+    "text": "At a Dearborn Heights fundraiser for the Middle East Children’s Alliance organized with Palestinian Youth Movement, a speaker says the American empire must fall and that people in America are willing to fight and risk their lives to bring it down.",
+    "source": true,
+    "standaloneTweets": [
+      "1972673917539283066"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://vimeo.com/1076067438"
   }
 ]

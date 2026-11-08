@@ -1,5 +1,27 @@
 [
   {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-09",
+    "claimIds": [
+      "26",
+      "30x",
+      "11",
+      "47"
+    ],
+    "exampleId": "codex-20261011-096",
+    "keywordIds": [],
+    "text": "Antizionist commentator Alon Mizrahi calls Gaza a Holocaust before the ceasefire, then calls Hamas’s acceptance a “catastrophic mistake” made “a minute from victory.”",
+    "source": false,
+    "standaloneTweets": [
+      "1976546814867407022"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "2026-10-01",
     "date": "2026-04-30",
     "claimIds": [
@@ -109,7 +131,7 @@
     ],
     "exampleId": "00000030x03",
     "keywordIds": [],
-    "text": "The Oakland City Council voted on a resolution to call for a ceasefire. A city council member tried to insert language condemning Hamas. This was the reaction:'There have not been beheadings of babies and rapings.' 'Calling Hamas terrorist is ridiculous, racist, and plays into genocidal propoganda.' 'The IDF killed most of the people on that day.' 'Asking to condemn Hamas is anti-Arab racism' 'That this was a massacre of Jews is a fabricated narrative.' 'Did anyone notice that those who oppose this resolution are old white supremacists?' 'Hamas is a resistance organization fighting for liberation.'",
+    "text": "The Oakland City Council voted on a resolution to call for a ceasefire. A city council member tried to insert language condemning Hamas. This was the reaction:'There have not been beheadings of babies and rapings.' 'Calling Hamas terrorist is ridiculous, racist, and plays into genocidal propaganda.' 'The IDF killed most of the people on that day.' 'Asking to condemn Hamas is anti-Arab racism' 'That this was a massacre of Jews is a fabricated narrative.' 'Did anyone notice that those who oppose this resolution are old white supremacists?' 'Hamas is a resistance organization fighting for liberation.'",
     "source": false,
     "sourceLink": "",
     "standaloneTweets": [
@@ -612,6 +634,137 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://townhall.com/news/amy-curtis/2026/09/28/crowd-sings-from-river-to-the-sea-at-aoc-event-n2683687"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-28",
+    "claimIds": [
+      "30x"
+    ],
+    "exampleId": "codex-20261009-009",
+    "keywordIds": [],
+    "text": "Mo Khan calls antisemitism a made-up term and writes about Jews taking over American cities while copying Megyn Kelly’s statement about Islamophobia; Awesome Jew challenges the Jew-hatred in his analogy.",
+    "source": false,
+    "standaloneTweets": [
+      "1983202577010569521"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-14",
+    "claimIds": [
+      "30x",
+      "31a",
+      "3"
+    ],
+    "exampleId": "codex-20261011-067",
+    "keywordIds": [],
+    "text": "Broadcaster Richard Bacon says October 7 deeply affected him while pressing Jewish actress Tracy-Ann Oberman about Gaza; Rachel Moiselle reproduces his only October 7 post in which he is aghast at Netanyahu’s warning to evacuate.",
+    "source": false,
+    "standaloneTweets": [
+      "1978208997824946428"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-04",
+    "claimIds": [
+      "30x"
+    ],
+    "exampleId": "codex-20261011-b2-029",
+    "keywordIds": [],
+    "text": "Irish Labour leader Ivana Bacik condemns the Manchester synagogue attack; Mark Humphrys contrasts her words with a photograph of her marching in Dublin in front of a PFLP flag. They don't understand that you can not separate antizionism and violence against Jews.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1973765774335725720"
+    ],
+    "usTweets": [
+      "1974369915198230567"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-02",
+    "claimIds": [
+      "30x"
+    ],
+    "exampleId": "codex-20261011-b2-045",
+    "keywordIds": [],
+    "text": "Antizionist commentator Bushra Shaikh celebrates the October 7 attack as humiliating Israel in 2023, then blames Netanyahu for the 2025 Manchester synagogue attack while professing horror.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1973801067277127757"
+    ],
+    "nowTweets": [
+      "1973704428588052918"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2015-09-04",
+    "claimIds": [
+      "31d",
+      "30x",
+      "31a",
+      "31c"
+    ],
+    "exampleId": "codex-20261009-059",
+    "keywordIds": [],
+    "text": "Antizionist claims the idea that Palestinians hate Jews is one of the most nefarious lies ever told.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1981607794785873962"
+    ],
+    "usTweets": [
+      "1981709843510779936"
+    ],
+    "sourceLink": "https://blog.camera.org/2015/09/on-hamas-tv-child-wants-to-become-an-engineer-to-blow-up-jews/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-16",
+    "claimIds": [
+      "31d",
+      "30x"
+    ],
+    "exampleId": "codex-20261011-052",
+    "keywordIds": [],
+    "text": "Posts contrast Israeli hostages Avinatan Or and Alon Ohel with released convict Nabil Abu-Hadir, sentenced to life for stabbing his sister to death 23 times in front of her three children.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1978059772013273352"
+    ],
+    "usTweets": [
+      "1977599804936188388",
+      "1978689701721571598"
+    ],
+    "sourceLink": "https://www.israelnationalnews.com/news/143617"
   },
   {
     "dateAdded": "2026-10-03",

@@ -1201,5 +1201,48 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.euronews.com/2025/12/12/gaza-doctor-murdered-israeli-hostage-by-injecting-air-into-her-veins-father-claims"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-29",
+    "claimIds": [
+      "13"
+    ],
+    "exampleId": "codex-20261009-002",
+    "keywordIds": [],
+    "text": "Muhammad al-Munirawi is reported killed as a Gaza journalist; Fischberger contrasts that description with an Israeli military graphic identifying him as the head of Hamas anti-tank operations in northern Gaza.",
+    "source": true,
+    "standaloneTweets": [
+      "1983627015262761083"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.alquds.com/en/posts/202978"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-19",
+    "claimIds": [
+      "13"
+    ],
+    "exampleId": "codex-20261009-031-r1",
+    "keywordIds": [],
+    "text": "ZDF condemns the killing of an employee of its Gaza partner PMP as an attack on media workers, then confirms that engineer Ahmed Abu Mutair belonged to Hamas and ends the partnership.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1979970364647117102"
+    ],
+    "nowTweets": [
+      "1982836944414367891",
+      "1983137400332124446"
+    ],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://presseportal.zdf.de/pressemitteilung/identitaet-des-getoeteten-mitarbeiters-der-produktionsfirma-pmp-in-gaza-geklaert"
   }
 ]

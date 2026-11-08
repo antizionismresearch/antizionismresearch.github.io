@@ -195,5 +195,46 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.adl.org/resources/report/one-year-later-antisemitic-trends-post-107/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-02",
+    "claimIds": [
+      "21",
+      "56"
+    ],
+    "exampleId": "codex-20261011-b2-051",
+    "keywordIds": [],
+    "text": "Antizionist agitators march and agitate in Britain on the evening of the Manchester synagogue attack.",
+    "source": false,
+    "standaloneTweets": [
+      "1973851354721628407"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-02",
+    "claimIds": [
+      "21",
+      "56",
+      "42"
+    ],
+    "exampleId": "codex-20261011-b2-054",
+    "keywordIds": [],
+    "text": "Nick Buckley shares footage of antizionist crowds in British cities after the Manchester synagogue attack celebrating the murders.",
+    "source": false,
+    "standaloneTweets": [
+      "1973861176779096546"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

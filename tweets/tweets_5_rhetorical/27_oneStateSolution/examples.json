@@ -70,5 +70,52 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.palestinianbasiclaw.org/basic-law/2003-amended-basic-law"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-01",
+    "claimIds": [
+      "27",
+      "17",
+      "0000009009"
+    ],
+    "exampleId": "codex-20261011-b2-076",
+    "keywordIds": [],
+    "text": "Pakistani writer Fatima Bhutto rejects a two-state solution and calls for one Palestine replacing Israel; Lee Kern points out that Pakistan itself was created through partition into Muslim-majority Pakistan and Hindu-majority India.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1972713884080320766"
+    ],
+    "usTweets": [
+      "1973317167329226775"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-02",
+    "claimIds": [
+      "27",
+      "30w",
+      "28",
+      "26"
+    ],
+    "exampleId": "codex-20261011-b2-088",
+    "keywordIds": [],
+    "text": "Antizionist account Hadidi says, “I don’t want peace with Israel, I want Israel gone,” rejects two states and says Hamas has nothing to apologize for.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1973492636951658854"
+    ],
+    "usTweets": [
+      "1973604822877122716"
+    ]
   }
 ]

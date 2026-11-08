@@ -1,6 +1,74 @@
 [
   {
     "dateAdded": "",
+    "date": "2018-05-14",
+    "claimIds": [
+      "12",
+      "31a",
+      "31k",
+      "32",
+      "47"
+    ],
+    "exampleId": "000001201",
+    "keywordIds": [
+      "Layla Ghandour",
+      "Great March of Return",
+      "Children death for propaganda"
+    ],
+    "text": "The death of 8-month-old Layla Ghandour during the 2018 Gaza border protests was an international story, initially blamed on Israeli tear gas inhalation, a claim amplified by media, celebrities, and Palestinian officials. But later revelations indicated this narrative was fabricated for propaganda purposes by Hamas. A captured relative testified under Israeli interrogation that Hamas paid the family $8,000 to lie about the cause, revealing she actually died from a congenital blood disease common in the family, corroborated by an anonymous Gaza doctor's statement to the Associated Press attributing her death to a preexisting medical condition and the Gaza Health Ministry's removal of her name from the border protest's casualty list pending investigation, which they never completed.",
+    "standaloneTweets": [],
+    "themTweets": [
+      "996537228112420864",
+      "996481031531384839",
+      "996306900554743808",
+      "996316130867167232",
+      "996410679878828034",
+      "996806286569336833",
+      "996398642301882373"
+    ],
+    "usTweets": [
+      "1009821733531078657",
+      "999763563056189441",
+      "996840679044071424",
+      "996390448854945793",
+      "996845854316204033",
+      "996432292200484865",
+      "998698509229547520",
+      "1009777443828269056"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2022-06-05",
+    "claimIds": [
+      "12",
+      "31a",
+      "31k",
+      "32",
+      "41",
+      "47"
+    ],
+    "exampleId": "000001202",
+    "keywordIds": [
+      "Children death for propaganda"
+    ],
+    "text": "Amjad Walid Hussein Fayed's death was framed as the IDF targeting another innocent Palestinian child by CNN and the NGO Defense for Children in Palestine (DCIP). Then images emerged of him with Hamas insignias and headbands and images of him with guns. The report from the IDF indicated that the Palestinians were hurling Molotov cocktails and rocks at them at the time of the shooting.",
+    "standaloneTweets": [],
+    "themTweets": [
+      "1528113422398681088",
+      "1529501061886640130",
+      "1528342410773860352",
+      "1528027984468361217"
+    ],
+    "usTweets": [
+      "1533451946509668355",
+      "1528452720239181827",
+      "1528617041019609089",
+      "1528641563613888512"
+    ]
+  },
+  {
+    "dateAdded": "",
     "date": "2025-10-26",
     "claimIds": [
       "31a"
@@ -1126,5 +1194,137 @@
       "1947390091099279539"
     ],
     "sourceLink": "https://www.israelhayom.com/2025/07/22/us-envoy-i-did-not-blame-jews-for-taybeh-fire/"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-28",
+    "claimIds": [
+      "31a"
+    ],
+    "exampleId": "codex-20261009-018",
+    "keywordIds": [
+      "Claiming",
+      "Taking",
+      "Stealing"
+    ],
+    "text": "Mehdi Hasan claims one in three enslaved people in America were Muslim; a community note challenges the figure with competing historical estimates. Palestinianism steals history.",
+    "source": false,
+    "standaloneTweets": [
+      "1983254923417661471"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-20",
+    "claimIds": [
+      "31a",
+      "30x"
+    ],
+    "exampleId": "codex-20261009-097",
+    "keywordIds": [],
+    "text": "Mo Khan claims Eyal Yakoby shortened “Yakobowitz” to hide his Jewish name; Yakoby shares a community note identifying the name-change story as false.",
+    "source": false,
+    "standaloneTweets": [
+      "1980236874896802233"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-20",
+    "claimIds": [
+      "31a"
+    ],
+    "exampleId": "codex-20261009-099",
+    "keywordIds": [],
+    "text": "Gentile News promotes a purported “Rabbi Rabinovich” speech as evidence of a Jewish plot against white people. \"I can state with assurance that hte last generation of white children is now being born.\" \"The white women must cohabit with members of the dark races.\" \"Thus the white race will disappear.\" Max Nordau asks Grok, which identifies the text as an antisemitic hoax.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1980403491484102913"
+    ],
+    "usTweets": [
+      "1980403635667513360"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-18",
+    "claimIds": [
+      "31a",
+      "53",
+      "31c"
+    ],
+    "exampleId": "codex-20261011-022",
+    "keywordIds": [],
+    "text": "Greta Thunberg’s claim of torture in Israeli detention is challenged by Elica Le Bon and by Daniel Schatz’s report that she raised no abuse complaint with visiting Swedish diplomats or the Israeli judge.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1976026157960266087"
+    ],
+    "usTweets": [
+      "1979522209434448276",
+      "1976401994677092599"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-12",
+    "claimIds": [
+      "31a",
+      "47",
+      "17"
+    ],
+    "exampleId": "codex-20261011-090",
+    "keywordIds": [],
+    "text": "The official Flotilla account — the boat funded by Hamas that carried Greta and other Instagram activists — accused Israel of trying to kill children. When someone pointed out that the footage was actually from Yemen, where children are killed by their allies, the post disappears, and they have no concern for children in Yemen.",
+    "source": false,
+    "standaloneTweets": [
+      "1977375779253096456"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-06",
+    "claimIds": [
+      "31a",
+      "31c"
+    ],
+    "exampleId": "codex-20261011-b2-021",
+    "keywordIds": [],
+    "text": "Miss Israel Melanie Shiraz exposes Miss Palestine Nadeen Ayoub’s use of images of the murdered Bibas children as though they were Palestinian children killed by Israel.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1989115056894992490"
+    ],
+    "usTweets": [
+      "1975160506156544223"
+    ],
+    "sourceLink": "https://www.jns.org/israel-news/miss-israel-decries-lies-in-miss-palestines-gaza-war-posts"
   }
 ]

@@ -17,5 +17,52 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-07",
+    "claimIds": [
+      "13a"
+    ],
+    "exampleId": "codex-20261011-b2-004",
+    "keywordIds": [],
+    "text": "British Palestinian doctor Rahmeh Aladwan celebrates October 7 with “Glory to the Palestinian resistance” and “Glory to our martyrs”; commentator Konstantin Kisin contrasts her treatment with Graham Linehan’s arrest over posts about transgender people.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1975484031841308841"
+    ],
+    "usTweets": [
+      "1975633536704188525"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-03",
+    "claimIds": [
+      "13a",
+      "2",
+      "56",
+      "30y"
+    ],
+    "exampleId": "codex-20261011-b2-031",
+    "keywordIds": [
+      "united kingdom"
+    ],
+    "text": "British doctor Rahmeh Aladwan circulates posts excusing synagogue attacks and shares an image branding Chief Rabbi Ephraim Mirvis “Rabbi Genocide” immediately after Jews are killed in Manchester.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1973880632586686624"
+    ],
+    "usTweets": [
+      "1974500576684613911"
+    ]
   }
 ]

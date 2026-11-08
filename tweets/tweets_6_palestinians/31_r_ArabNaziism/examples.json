@@ -159,5 +159,26 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.ibtimes.co.uk/gaza-hitler-2-clothing-store-displays-knife-wielding-palestinian-mannequins-1527422"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-12",
+    "claimIds": [
+      "31r",
+      "31e"
+    ],
+    "exampleId": "codex-20261011-088",
+    "keywordIds": [],
+    "text": "Tens of thousands of children and teenagers in Hezbollah’s scouts gather in Beirut to honor Hassan Nasrallah, raising their arms in a mass Nazi salute.",
+    "source": false,
+    "standaloneTweets": [
+      "1977347484515991633",
+      "1977284237909737733"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]
