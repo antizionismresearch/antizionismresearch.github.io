@@ -9,7 +9,7 @@ export default function Home() {
       <div className="site-shell">
         <a className="skip-link" href="#main-content">Skip to entry</a>
         <header className="site-header">
-          <Link href="/" className="wordmark">DOR HADASH</Link>
+          <Link href="/" className="wordmark">The Antizionism Research Project</Link>
           <span className="site-description">Documenting the antizionist complex</span>
           <nav aria-label="Main navigation"><Link href="/">Browse</Link><Link href="/about">About</Link></nav>
         </header>

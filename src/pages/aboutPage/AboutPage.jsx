@@ -6,10 +6,10 @@ export default function About() {
     <main className="main p-6">
       <section className="short-text space-y-8">
         <div>
-          <h1 className="claim-short">About Dor Hadash</h1>
+          <h1 className="claim-short">About The Antizionism Research Project</h1>
 
           <p className="claim-full">
-            Dor Hadash is an independent research and documentation project
+            The Antizionism Research Project is an independent research and documentation project
             focused on recurring antizionist narratives, rhetorical patterns,
             and antisemitic discourse in online public conversation.
           </p>
@@ -46,7 +46,7 @@ export default function About() {
           <h2 className="claim-short">What the Database Tracks</h2>
 
           <p className="claim-full">
-            Dor Hadash organizes public examples into claims and categories.
+            The Antizionism Research Project organizes public examples into claims and categories.
             These may include recurring accusations about Zionism, comparisons
             between Israel and other historical or political systems, arguments
             about Jewish identity and peoplehood, reactions to antisemitism,
@@ -88,7 +88,7 @@ export default function About() {
           <h2 className="claim-short">Intended Audience</h2>
 
           <p className="claim-full">
-            Dor Hadash is intended for people who need a clearer way to study
+            The Antizionism Research Project is intended for people who need a clearer way to study
             and explain antizionist discourse, including Jewish educators,
             students, researchers, journalists, campus advocates, community
             organizations, and members of the public trying to understand how
@@ -106,7 +106,7 @@ export default function About() {
           </p>
 
           <p className="claim-description">
-            Dor Hadash is an independent project in active development. The
+            The Antizionism Research Project is an independent project in active development. The
             database, taxonomy, interface, and methodology are expected to
             evolve as the project grows.
           </p>

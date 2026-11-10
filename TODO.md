@@ -24,7 +24,7 @@ git init
 git checkout -b gh-pages
 git add .
 git commit -m "Manual gh-pages deploy"
-git remote add origin https://github.com/dorhadash/antizionism.git
+git remote add origin https://github.com/antizionismresearch/antizionismresearch.github.io.git
 git push -f origin gh-pages
 
 

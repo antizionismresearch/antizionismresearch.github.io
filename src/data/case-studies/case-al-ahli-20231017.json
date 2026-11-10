@@ -1,0 +1,492 @@
+{
+  "schemaVersion": "1.0",
+  "type": "caseStudy",
+  "exampleId": "case-al-ahli-20231017",
+  "dateAdded": "2026-11-08",
+  "date": "2023-10-17",
+  "title": "Al-Ahli Hospital: accusation, evidence, revisions and persistence · deep dive",
+  "text": "The October 17, 2023 Al-Ahli explosion: the initial allegation against Israel, the press conference, original open-source analysis, subsequent revisions and the accusation’s afterlife.",
+  "claimIds": [
+    "47",
+    "31a",
+    "32",
+    "41"
+  ],
+  "keywordIds": [
+    "Al-Ahli",
+    "Baptist Hospital",
+    "Rashida Tlaib",
+    "Ilhan Omar",
+    "BBC",
+    "New York Times"
+  ],
+  "timelineLinks": [
+    {
+      "entryId": "00000031c12",
+      "pageId": "al-ahli-page-8"
+    },
+    {
+      "entryId": "claude-b05-03r-nyt",
+      "pageId": "al-ahli-page-1"
+    },
+    {
+      "entryId": "codex-20261005-next100-088",
+      "pageId": "al-ahli-page-6"
+    },
+    {
+      "entryId": "000001312",
+      "pageId": "al-ahli-page-3"
+    }
+  ],
+  "linkedEntryIds": [
+    "00000031c12",
+    "claude-b05-03r-nyt",
+    "codex-20261005-next100-088",
+    "000001312"
+  ],
+  "pages": [
+    {
+      "id": "al-ahli-page-1",
+      "title": "The initial accusation",
+      "date": "2023-10-17",
+      "topline": "Ten days after the Oct. 7 massacre, Israel allegedly killed hundreds at a Gaza hospital. The New York Times said \"at least 200\" dead. The Wall Street Journal said \"more than 500.\" CNN, Associated Press, Reuters, CBS, ABC, BBC all covered it prominently.",
+      "coverUrl": "case-study-thumbs/dd8167ea2615ebc1df8c.jpg",
+      "evidence": [
+        {
+          "id": "image-1714686604189794524-0",
+          "caption": "",
+          "publication": "Yashar Ali 🐘",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714686604189794524"
+        },
+        {
+          "id": "image-1714709286603894872-0",
+          "caption": "",
+          "publication": "ian bremmer",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714709286603894872"
+        },
+        {
+          "id": "image-1714373657248588059-0",
+          "caption": "",
+          "publication": "HonestReporting",
+          "date": "2023-10-17",
+          "type": "tweet",
+          "tweetId": "1714373657248588059"
+        },
+        {
+          "id": "image-1714372039107138043-0",
+          "caption": "",
+          "publication": "HonestReporting",
+          "date": "2023-10-17",
+          "type": "tweet",
+          "tweetId": "1714372039107138043"
+        },
+        {
+          "id": "045b1b14-2210-4f2d-9177-5bc9ce3b965d",
+          "caption": "",
+          "type": "link",
+          "url": "https://pbs.twimg.com/media/F8vYeH-XYAA-Kkc?format=jpg&name=medium"
+        },
+        {
+          "id": "p1-reuters",
+          "caption": "",
+          "publication": "Reuters / screenshot preserved by HonestReporting",
+          "date": "2023-10-17",
+          "type": "image",
+          "url": "https://honestreporting.com/media-commits-journalistic-crime-in-coverage-of-gaza-hospital-blast/",
+          "imageUrl": "https://honestreporting.com/app/uploads/2023/10/Screenshot-2023-10-18-at-15.44.25-1024x348.png"
+        },
+        {
+          "id": "video-1714381779308625968",
+          "caption": "CBS News package delivered to hundreds of affiliate stations: \"Gaza's health ministry says hundreds taking shelter at a Gaza City hospital were killed in an Israeli airstrike today.\"",
+          "publication": "HonestReporting",
+          "date": "2023-10-17",
+          "type": "tweet",
+          "tweetId": "1714381779308625968"
+        },
+        {
+          "id": "x-1714350186456101081",
+          "caption": "",
+          "publication": "ABC News",
+          "date": "2023-10-17",
+          "type": "tweet",
+          "tweetId": "1714350186456101081"
+        },
+        {
+          "id": "x-1714352943175008273",
+          "caption": "",
+          "publication": "BBC News (World)",
+          "date": "2023-10-17",
+          "type": "tweet",
+          "tweetId": "1714352943175008273"
+        },
+        {
+          "id": "x-1714342122185191596",
+          "caption": "",
+          "publication": "Rashida Tlaib",
+          "date": "2023-10-17",
+          "type": "tweet",
+          "tweetId": "1714342122185191596"
+        },
+        {
+          "id": "x-1714358704303157661",
+          "caption": "",
+          "publication": "Ilhan Omar",
+          "date": "2023-10-17",
+          "type": "tweet",
+          "tweetId": "1714358704303157661"
+        },
+        {
+          "id": "x-1714336121558126805",
+          "caption": "",
+          "publication": "Ali Hashem علي هاشم",
+          "date": "2023-10-17",
+          "type": "tweet",
+          "tweetId": "1714336121558126805"
+        },
+        {
+          "id": "x-1714317127623090295",
+          "caption": "",
+          "publication": "Younis Tirawi | يونس",
+          "date": "2023-10-17",
+          "type": "tweet",
+          "tweetId": "1714317127623090295"
+        },
+        {
+          "id": "p1-abc-australia",
+          "caption": "",
+          "publication": "ABC Australia / screenshot preserved by HonestReporting",
+          "date": "2023-10-18",
+          "type": "image",
+          "url": "https://honestreporting.com/media-commits-journalistic-crime-in-coverage-of-gaza-hospital-blast/",
+          "imageUrl": "https://honestreporting.com/app/uploads/2023/10/Screenshot-2023-10-18-at-17.16.39-1024x241.png"
+        }
+      ]
+    },
+    {
+      "id": "al-ahli-page-3",
+      "title": "The press conference",
+      "date": "2023-10-17",
+      "topline": "The day of the bombing, Al-Ahli doctors and officials held a press conference among bodies, presenting the explosion as an Israeli massacre. It is a good example of how Palestinians use tragedy as staged media to influence world opinion about Israel.",
+      "coverUrl": "case-study-thumbs/090f8e32f64954b82488.jpg",
+      "evidence": [
+        {
+          "id": "16ae8c2c-aa96-4ed0-a175-fde141490a2e",
+          "caption": "",
+          "publication": "Anadolu English",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714547139907350604"
+        }
+      ]
+    },
+    {
+      "id": "al-ahli-page-4",
+      "title": "Tracking the projectile",
+      "date": "2023-10-17",
+      "topline": "Numerous open source intel analysts identified the launch originated in Gaza from multiple video streams that captured the launch and impact. It was a Palesetinian Islamic Jihad missile targeting Israel that failed and fell short.",
+      "coverUrl": "case-study-thumbs/f4d1079641ce6e214bc0.jpg",
+      "evidence": [
+        {
+          "id": "x-1714680141660766704",
+          "caption": "",
+          "publication": "Nathan Ruser",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714680141660766704"
+        },
+        {
+          "id": "3a20ad59-2496-4f56-9887-dd08b2af641c",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1714378040115867883"
+        },
+        {
+          "id": "0c51ab15-3463-44cf-89b7-a7c4f49ffdcf",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1714552323945472323",
+          "supportingSources": [
+            "https://x.com/OAlexanderDK/status/1715859559107936660"
+          ]
+        },
+        {
+          "id": "0a437cb0-487d-430f-9cda-2597cfb909da",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1714377828131553446"
+        },
+        {
+          "id": "x-1714582277278359671",
+          "caption": "",
+          "publication": "Nathan Ruser",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714582277278359671"
+        },
+        {
+          "id": "599f9c45-4ce2-4002-aa3a-87ef8d3ad3e2",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1714543625068040232"
+        }
+      ]
+    },
+    {
+      "id": "al-ahli-idf-phone-call",
+      "title": "IDF releases phone call",
+      "date": "2023-10-18",
+      "topline": "The IDF released an intercepted call between two Hamas operatives discussing a failed Islamic Jihad rocket.",
+      "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/1714548463059238912/img/HbqzMIyHRE-dJRu1.jpg?name=small",
+      "evidence": [
+        {
+          "id": "4370ad50-2f1c-4a4b-954e-6aace308d7bf",
+          "caption": "",
+          "publication": "IDF recording shared by Eylon Levy",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714552328471138777",
+          "supportingSources": [
+            "https://x.com/IDF/status/1714548529538953637",
+            "https://www.idf.il/en/mini-sites/israel-at-war/all-articles/al-ahli-al-maamadani-hospital-initial-idf-aftermath-report-october-18-2023"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "al-ahli-page-5",
+      "title": "The impact site",
+      "date": "2023-10-18",
+      "topline": "The actual damage at the blast site shows the hospital wasn't even hit: the blast occurred in the parking lot, it was a small crater, burned cars, and hospital buildings were still standing.",
+      "coverUrl": "case-study-thumbs/62d3e41c4f39f1ce9f05.jpg",
+      "evidence": [
+        {
+          "id": "369a2da4-2b8a-49a6-8407-dbc7f4d45bff",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1714535497958334678"
+        },
+        {
+          "id": "x-1714542434519245001",
+          "caption": "",
+          "publication": "Nathan Ruser",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714542434519245001"
+        },
+        {
+          "id": "x-1714538813190815855",
+          "caption": "",
+          "publication": "Nathan Ruser",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714538813190815855"
+        },
+        {
+          "id": "x-1714540048748884454",
+          "caption": "",
+          "publication": "Nathan Ruser",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714540048748884454"
+        },
+        {
+          "id": "x-1714525133799342530",
+          "caption": "",
+          "publication": "Oliver Alexander",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714525133799342530"
+        },
+        {
+          "id": "x-1714521111839359179",
+          "caption": "",
+          "publication": "Oliver Alexander",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714521111839359179"
+        },
+        {
+          "id": "x-1714572743054667857",
+          "caption": "",
+          "publication": "Tal Hagin",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714572743054667857"
+        },
+        {
+          "id": "x-1714587746612740278",
+          "caption": "",
+          "publication": "OSINTtechnical",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714587746612740278"
+        },
+        {
+          "id": "x-1714552327431135242",
+          "caption": "",
+          "publication": "Nathan Ruser",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714552327431135242"
+        }
+      ]
+    },
+    {
+      "id": "al-ahli-page-6",
+      "title": "The revisions",
+      "date": "2023-10-23",
+      "topline": "The accusation was followed by editors’ notes, corrections, retractions and acknowledgments. The Globe and Mail uses the classic \"Israel and the United States say\" line, despite overwhelming evidence. The BBC says it has \"no regrets\" despite getting the story wrong. These slights and non-correction corrections are a good concrete example of media bias against Israel embedded in mainstream media organizations, whereas much of their coverage uses much more subtle bias.",
+      "coverUrl": "case-study-thumbs/c78eb8e962b55fea07f4.jpg",
+      "evidence": [
+        {
+          "id": "fb57919c-df20-4306-9823-3298a9835d1a",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1987922445739696597"
+        },
+        {
+          "id": "p6-globe",
+          "caption": "",
+          "publication": "The Globe and Mail / correction documented by HonestReporting Canada",
+          "date": "2024-02-21",
+          "type": "link",
+          "url": "https://www.theglobeandmail.com/opinion/editorials/article-with-the-trudeau-government-everything-is-an-unacceptable-situation/",
+          "supportingSources": [
+            "https://honestreporting.ca/globe-and-mail-corrects-editorial-which-falsely-claimed-israel-bombed-a-gaza-hospital/"
+          ],
+          "excerptText": "Israel and the United States say the explosion was the result of a misfiring Palestinian rocket, not a bombing by Israeli forces."
+        },
+        {
+          "id": "image-1716408571431170411-0",
+          "caption": "",
+          "publication": "HonestReporting",
+          "date": "2023-10-23",
+          "type": "tweet",
+          "tweetId": "1716408571431170411",
+          "supportingSources": [
+            "https://edition.cnn.com/2023/10/24/media/gaza-hospital-coverage-walk-back/index.html",
+            "https://x.com/JerylBier/status/1714356075065909537",
+            "https://www.nytimes.com/2023/10/23/pageoneplus/editors-note-gaza-hospital-coverage.html"
+          ]
+        },
+        {
+          "id": "image-1717264135346430009-0",
+          "caption": "",
+          "publication": "James Lynch",
+          "date": "2023-10-25",
+          "type": "tweet",
+          "tweetId": "1717264135346430009",
+          "supportingSources": [
+            "https://edition.cnn.com/2023/10/17/middleeast/israel-gaza-rafah-crossing-week-2-tuesday-intl-hnk/index.html"
+          ]
+        },
+        {
+          "id": "p6-lemonde",
+          "caption": "",
+          "publication": "Le Monde",
+          "date": "2023-10-25",
+          "type": "link",
+          "url": "https://www.lemonde.fr/en/international/article/2023/10/25/to-our-readers-on-le-monde-s-coverage-of-the-explosion-at-the-al-ahli-arab-hospital-in-gaza_6202085_4.html",
+          "excerptText": "we were not cautious enough, on October 17, when we reported Hamas's declaration on this explosion."
+        },
+        {
+          "id": "x-1714802305432682668",
+          "caption": "",
+          "publication": "Ilhan Omar",
+          "date": "2023-10-18",
+          "type": "tweet",
+          "tweetId": "1714802305432682668"
+        },
+        {
+          "id": "p6-hemo",
+          "caption": "",
+          "publication": "Ohad Hemo / statement reported by Israel National News",
+          "date": "2023-10-18",
+          "type": "link",
+          "url": "https://www.israelnationalnews.com/news/378723",
+          "excerptText": "I said on the broadcast that it was an Israeli bombing, while omitting the fact that it was a claim by Hamas"
+        },
+        {
+          "id": "p6-bmj",
+          "caption": "",
+          "publication": "BMJ Global Health",
+          "date": "2023-11-15",
+          "type": "link",
+          "url": "https://gh.bmj.com/content/bmjgh/8/11/e014269corr1.full.pdf",
+          "supportingSources": [
+            "https://pmc.ncbi.nlm.nih.gov/articles/PMC10661069/"
+          ],
+          "excerptText": "This editorial has been corrected since its publication. […] The description of the Al-Ahli hospital explosion was updated by the authors […]"
+        }
+      ]
+    },
+    {
+      "id": "al-ahli-page-7",
+      "title": "What this incident reveals",
+      "date": "2023-10-18",
+      "topline": "Two important takeaways this incident reveals:\n1. The way Palestinians -- including Palestinian doctors -- use death and tragedy cynically to shape public opinion against Israel.\n2. Media's implicit and ongoing bias against Israel.",
+      "coverUrl": "case-study-thumbs/9bf22bb2e1c94b74759d.jpg",
+      "evidence": [
+        {
+          "id": "x-1960470083249299555",
+          "caption": "",
+          "publication": "Max 📟",
+          "date": "2025-08-26",
+          "type": "tweet",
+          "tweetId": "1960470083249299555"
+        },
+        {
+          "id": "x-1964621578588828047",
+          "caption": "",
+          "publication": "Gal G., Adv 🇮🇱",
+          "date": "2025-09-07",
+          "type": "tweet",
+          "tweetId": "1964621578588828047"
+        },
+        {
+          "id": "x-1942947879900811399",
+          "caption": "",
+          "publication": "Aizenberg",
+          "date": "2025-07-09",
+          "type": "tweet",
+          "tweetId": "1942947879900811399"
+        },
+        {
+          "id": "x-2099834984659873802",
+          "caption": "",
+          "publication": "Eylon Levy",
+          "date": "2026-09-15",
+          "type": "tweet",
+          "tweetId": "2099834984659873802"
+        }
+      ]
+    },
+    {
+      "id": "al-ahli-page-8",
+      "title": "The accusation persists",
+      "date": "2025-04-12",
+      "topline": "Rashida Tlaib and Mariam Barghouti continued to blame Israel weeks and months later. It's not about truth for many people. For some it's about winning, for others it's about believing in the narrative.",
+      "coverUrl": "case-study-thumbs/3f3de89aa9fc55db8750.jpg",
+      "evidence": [
+        {
+          "id": "x-1911214064727896184",
+          "caption": "",
+          "publication": "Eyal Yakoby",
+          "date": "2025-04-12",
+          "type": "tweet",
+          "tweetId": "1911214064727896184"
+        },
+        {
+          "id": "cb034494-c1d6-4533-9a1c-92b7c90fdd74",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1714757101728444471"
+        }
+      ]
+    }
+  ]
+}

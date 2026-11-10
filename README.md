@@ -65,3 +65,23 @@ Take a look in `TODO.md` for next steps you can try out in your new site!
 - Want more details about React on Glitch? We've got a [Help Center article](https://help.glitch.com/hc/en-us/articles/16287545215501-React-Projects) for you.
 - Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
 - Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+
+### Deep dives
+
+The timeline still reads ordinary entries from `tweets/**/examples.json`. Deep dives
+live in `src/data/case-studies/` and use the same IDs and category/keyword fields.
+Each study has ordered `pages` and optional `timelineLinks` of
+`{ "entryId": "<existing exampleId>", "pageId": "<chapter id>" }`.
+A link opens that chapter; a legacy `linkedEntryIds` entry without a page mapping
+opens the overview. The timeline entry stays in place behind the reader.
+
+After accepting a study in the local review tool, run
+`node scripts/import-case-studies.mjs` from the repository. The importer reads
+`case-study-review/case_studies_accepted.json`, and saves public study JSON. Chapter evidence uses X embeds by Tweet ID. Without a Tweet ID,
+HonestReporting screenshots can display directly from their host; other exhibits
+use source links. On macOS, the importer uses `sips` to
+generate small tile covers from available review images into
+`public/case-study-thumbs/`; it can also use small remote X thumbnails.
+It does not copy full screenshots or videos. An alternate export path can be
+passed as the first argument, with its media directory beside it. Review notes
+stay in the review tool. Review the imported files before publishing.

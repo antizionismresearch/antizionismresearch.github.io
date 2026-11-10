@@ -3,6 +3,9 @@ import { ArrowLeft, ArrowRight, Link as LinkIcon, Search, X, Info } from 'lucide
 import Calendar from '../calendar/Calendar.jsx';
 import Claims from '../claims/Claims.jsx';
 import TweetCarousel from './TweetCarousel.jsx';
+import DeepDive from '../deepDive/DeepDive.jsx';
+import { deepDives, deepDivesByEntry } from '../../data/deepDives.js';
+import { readDeepDive, searchDeepDives } from '../../lib/deepDives.mjs';
 import { allExamples, claims, claimMap } from '../../data/db.js';
 import { closestEntry, filterEntries, formatDate, summarize } from '../../lib/archive.mjs';
 
@@ -25,10 +28,12 @@ function readLocation() {
 
 export default function MainPage() {
   const [view, setView] = useState(readLocation);
+  const [deepDive, setDeepDive] = useState(() => readDeepDive(new URLSearchParams(window.location.search), deepDives));
   const [copyState, setCopyState] = useState('');
   const [manualLink, setManualLink] = useState('');
   const [dateHelp, setDateHelp] = useState(false);
   const filtered = useMemo(() => filterEntries(entries, view.categories, view.query, claimMap), [view.categories, view.query]);
+  const diveMatches = useMemo(() => searchDeepDives(deepDives, view.query, view.categories), [view.query, view.categories]);
   const counts = useMemo(() => summarize(filtered), [filtered]);
   const dayEntries = filtered.filter(e => e.date === view.date);
   const current = dayEntries.find(e => e.exampleId === view.entryId) || dayEntries[0];
@@ -45,10 +50,17 @@ export default function MainPage() {
     params.set('date', view.date);
     if (view.categories.length) params.set('categories', view.categories.join(','));
     if (view.query) params.set('q', view.query);
-    window.history.replaceState(null, '', `${window.location.pathname}?${params}`);
-  }, [current?.exampleId, view.date, view.categories, view.query]);
+    if (deepDive) {
+      params.set('deepDive', deepDive.study.exampleId);
+      if (deepDive.pageId) params.set('chapter', deepDive.pageId);
+    }
+    window.history.replaceState(window.history.state, '', `${window.location.pathname}?${params}${window.location.hash}`);
+  }, [current?.exampleId, view.date, view.categories, view.query, deepDive]);
   useEffect(() => {
-    const sync = () => setView(readLocation());
+    const sync = () => {
+      setView(readLocation());
+      setDeepDive(readDeepDive(new URLSearchParams(window.location.search), deepDives));
+    };
     window.addEventListener('popstate', sync);
     return () => window.removeEventListener('popstate', sync);
   }, []);
@@ -76,7 +88,7 @@ export default function MainPage() {
         selectDate(date);
       }} />
       <div className="filters-row">
-        <label className="search-field"><Search size={18} /><span className="sr-only">Search entries</span><input type="search" placeholder="Search entries…" value={view.query} onChange={e => changeFilters(view.categories, e.target.value)} /></label>
+        <label className="search-field"><Search size={18} /><span className="sr-only">Search entries and deep dives</span><input type="search" placeholder="Search entries and deep dives…" value={view.query} onChange={e => changeFilters(view.categories, e.target.value)} /></label>
         <Claims selected={view.categories} counts={countsByClaim} onChange={ids => changeFilters(ids, view.query)} />
       </div>
       {(view.categories.length > 0 || view.query) && <div className="active-filters">
@@ -85,6 +97,28 @@ export default function MainPage() {
         <span className="filter-summary" role="status">{filtered.length} matching {filtered.length === 1 ? 'entry' : 'entries'}{view.categories.length > 1 ? ' · any selected category' : ''}</span>
       </div>}
     </div>
+    {view.query.trim() && deepDives.length > 0 && <section className="dive-search-results" aria-labelledby="dive-search-heading">
+      <h2 id="dive-search-heading">Deep dives</h2>
+      <p className="sr-only" role="status">{diveMatches.length} deep dive results</p>
+      {diveMatches.length ? <ul>
+        {diveMatches.map(result => {
+          const { study, pageId } = result;
+          const title = study.title.replace(/\s*·\s*deep dive$/i, '');
+          const page = study.pages.find(p => p.id === pageId);
+          return <li key={JSON.stringify([study.exampleId, pageId])}>
+            <button className="dive-entry-link" onClick={() => setDeepDive(result)}>
+              <span><strong>{page?.title || title}</strong><small>{page ? title : 'Open chapter overview'}</small></span>
+              <ArrowRight size={18} aria-hidden="true" />
+            </button>
+          </li>;
+        })}
+      </ul> : <p className="muted">No matching deep dives.</p>}
+    </section>}
+    {!view.query.trim() && deepDives.length > 0 && <nav className="dive-directory" aria-label="Browse deep dives">
+      <strong>Deep dives</strong>
+      {deepDives.map(study => <button className="text-button" key={study.exampleId}
+        onClick={() => setDeepDive({ study, pageId: null })}>{study.title.replace(/\s*·\s*deep dive$/i, '')} →</button>)}
+    </nav>}
     <div className="entry-toolbar">
       <div className="event-date">Event date <span>·</span> {formatDate(view.date)}<button className="date-help icon-button" aria-label="How dates are assigned" aria-expanded={dateHelp} onClick={() => setDateHelp(!dateHelp)}><Info size={15} /></button></div>
       <div className="entry-navigation" aria-label="Entry navigation">
@@ -100,6 +134,12 @@ export default function MainPage() {
       {primaryClaim?.claimText && <p className="claim-explanation">{primaryClaim.claimText}</p>}
       {current.text && <p className="entry-description">{current.text}</p>}
       {current.sourceLink && <p className="source-link"><a href={current.sourceLink} target="_blank" rel="noopener noreferrer">Supporting source ↗</a></p>}
+      {deepDivesByEntry.has(current.exampleId) && <div className="dive-entry-links">
+        {deepDivesByEntry.get(current.exampleId).map(link => <button className="dive-entry-link" key={link.study.exampleId} onClick={() => setDeepDive(link)}>
+          <span><strong>Part of a deep dive</strong><small>{link.study.pages.find(page => page.id === link.pageId)?.title || 'Explore all chapters'} · {link.study.title.replace(/\s*·\s*deep dive$/i, '')}</small></span>
+          <ArrowRight size={18} aria-hidden="true" />
+        </button>)}
+      </div>}
       <div className={`evidence ${standalone ? 'standalone' : ''}`}>
         {standalone ? <TweetCarousel label="Posts" tweets={current.standaloneTweets} /> : <>
           <TweetCarousel label={comparison ? 'Then' : 'Them'} tweets={comparison ? current.thenTweets : current.themTweets} />
@@ -110,9 +150,12 @@ export default function MainPage() {
         {manualLink && <input className="manual-link" aria-label="Entry link" readOnly value={manualLink} onFocus={e => e.target.select()} />}
       </footer>
     </article> : <section className="empty-state" role="status">
-      <h1>{filtered.length ? 'No entries on this date' : 'No matching entries'}</h1>
-      <p>{filtered.length ? 'Choose a day with a count, or use Previous and Next to reach the nearest entries.' : 'Try another search or remove a category filter.'}</p>
+      <h1>{filtered.length ? 'No entries on this date' : 'No matching timeline entries'}</h1>
+      <p>{filtered.length ? 'Choose a day with a count, or use Previous and Next to reach the nearest entries.' : diveMatches.length ? 'You can open a matching deep dive above.' : 'Try another search or remove a category filter.'}</p>
       {(view.query || view.categories.length > 0) && <button className="button" onClick={() => changeFilters([], '')}>Clear filters</button>}
     </section>}
+    {deepDive && <DeepDive key={deepDive.study.exampleId} {...deepDive}
+      onChapter={pageId => setDeepDive(d => ({ ...d, pageId }))}
+      onClose={() => setDeepDive(null)} />}
   </div>;
 }
