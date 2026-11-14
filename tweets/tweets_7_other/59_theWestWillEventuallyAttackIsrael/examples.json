@@ -1,0 +1,63 @@
+[
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-25",
+    "claimIds": [
+      "59"
+    ],
+    "exampleId": "codex-20261012-166-062",
+    "keywordIds": [],
+    "text": "Spain sends a warship to accompany the Gaza flotilla after declining to participate in the Red Sea mission against Houthi attacks on international shipping.",
+    "source": false,
+    "standaloneTweets": [
+      "1971082745074892909"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-11",
+    "claimIds": [
+      "59"
+    ],
+    "exampleId": "codex-20261019-150-047",
+    "keywordIds": [
+      "Pedro Sanchez"
+    ],
+    "text": "Spanish Prime Minister Pedro Sánchez says Spain lacks nuclear bombs and cannot stop Israel’s Gaza offensive on its own. Israel’s Prime Minister’s Office denounces the remark as a genocidal threat against the Jewish state.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1966065342796734678"
+    ],
+    "usTweets": [
+      "1966165475882094914"
+    ]
+  },
+  {
+    "dateAdded": "2026-11-07",
+    "date": "2026-09-15",
+    "claimIds": [
+      "59"
+    ],
+    "exampleId": "codexx-20261019-150-047",
+    "keywordIds": [],
+    "text": "'On the issue of disarmament, should we not also be calling for Israel’s disarmament, given the atrocities that have been committed?' “Previous governments have intervened in the Middle East to take action on human rights abuses and protect international trade routes. Is it not about time that military action was taken against Israel as well?” Tahir Ali, a Labour MP for Birmingham Hall Green and Moseley, said that, during a discussion about disarming Hamas.",
+    "source": false,
+    "standaloneTweets": [
+      "2099864632169046206"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  }
+]

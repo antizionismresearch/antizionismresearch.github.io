@@ -1,5 +1,221 @@
 [
   {
+    "dateAdded": "2026-09-29",
+    "date": "2026-03-14",
+    "claimIds": [
+      "28",
+      "31p",
+      "21",
+      "56"
+    ],
+    "exampleId": "claude-b04-16",
+    "keywordIds": [
+      "QudsDay"
+    ],
+    "text": "At New York City's Al-Quds Day rally, protesters chanted “U.S.A., go to hell,” “Khamenei is the leader,” and “Death to Israel,” praised Sinwar, Nasrallah, the IRGC and the Houthis, and called on Iran and Hezbollah to strike Tel Aviv.",
+    "source": true,
+    "sourceLink": "https://combatantisemitism.org/cam-news/quds-day-rallies-across-western-cities-feature-terror-praise-blood-libels-and-calls-for-israels-destruction/",
+    "standaloneTweets": [
+      "2033493200384516543"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "2024-10-07",
+    "claimIds": [
+      "28",
+      "31p",
+      "56"
+    ],
+    "exampleId": "codex-20261004-next100-024",
+    "keywordIds": [],
+    "text": "At a Vancouver rally on October 7, 2024, a speaker declares support for Hamas and Hezbollah and leads death chants against Canada and the United States. \"Death to the United States.\" \"Death to Canada\"",
+    "source": true,
+    "standaloneTweets": [
+      "2012197522802913369"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.fswc.ca/news/fswc-outraged-by-public-celebrations-of-october-7-atrocities-and-support-for-hamas-and-hezbollah-on-canadian-streets"
+  },
+  {
+    "dateAdded": "2026-09-29",
+    "date": "2026-05-01",
+    "claimIds": [
+      "30w",
+      "52",
+      "31p"
+    ],
+    "exampleId": "codexB03022",
+    "keywordIds": [],
+    "text": "Speakers at New York Nakba rallies call for Israel’s destruction and present ending Israel as a route to ending capitalism.",
+    "source": false,
+    "standaloneTweets": [
+      "2059701983758426283",
+      "2056990232872944003"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-07",
+    "date": "2025-05-16",
+    "claimIds": [
+      "31e",
+      "31p"
+    ],
+    "exampleId": "codex-20261007-003",
+    "keywordIds": [],
+    "text": "Yemeni children at a Houthi rally threaten to drink Americans’ blood and chant death to America, death to Israel and curses upon Jews.",
+    "source": true,
+    "standaloneTweets": [
+      "1926081715740520768"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.youtube.com/watch?v=jYvCL6EeFfA"
+  },
+  {
+    "dateAdded": "",
+    "date": "2025-11-14",
+    "claimIds": [
+      "31o",
+      "31p"
+    ],
+    "exampleId": "0000031o0006",
+    "keywordIds": [],
+    "text": "Palestinian Islamic scholar in Chicago, Mohammad Nusairat: “We did NOT come here to coexist. We are superior to everyone else and will not be surpassed. No one is above us. If other religions want to live with us, they have to worship Allah.”",
+    "source": false,
+    "standaloneTweets": [
+      "2025422097938301397"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-03-14",
+    "claimIds": [
+      "31o",
+      "31p"
+    ],
+    "exampleId": "0000031o0007",
+    "keywordIds": [],
+    "text": "'Death To America' chants in Dearborn, Michigan.",
+    "source": false,
+    "standaloneTweets": [
+      "2032859047490138275"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-07-26",
+    "claimIds": [
+      "31o",
+      "31p"
+    ],
+    "exampleId": "0000031o0017",
+    "keywordIds": [],
+    "text": "Imam Hamaad El-Ameen, during a Friday sermon in Chattanooga, Tennessee: 'The Fourth of July has nothing to do with us. It is not a declaration of independence for us. Our allegiance is to Allah.'",
+    "source": false,
+    "standaloneTweets": [
+      "2081452444635000923"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-07-26",
+    "claimIds": [
+      "31o",
+      "31p"
+    ],
+    "exampleId": "0000031o0018",
+    "keywordIds": [],
+    "text": "A school in the United States. Listen to the lyrics. I added subtitles: “Die for the land,” “sacrifice yourself for the land.” This is what kids are being taught.",
+    "source": false,
+    "standaloneTweets": [
+      "2020914685738877310"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-01-16",
+    "claimIds": [
+      "31o",
+      "31p"
+    ],
+    "exampleId": "0000031o0019",
+    "keywordIds": [],
+    "text": "During a Friday sermon in Brooklyn, NY MAS youth center director Mohammad Badawy said: “as a Muslim, my life’s mission is to fight the U.S government, the U.S army, and ICE until my last breath – that is my reason for existence.”",
+    "source": false,
+    "standaloneTweets": [
+      "2013687925414732068"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-08",
+    "date": "2024-04-05",
+    "claimIds": [
+      "31o",
+      "31p"
+    ],
+    "exampleId": "codex-20261008-016",
+    "keywordIds": [],
+    "text": "At an April 5, 2024 Quds Day rally in Dearborn, participants chant “Death to America” and “Death to Israel.”",
+    "source": true,
+    "standaloneTweets": [
+      "1986185197272879368"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.memri.org/node/64969/"
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2025-09-19",
+    "claimIds": [
+      "31o",
+      "31p"
+    ],
+    "exampleId": "codex-20261012-166-127",
+    "keywordIds": [],
+    "text": "A Gaza asylum seeker in Belgium threatens to attack Britons after Israel and invokes Allah while calling for striking the throats of “kuffars.”",
+    "source": false,
+    "standaloneTweets": [
+      "1969079161533669529"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "",
     "date": "2024-10-27",
     "claimIds": [
@@ -74,5 +290,62 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://vimeo.com/1076067438"
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-24",
+    "claimIds": [
+      "31p"
+    ],
+    "exampleId": "codex-20261012-166-069",
+    "keywordIds": [],
+    "text": "An antizionist rally speaker in Australia says, “Just like Israel, Australia does not have a right to exist.”",
+    "source": false,
+    "standaloneTweets": [
+      "1970809364362727570"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-13",
+    "date": "2001-09-11",
+    "claimIds": [
+      "31p"
+    ],
+    "exampleId": "codex-20261012-166-098",
+    "keywordIds": [],
+    "text": "Palestinians celebrate the September 11 attacks in the streets, including children joining the celebrations.",
+    "source": false,
+    "standaloneTweets": [
+      "1970156139129237934"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-29",
+    "claimIds": [
+      "31p"
+    ],
+    "exampleId": "codex-20261020-next150-039",
+    "keywordIds": [],
+    "text": "A UMass Amherst student at the People’s Conference for Palestine says: “We have to destroy the idea of America in our heads, in our neighbors’ heads, in our comrades’ heads.”",
+    "source": false,
+    "standaloneTweets": [
+      "1961714679585099881"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

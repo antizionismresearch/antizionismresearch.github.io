@@ -1,5 +1,72 @@
 [
   {
+    "dateAdded": "2026-09-29",
+    "date": "2026-03-16",
+    "claimIds": [
+      "2",
+      "46",
+      "54",
+      "30w"
+    ],
+    "exampleId": "claude-b04-15",
+    "keywordIds": [],
+    "text": "After Ayman Ghazali attacked Temple Israel in West Bloomfield, Michigan, influencer Matt Bernstein described him as an “extremely gentle and kind person” who was driven to attack the synagogue by Israel's actions.",
+    "source": false,
+    "standaloneTweets": [
+      "2033511539039408446"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-01",
+    "date": "2026-04-29",
+    "claimIds": [
+      "2",
+      "46",
+      "31c"
+    ],
+    "exampleId": "claude-b05-19",
+    "keywordIds": [
+      "Golders Green",
+      "UK"
+    ],
+    "text": "Hours after two Jewish men were stabbed in Golders Green, London, Irish comedian Tadhg Hickey blamed “the only Jewish state” and said Israel's “whole population” is genocidal.",
+    "source": true,
+    "sourceLink": "https://www.longwarjournal.org/archives/2026/04/2-jewish-men-stabbed-in-london-ashab-al-yamin-claims-attack.php",
+    "standaloneTweets": [
+      "2049550079195848793"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "2026-01-09",
+    "claimIds": [
+      "32",
+      "46"
+    ],
+    "exampleId": "codex-20261004-next100-086",
+    "keywordIds": [],
+    "text": "Joe Truzman shares a Community Note challenging Sky News for foregrounding Iran’s claim that Israel and the United States caused the violence, pointing instead to regime forces shooting protesters.",
+    "source": false,
+    "standaloneTweets": [
+      "2009743905659785217"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "",
     "date": "2006-06-01",
     "claimIds": [
@@ -451,5 +518,51 @@
       "1977772725033988344"
     ],
     "sourceLink": "https://cpj.org/data/people/saleh-aljafarawi/"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2024-06-26",
+    "claimIds": [
+      "46",
+      "14"
+    ],
+    "exampleId": "codex-20261012-166-160-r1",
+    "keywordIds": [],
+    "text": "Antizionist accounts link Bolivia’s attempted coup to its break with Israel and invoke Mossad, while a preceding post predicts Israel will be blamed.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1806130128428191746"
+    ],
+    "usTweets": [
+      "1806095126801870857"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-10",
+    "claimIds": [
+      "46"
+    ],
+    "exampleId": "codex-20261019-150-070",
+    "keywordIds": [
+      "Bot farms",
+      "Bots"
+    ],
+    "text": "Multiple accounts circulate near-identical messages implying Israel killed Charlie Kirk to manufacture a political narrative, warning non-Jews never to support Israel. Jonathan Elkhoury highlights the repeated wording and asks who is funding the campaign.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1965871381419352506"
+    ],
+    "nowTweets": [
+      "1965881797998432685"
+    ],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

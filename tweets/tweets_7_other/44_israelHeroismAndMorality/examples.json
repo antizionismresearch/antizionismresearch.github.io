@@ -1151,5 +1151,67 @@
       "1983373389990633575"
     ],
     "sourceLink": "https://www.israaid.org/media/israaid-responds-to-hurricane-ian-in-florida/"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-20",
+    "claimIds": [
+      "44",
+      "31g"
+    ],
+    "exampleId": "codex-20261020-b2-036",
+    "keywordIds": [],
+    "text": "IDF soldiers repel a Hamas tunnel assault on an outpost near Khan Younis, killing about 10 attackers after at least 18 emerge around the position.",
+    "source": false,
+    "standaloneTweets": [
+      "1958112519102333096"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-16",
+    "claimIds": [
+      "44"
+    ],
+    "exampleId": "codex-20261020-b2-058",
+    "keywordIds": [],
+    "text": "Druze demonstrators in Suwayda display Israeli flags and messages thanking Benjamin Netanyahu after Israel intervenes during sectarian fighting in southern Syria.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1945427349299659082"
+    ],
+    "nowTweets": [
+      "1956760458234372280"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-12",
+    "claimIds": [
+      "44"
+    ],
+    "exampleId": "codex-20261020-b2-076",
+    "keywordIds": [
+      "Human shields"
+    ],
+    "text": "The Israeli Air Force reports terrorists using a fake World Central Kitchen emblem on a vehicle; WCK confirms the vehicle and people were not affiliated with it. Hamas exploits civilian and humanitarian elements to impede the IDF, knowing it does not target civilians.",
+    "source": false,
+    "standaloneTweets": [
+      "1955344861797732750"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

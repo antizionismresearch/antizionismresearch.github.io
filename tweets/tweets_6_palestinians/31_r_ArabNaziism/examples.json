@@ -1,5 +1,26 @@
 [
   {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-20",
+    "claimIds": [
+      "30a",
+      "31r"
+    ],
+    "exampleId": "codex-20261020-b2-032",
+    "keywordIds": [],
+    "text": "Lebanese journalist Ghadi Francis invokes the Geneva Conventions to claim a right to kill Israelis anywhere, including Paris, and tells Israelis to return to Poland.",
+    "source": true,
+    "standaloneTweets": [
+      "1958056095970124073"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.thejc.com/news/world/lebanese-people-have-the-right-to-kill-israelis-anywhere-in-the-world-says-journalist-ouwdzq7o"
+  },
+  {
     "dateAdded": "",
     "date": "1977-11-19",
     "claimIds": [
@@ -178,6 +199,74 @@
     "thenVsNowFormat": false,
     "thenTweets": [],
     "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-31",
+    "claimIds": [
+      "31r",
+      "31a",
+      "5"
+    ],
+    "exampleId": "codex-20261020-next150-029",
+    "keywordIds": [
+      "Dan Blizerian",
+      "Mehdi Hasan",
+      "Cenk Uygur",
+      "Abby Martin"
+    ],
+    "text": "Houthi personnel perform Nazi salutes while chanting “Death to America,” “Death to Israel” and “Curse the Jews.” The anti-racists, antizionists who hate Naziism and accuse Israel of being the new Nazi regime wept like willows over Israel eliminating the leadership of a terrorist regime that does literal Nazi salutes. Just blame Israel and move to the next day's lie.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1961973070861595063"
+    ],
+    "usTweets": [
+      "1962186827626164619",
+      "1961882179216248985"
+    ],
+    "sourceLink": "https://2021-2025.state.gov/reports/2021-report-on-international-religious-freedom/yemen/"
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-04-26",
+    "claimIds": [
+      "32",
+      "31r",
+      "13"
+    ],
+    "exampleId": "codex-20261020-next150-001",
+    "keywordIds": [],
+    "text": "BBC Arabic contributor Samer Elzaenen wrote that he would burn Jews “as Hitler did,” and later urged people to shoot Jews. The screenshot exposes the antisemitic threats behind the journalist label.",
+    "source": true,
+    "standaloneTweets": [
+      "1962523310572368270"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.timesofisrael.com/gazan-journalist-who-appears-on-bbc-arabic-called-to-burn-jews-in-resurfaced-posts/"
+  },
+  {
+    "dateAdded": "",
+    "date": "1941-11-28",
+    "claimIds": [
+      "33",
+      "31r"
+    ],
+    "exampleId": "00003301",
+    "keywordIds": [],
+    "text": "Palestinians favored Nazis prior to the establishment of the state of Israel, prior to 'occupation', 'apartheid'. Prior to any accusations of 'genocide' against Palestinians, but right as there was an actual genocide happening against Jews in Europe. Here’s Hitler meeting with the Grand Mufti Haj Amin al-Husseini of Jerusalem, then the British-installed Arab leader of Jerusalem. Hitler was said to have told him, “Germany stood for uncompromising war against the Jews. That naturally included active opposition to the Jewish national home in Palestine.”",
+    "standaloneTweets": [
+      "2015926940738158869"
+    ],
     "themTweets": [],
     "usTweets": []
   }

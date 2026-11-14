@@ -1,5 +1,30 @@
 [
   {
+    "dateAdded": "2026-10-07",
+    "date": "2025-11-11",
+    "claimIds": [
+      "4",
+      "45",
+      "56",
+      "5"
+    ],
+    "exampleId": "codex-20261007-007",
+    "keywordIds": [],
+    "text": "At a UCL lecture, Samar Maqusi presents the Damascus blood libel—that Jews murdered a priest to use his blood in holiday bread—as fact.",
+    "source": true,
+    "standaloneTweets": [
+      "1989824787255005428",
+      "1989000822202777610",
+      "1988921774634045809"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.ucl.ac.uk/arts-humanities/news/2025/nov/statement-hjs-blood-libel-incident"
+  },
+  {
     "dateAdded": "2026-10-11",
     "date": "2025-10-12",
     "claimIds": [
@@ -20,6 +45,33 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-02",
+    "date": "2026-02-26",
+    "claimIds": [
+      "32",
+      "45",
+      "17",
+      "4",
+      "31a",
+      "31b",
+      "12"
+    ],
+    "exampleId": "codex-20261002-latest50-45",
+    "keywordIds": [],
+    "text": "Mark Zlochin challenges Zack Polanski’s Sky News claim that Israel kills a classroom of children daily, contrasting it with a recent UNICEF tally.",
+    "source": false,
+    "thenVsNowFormat": false,
+    "standaloneTweets": [],
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "2027146588867404018"
+    ],
+    "usTweets": [
+      "2027357452493095158"
+    ]
   },
   {
     "dateAdded": "",
@@ -387,5 +439,131 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-22",
+    "claimIds": [
+      "45",
+      "30x",
+      "48"
+    ],
+    "exampleId": "codex-20261012-166-094",
+    "keywordIds": [],
+    "text": "French president Emmanuel Macron calls recognition of Palestine a defeat for Hamas; Hamas officials Ezzat al-Rishq and Ghazi Hamad instead celebrate recognition as victory and the “fruits of October 7.”",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1970219812119822802"
+    ],
+    "usTweets": [
+      "1970221090141073878",
+      "1969841314503201130",
+      "1969774339126882702"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-03",
+    "claimIds": [
+      "45",
+      "11"
+    ],
+    "exampleId": "codex-20261019-150-116",
+    "keywordIds": [
+      "IAGS"
+    ],
+    "text": "Researcher Aizenberg joins the International Association of Genocide Scholars without academic credentials, then exposes its open membership rules and the removal of its membership page and directory after scrutiny of the Gaza genocide vote.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1962574766595768483"
+    ],
+    "usTweets": [
+      "1963252885266862469",
+      "1963122617587515873",
+      "1963119386509672850",
+      "1963249954278830541"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-02",
+    "claimIds": [
+      "45",
+      "41"
+    ],
+    "exampleId": "codex-20261019-150-125",
+    "keywordIds": [
+      "IAGS"
+    ],
+    "text": "Genocide scholar Sara Brown says dissenters were deliberately silenced in the International Association of Genocide Scholars’ Gaza vote. Gilead Ini challenges Amnesty head Agnes Callamard’s “overwhelming majority” claim and shows activist doctor Nidal Jboor listed as a member.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1962574766595768483"
+    ],
+    "usTweets": [
+      "1962966133063221356",
+      "1962906333394415929"
+    ],
+    "sourceLink": "https://www.timesofisrael.com/genocide-scholar-says-group-pushed-through-israel-condemnation-without-debate/amp/"
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-09-02",
+    "claimIds": [
+      "45",
+      "11"
+    ],
+    "exampleId": "codex-20261020-next150-005",
+    "keywordIds": [],
+    "text": "The International Association of Genocide Scholars’ Gaza declaration is marketed as an expert verdict. Yehuda Teitelbaum challenges its president’s statements and shows that membership also includes activists, artists and students, with income-based annual dues starting at $30.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1962574766595768483"
+    ],
+    "usTweets": [
+      "1962984187813568626"
+    ],
+    "sourceLink": "https://genocidescholars.org/wp-content/uploads/2025/08/IAGS-Resolution-on-Gaza-FINAL.pdf"
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-09-01",
+    "claimIds": [
+      "45",
+      "11"
+    ],
+    "exampleId": "codex-20261020-next150-006",
+    "keywordIds": [],
+    "text": "Genocide scholar Sara Brown says the IAGS Gaza declaration suppressed internal scrutiny: a promised town hall was cancelled, objections were blocked, and members were not told who authored the resolution.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1962574766595768483"
+    ],
+    "usTweets": [
+      "1962611572762910940",
+      "1962611576109969576",
+      "1962611578899255746"
+    ],
+    "sourceLink": "https://genocidescholars.org/wp-content/uploads/2025/08/IAGS-Resolution-on-Gaza-FINAL.pdf"
   }
 ]

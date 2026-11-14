@@ -48,6 +48,91 @@
   },
   {
     "dateAdded": "",
+    "date": "2026-09-16",
+    "claimIds": [
+      "30w",
+      "30x"
+    ],
+    "exampleId": "0000030w0002",
+    "keywordIds": [],
+    "text": "Red Pill Media: 'Free Palestine is not enough for me. I want to destroy Israel.'",
+    "standaloneTweets": [
+      "2100330388795310428"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": []
+  },
+  {
+    "dateAdded": "2026-10-01",
+    "date": "2026-09-30",
+    "claimIds": [
+      "30w",
+      "30x"
+    ],
+    "exampleId": "claude-b05-10r",
+    "keywordIds": [
+      "Mamdani"
+    ],
+    "text": "While Mayor Zohran Mamdani released a video against antisemitism, New York City's first lady, Rama Duwaji, was artist-in-residence at a Women Sanctuary retreat in a Portuguese castle. Its organizers had posted “Abolish the colonial apartheid state of Israel” and a prayer asking Allah to “cleanse Palestine” of Jewish “oppressors.”",
+    "source": true,
+    "sourceLink": "https://freebeacon.com/america/nycs-first-lady-is-in-residence-at-israel-hating-islamic-wellness-retreat-in-portuguese-castle-organizers-called-for-abolishing-israel-cleansing-it-of-je/",
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "2104949847421796398"
+    ],
+    "usTweets": [
+      "2105420602437943330"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-08",
+    "date": "2025-11-02",
+    "claimIds": [
+      "30w",
+      "30y",
+      "27",
+      "30x"
+    ],
+    "exampleId": "codex-20261008-044",
+    "keywordIds": [],
+    "text": "From 'Criticism of Israel' to 'calling for the end of Israel' in less than 240 characters. If antizionism isn't antisemitism it's their permission slip for anything.",
+    "source": false,
+    "standaloneTweets": [
+      "1985290796854137002"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-17",
+    "claimIds": [
+      "30w",
+      "30x",
+      "26"
+    ],
+    "exampleId": "codex-20261020-b2-042",
+    "keywordIds": [],
+    "text": "Real-estate developer Mohamed Hadid shares: “We no longer demand a ceasefire. We demand an end to the state of Israel.”",
+    "source": false,
+    "standaloneTweets": [
+      "1957218075071435127"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
     "date": "2025-01-01",
     "claimIds": [
       "30x"
@@ -718,6 +803,205 @@
     "usTweets": []
   },
   {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-19",
+    "claimIds": [
+      "30x"
+    ],
+    "exampleId": "codex-20261012-166-084",
+    "keywordIds": [],
+    "text": "France thought giving Ayatollah Khomeini asylum and then sending him on a free Air France flight to Iran was the “best way” to help the Iranian people. He returned to Iran and ruled the world's largest state sponsor of terror, imposing Sharia law on the home population. Now, recognizing Palestine is the \"best way to isolate Hamas.\" Thanks France, you're so good at this!",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1842666741895454911"
+    ],
+    "nowTweets": [
+      "1969047961653915775"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2024-10-02",
+    "claimIds": [
+      "30x"
+    ],
+    "exampleId": "codex-20261012-166-155",
+    "keywordIds": [],
+    "text": "Canadian prime minister Justin Trudeau affirms Israel’s right to respond to Iran’s missile attack while simultaneously calling for no further escalation.",
+    "source": false,
+    "standaloneTweets": [
+      "1841562195320308198"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-23",
+    "claimIds": [
+      "30x"
+    ],
+    "exampleId": "codex-20261012-166-088-r1",
+    "keywordIds": [],
+    "text": "As Canadian PM Mark Carney reaffirms recognition of Palestinian terror state, look at FM Anita Anand jump up to applaud, with dutiful glee, like a cheerleader. At the same time they’re wishing Jews ‘Shana Tova’, they’re stabbing them in the back, with applause.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1970151257986785692",
+      "1970160186485801334"
+    ],
+    "usTweets": [
+      "1970367526648549415"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2024-09-04",
+    "claimIds": [
+      "30x"
+    ],
+    "exampleId": "codex-20261012-166-158-r1",
+    "keywordIds": [],
+    "text": "UK prime minister Keir Starmer affirms Israel’s right to defend itself after his government suspends some arms-export licences to Israel.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1830633780882624672"
+    ],
+    "nowTweets": [
+      "1831319740381356447"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-10",
+    "claimIds": [
+      "30x",
+      "30"
+    ],
+    "exampleId": "codex-20261019-150-076",
+    "keywordIds": [],
+    "text": "Antizionist commentator Noah Samsen calls fears of intifada-style suicide bombings in New York “paranoid fantasies” and labels those who fear them “racist freaks.” Adin Haykin replies with the 1997 Brooklyn bombing plot, in which police found pipe bombs and arrested Palestinian suspects.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1965535279021965386"
+    ],
+    "usTweets": [
+      "1965797878053642431"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-03-05",
+    "claimIds": [
+      "30x",
+      "8",
+      "4"
+    ],
+    "exampleId": "codex-20261020-b2-068",
+    "keywordIds": [],
+    "text": "Palestinian writer Mohammed el-Kurd says he is less concerned with the accuracy of “apartheid” than its negative connotation and portraying Israel as the villain.",
+    "source": true,
+    "standaloneTweets": [
+      "1956528882762314042"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://aijac.org.au/wp-content/uploads/2023/03/AIR-48-4-digital.pdf"
+  },
+  {
+    "dateAdded": "",
+    "date": "2008-02-29",
+    "claimIds": [
+      "31c",
+      "30x",
+      "31k",
+      "31g"
+    ],
+    "exampleId": "00000031c11",
+    "keywordIds": [
+      "We teach life"
+    ],
+    "text": "Hamas leader Fathi Hammad: '[The enemies of Allah] do not know that the Palestinian people has developed its [methods] of death and death-seeking. For the Palestinian people, death has become an industry, at which women excel, and so do all the people living on this land. The elderly excel at this, and so do the mujahideen and the children. This is why they have formed human shields of the women, the children, the elderly, and the mujahideen, in order to challenge the Zionist bombing machine. It is as if they were saying to the Zionist enemy: We desire death like you desire life.'",
+    "deepDive": false,
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "2021612189325340896"
+    ],
+    "nowTweets": [
+      "2021423403505418394"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "2026-01-13",
+    "claimIds": [
+      "31c",
+      "52",
+      "30x"
+    ],
+    "exampleId": "codex-20261004-next100-054",
+    "keywordIds": [],
+    "text": "After terrorists killed 15 people at a Jewish Hanukkah celebration at Bondi Beach, Australia’s response is prioritizing protection against Islamophobia over confronting Islamist extremism.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "2000592575091331247",
+      "2000651544375509125",
+      "2000491143856070691",
+      "2000713056267989491",
+      "2000641812470333525"
+    ],
+    "nowTweets": [
+      "2011096617164685814"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-08",
+    "date": "2025-11-02",
+    "claimIds": [
+      "31c",
+      "30x"
+    ],
+    "exampleId": "codex-20261008-048",
+    "keywordIds": [],
+    "text": "A screenshot juxtaposes an “Anti Eyal Yakoby Club” account calling Israel the new Nazi with the same account posting “Heil Hitler.”",
+    "source": false,
+    "standaloneTweets": [
+      "1985085226532401594"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "2026-10-10",
     "date": "2015-09-04",
     "claimIds": [
@@ -765,6 +1049,91 @@
       "1978689701721571598"
     ],
     "sourceLink": "https://www.israelnationalnews.com/news/143617"
+  },
+  {
+    "dateAdded": "",
+    "date": "2024-02-05",
+    "claimIds": [
+      "31e",
+      "30x",
+      "47"
+    ],
+    "exampleId": "31e30",
+    "keywordIds": [
+      "children"
+    ],
+    "text": "CCTV footage shows a 14-year-old Palestinian child attempting to stab an Israeli Border Police officer near Al-Eizariya, east of Jerusalem. The Palestinian was killed on the spot. According to antizionists, it was just an Israeli officer shooting him dead for no reason.",
+    "source": false,
+    "usTweets": [
+      "1754511526222843977",
+      "1754489519213015063"
+    ],
+    "themTweets": [
+      "1754493762519146721"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-01-27",
+    "claimIds": [
+      "31o",
+      "30x"
+    ],
+    "exampleId": "0000031o0004",
+    "keywordIds": [],
+    "text": "It's 'SCANDALOUS' that 'Zionists' and the 'far right' edited out an obviously insincere disclaimer from Muhammad Jihad: 'The one who's willing to commit suicide has the advantage. Now I'm not saying go commit suicide ...'. But then in another video: 'Prepare against the infidels, the enemies of Allah and terrorize them. I will cast Terror into the hearts of the disbelievers, so strike their necks and fingers.' The message is obvious.",
+    "source": false,
+    "standaloneTweets": [],
+    "themTweets": [
+      "2016269917964714330"
+    ],
+    "usTweets": [
+      "2016447232988344444",
+      "2016514245924696240",
+      "2016560781652087073",
+      "2016398204267384973"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2024-10-19",
+    "claimIds": [
+      "31o",
+      "31i",
+      "30x"
+    ],
+    "exampleId": "0000031o0005",
+    "keywordIds": [],
+    "text": "Dr. Said Masih Noori (@Doctor_N_masih), an NHS doctor in the UK, on October 19, 2024: 'I am a Muslim. Daily, I treat Jews, and I have taken a hypocritical oath that outlines my responsibilities in the Buckingham crew. However, I must admit that if I had the power, I would vanish every Jew.' Fearing revocation of his medical license, he posts an apology. A few hours later, he reposts a comment wishing death for an injured Israeli.",
+    "source": false,
+    "standaloneTweets": [
+      "1848088830982647851"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-03",
+    "claimIds": [
+      "31o",
+      "30x"
+    ],
+    "exampleId": "codex-20261011-b2-041",
+    "keywordIds": [],
+    "text": "Manchester synagogue attacker Jihad al-Shamie’s father condemns his son’s “heinous act”; screenshots show his October 7, 2023 praise for the attackers as “men of God,” and later antizionist posts featuring Mehdi Hasan and Francesca Albanese.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1974086553812304120"
+    ],
+    "nowTweets": [
+      "1974111937568125123",
+      "1974099277808087284"
+    ],
+    "themTweets": [],
+    "usTweets": []
   },
   {
     "dateAdded": "2026-10-03",

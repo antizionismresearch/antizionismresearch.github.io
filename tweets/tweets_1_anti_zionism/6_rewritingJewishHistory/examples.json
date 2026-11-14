@@ -276,5 +276,175 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2025-08-12",
+    "claimIds": [
+      "6",
+      "41"
+    ],
+    "exampleId": "codex-20261012-166-149",
+    "keywordIds": [],
+    "text": "Amnesty UK says no modern conflict has killed more journalists than Gaza and lists only 69 for World War II; Aizenberg counters with Yad Vashem’s Holocaust records of 1,425 journalists.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1955220514324034036"
+    ],
+    "usTweets": [
+      "1955359352845636026"
+    ],
+    "sourceLink": "https://www.jpost.com/israel-news/article-864300"
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-31",
+    "claimIds": [
+      "6",
+      "56"
+    ],
+    "exampleId": "codex-20261020-next150-034",
+    "keywordIds": [],
+    "text": "“FREE GAZA” is scratched into Lyon’s memorial to Jewish children murdered in the Holocaust, using the memory of murdered Jews as a target for antizionist vandalism.",
+    "source": false,
+    "standaloneTweets": [
+      "1962102290774405493",
+      "1962102835484434606"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-12",
+    "claimIds": [
+      "6",
+      "41",
+      "55y"
+    ],
+    "exampleId": "codex-20261020-b2-080",
+    "keywordIds": [],
+    "text": "Amnesty UK claims Gaza has the highest journalist death toll of any modern conflict and lists just 69 for World War II. It erases 1,425 journalist documented by Yad Vashem killed in the Holocaust. There was a massive Yiddish press in Europe at the time erased by the Nazis.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1955220514324034036"
+    ],
+    "usTweets": [
+      "1955359352845636026"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "1929-08-24",
+    "claimIds": [
+      "6",
+      "31a",
+      "33",
+      "55y"
+    ],
+    "exampleId": "codex-20261020-b2-027-r1-hebron",
+    "keywordIds": [],
+    "text": "The Young Turks host Cenk Uygur says Muslims and Jews got along until 1948. Arab mobs massacred 67 Jews in Hebron in August 1929, destroying the city’s longstanding Jewish community nearly two decades before Israel’s independence.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1957897692161728703"
+    ],
+    "usTweets": [
+      "1958007730565755085",
+      "1958145686404235362"
+    ],
+    "sourceLink": "https://hebron.org.il/en/martyrs-of-the-1929-riots-in-hebron/"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "1838-07-05",
+    "claimIds": [
+      "6",
+      "31a",
+      "33",
+      "55y"
+    ],
+    "exampleId": "codex-20261020-b2-027-r1-safed",
+    "keywordIds": [
+      "Muslims welcomed Jews"
+    ],
+    "text": "The Young Turks host Cenk Uygur says Muslims and Jews got along until 1948. In 1838, Druze rebels and a local Muslim mob attacked Safed’s Jewish community for three days, plundering homes and desecrating synagogues more than a century before Israel’s independence.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1957897692161728703"
+    ],
+    "usTweets": [
+      "1958193343478817022",
+      "1958193854110367891",
+      "1958221696227213373"
+    ],
+    "sourceLink": "https://www.fondapol.org/app/uploads/2024/04/240-bensoussan-gb-2024-04-29-w-4.pdf"
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "2026-01-15",
+    "claimIds": [
+      "31c",
+      "6",
+      "16",
+      "30x",
+      "52"
+    ],
+    "exampleId": "codex-20261004-next100-030",
+    "keywordIds": [],
+    "text": "A post criticizes an Islamophobia-focused legislative response after the Bondi attack on Jews.",
+    "source": false,
+    "standaloneTweets": [
+      "2011889551799947643"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "1945-01-01",
+    "claimIds": [
+      "33",
+      "6",
+      "31a",
+      "31c",
+      "52x"
+    ],
+    "exampleId": "00003303",
+    "keywordIds": [
+      "March of Time",
+      "documentary"
+    ],
+    "text": "In this short clip from the same film, the narrator talks of massive Arab migration into Palestine as a result of the financial opportunities created by Jewish presence, as well as mentioning how large swaths of land were legally purchased by Jews from wealthy Arab landowners.",
+    "standaloneTweets": [],
+    "themTweets": [
+      "2037135474410565772"
+    ],
+    "usTweets": [
+      "2037298760674382124",
+      "2037298847345524875"
+    ]
   }
 ]

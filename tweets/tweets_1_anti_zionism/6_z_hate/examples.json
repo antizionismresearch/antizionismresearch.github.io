@@ -420,5 +420,59 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-11",
+    "claimIds": [
+      "6z",
+      "24",
+      "56",
+      "30x",
+      "30y",
+      "27"
+    ],
+    "exampleId": "codex-20261019-150-058",
+    "keywordIds": [],
+    "text": "Jewish students expose antisemitic Western University group chats with Hitler memes, praise for Hamas, tips for concealing knives, threats to “pop some Israelis,” and instructions to say “Zionists” instead of Jews to avoid consequences.",
+    "source": false,
+    "standaloneTweets": [
+      "1965753477541605479",
+      "1965935755269652640",
+      "1966121325795357176",
+      "1965859347931738277"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-09-29",
+    "date": "2026-04-18",
+    "claimIds": [
+      "21a",
+      "6z",
+      "4",
+      "47",
+      "53",
+      "56"
+    ],
+    "exampleId": "claude-b04-02",
+    "keywordIds": [
+      "Sweden"
+    ],
+    "text": "At a pro-Palestinian march in Stockholm, a protester dressed as a Jew in a kippah and a bloodstained apron acted out slaughtering a Palestinian woman and cutting a baby from her womb. Israel's ambassador called it centuries-old blood libel repackaged against “Zionists.” This is what they mean when they accuse Israel of killing children.",
+    "source": true,
+    "sourceLink": "https://www.theyeshivaworld.com/news/israel-news/2537822/this-is-europe-2026-shock-in-stockholm-over-gruesome-antisemitic-display.html",
+    "standaloneTweets": [
+      "2045772626526630348"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

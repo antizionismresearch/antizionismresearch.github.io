@@ -423,7 +423,7 @@
   },
   {
     "dateAdded": "2026-10-03",
-    "date": "2023-10-07",
+    "date": "2024-10-22",
     "claimIds": [
       "14"
     ],
@@ -448,6 +448,51 @@
       "1883079012601475143",
       "1888155522743914697",
       "1892511403862290629"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-01",
+    "claimIds": [
+      "14",
+      "31b",
+      "46"
+    ],
+    "exampleId": "codex-20261020-next150-028",
+    "keywordIds": [],
+    "text": "Iranians main water expert Mohsen Arbabian: U.S. and Israel are manipulating the weather by redirecting rain clouds away from Iran to deliberately trigger drought.",
+    "source": false,
+    "standaloneTweets": [
+      "1951178202488963166"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-29",
+    "claimIds": [
+      "31o",
+      "14",
+      "46",
+      "30x"
+    ],
+    "exampleId": "codex-20261012-166-009",
+    "keywordIds": [],
+    "text": "Journalist Glenn Greenwald portrays warnings about Islamist threats as serving Israel’s agenda; the response presents clerics explicitly threatening America and promising jihad. But as long as it might peripherally be within Israel's interest, it can't be accepted.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1972706762953286055"
+    ],
+    "usTweets": [
+      "1972770993136374219"
     ]
   },
   {

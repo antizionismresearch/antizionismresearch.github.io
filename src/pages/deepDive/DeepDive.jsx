@@ -71,6 +71,15 @@ export default function DeepDive({ study, pageId, onChapter, onClose }) {
   const previousChapter = useRef(null);
   const currentIndex = study.pages.findIndex(page => page.id === pageId);
   const chapter = study.pages[currentIndex];
+  const [columns, setColumns] = useState(() => window.matchMedia('(max-width: 760px)').matches ? 2 : 4);
+  const rowEnd = Math.min(study.pages.length - 1, (Math.floor(currentIndex / columns) + 1) * columns - 1);
+  useEffect(() => {
+    const mobile = window.matchMedia('(max-width: 760px)');
+    const update = () => setColumns(mobile.matches ? 2 : 4);
+    update();
+    mobile.addEventListener('change', update);
+    return () => mobile.removeEventListener('change', update);
+  }, []);
   useEffect(() => {
     const el = dialog.current;
     const trigger = document.activeElement;
@@ -87,20 +96,38 @@ export default function DeepDive({ study, pageId, onChapter, onClose }) {
     if (chapter) {
       previousChapter.current = chapter.id;
       chapterRef.current?.focus({ preventScroll: true });
-      chapterRef.current?.scrollIntoView({ block: 'start' });
+      tiles.current.get(chapter.id)?.scrollIntoView({ block: 'nearest' });
     } else if (previousChapter.current) {
       const tile = tiles.current.get(previousChapter.current);
       tile?.focus({ preventScroll: true });
       tile?.scrollIntoView({ block: 'nearest' });
     }
-  }, [chapter]);
+  }, [chapter, columns]);
   return createPortal(<dialog ref={dialog} className="deep-dive" aria-labelledby="deep-dive-title" onCancel={event => { event.preventDefault(); onClose(); }}>
     <header className="dive-header">
       <div><span className="dive-kicker">Deep dive · {study.pages.length} chapters</span><h1 id="deep-dive-title">{study.title.replace(/\s*·\s*deep dive$/i, '')}</h1></div>
       <button className="button dive-close" autoFocus onClick={onClose}><X size={17} /> <span>Return to timeline</span></button>
     </header>
     <div className="dive-body">
-      {chapter && <div className="dive-expanded" ref={chapterRef} tabIndex={-1}>
+      <div className="dive-overview">
+        {study.text && <p className="dive-summary">{study.text}</p>}
+        <div className="dive-tiles" aria-label="Case study chapters">
+          {study.pages.map((page, index) => {
+            const image = asset(page.coverUrl);
+            const overlay = (page.topline ?? '').trim();
+            return <React.Fragment key={page.id}>
+            <button ref={el => { if (el) tiles.current.set(page.id, el); else tiles.current.delete(page.id); }}
+              className="dive-tile" aria-current={page.id === chapter?.id ? 'step' : undefined}
+              aria-expanded={page.id === chapter?.id} aria-controls={page.id === chapter?.id ? 'dive-open-chapter' : undefined}
+              onClick={() => onChapter(page.id === chapter?.id ? null : page.id)}>
+              {image && <img src={image} alt="" loading="lazy" referrerPolicy="no-referrer" />}
+              <span className="dive-tile-index">{String(index + 1).padStart(2, '0')}</span>
+              <span className="dive-tile-label">
+                <strong>{page.tileTitle?.trim() || page.title}</strong>
+                {overlay && <span className="dive-tile-preview">{overlay}</span>}
+              </span>
+            </button>
+            {chapter && index === rowEnd && <div id="dive-open-chapter" className="dive-expanded" ref={chapterRef} tabIndex={-1}>
         <div className="dive-chapter-nav">
           <button className="button" onClick={() => onChapter(null)}><ArrowLeft size={16} /> All chapters</button>
           <span>Chapter {currentIndex + 1} of {study.pages.length}</span>
@@ -111,21 +138,7 @@ export default function DeepDive({ study, pageId, onChapter, onClose }) {
           <button className="button" disabled={currentIndex === study.pages.length - 1} onClick={() => onChapter(study.pages[currentIndex + 1].id)}>Next chapter <ArrowRight size={16} /></button>
         </div>
       </div>}
-      <div className="dive-overview">
-        {chapter ? <h2>Explore the full case study</h2> : study.text && <p className="dive-summary">{study.text}</p>}
-        <div className="dive-tiles" aria-label="Case study chapters">
-          {study.pages.map((page, index) => {
-            const image = asset(page.coverUrl);
-            return <button key={page.id} ref={el => { if (el) tiles.current.set(page.id, el); else tiles.current.delete(page.id); }}
-              className="dive-tile" aria-current={page.id === chapter?.id ? 'step' : undefined}
-              onClick={() => onChapter(page.id === chapter?.id ? null : page.id)}>
-              {image && <img src={image} alt="" loading="lazy" referrerPolicy="no-referrer" />}
-              <span className="dive-tile-index">{String(index + 1).padStart(2, '0')}</span>
-              <span className="dive-tile-label">
-                <strong>{page.title}</strong>
-                {page.topline && <span className="dive-tile-preview">{page.topline}</span>}
-              </span>
-            </button>;
+            </React.Fragment>;
           })}
         </div>
       </div>

@@ -1,6 +1,23 @@
 [
   {
     "dateAdded": "",
+    "date": "2024-02-25",
+    "claimIds": [
+      "1",
+      "25",
+      "31h"
+    ],
+    "exampleId": "0000001001",
+    "keywordIds": [],
+    "text": "Muslims attacked another Muslim business because they sell Coca-Cola, and antizionists demand everyone boycott Coca-Cola as they deem it a 'Zionist' entity.",
+    "standaloneTweets": [
+      "1761915251660870008"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
     "date": "2025-06-01",
     "claimIds": [
       "25"
@@ -868,5 +885,120 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-20",
+    "claimIds": [
+      "25"
+    ],
+    "exampleId": "codex-20261012-166-100-r1",
+    "keywordIds": [],
+    "text": "A gunman opens fire at Sky Meadow Country Club in Nashua, New Hampshire; witnesses report him shouting “Free Palestine.”",
+    "source": false,
+    "standaloneTweets": [
+      "1969606048223740115",
+      "1970153008194531361"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-08-08",
+    "claimIds": [
+      "25",
+      "56"
+    ],
+    "exampleId": "codex-20261012-166-164-r1",
+    "keywordIds": [
+      "Canada"
+    ],
+    "text": "Today in Montreal Jewish father with 3 kids beaten in an unprovoked attack.",
+    "source": true,
+    "standaloneTweets": [
+      "1953934217735537075",
+      "1968046355940831521",
+      "1953987026631762199"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://montreal.citynews.ca/2025/09/15/man-assault-jewish-father-not-criminally-responsible/"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-01",
+    "claimIds": [
+      "25",
+      "6z",
+      "56"
+    ],
+    "exampleId": "codex-20261019-150-130",
+    "keywordIds": [],
+    "text": "A man on an e-scooter rams two Jewish women on London’s Clapton Common, shouting “f***ing Jew.” One suffers a fractured arm and facial injuries; the other is knocked down while carrying her three-year-old child.",
+    "source": false,
+    "standaloneTweets": [
+      "1962908838417379475"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-27",
+    "claimIds": [
+      "25",
+      "6z",
+      "56",
+      "30y",
+      "2"
+    ],
+    "exampleId": "codex-20261020-next150-045",
+    "keywordIds": [
+      "Canada"
+    ],
+    "text": "An elderly Jewish woman is stabbed in an Ottawa grocery store in an attack police classified as hate-motivated. Joseph Rooke was arrested and charged; reporting links him to openly antizionist social-media posts.",
+    "source": true,
+    "standaloneTweets": [
+      "1961792875991089214"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.jpost.com/diaspora/antisemitism/article-865723"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-26",
+    "claimIds": [
+      "25",
+      "56",
+      "Iran",
+      "31o"
+    ],
+    "exampleId": "codex-20261020-b2-019",
+    "keywordIds": [],
+    "text": "Australia expels Iran’s ambassador after ASIO finds the IRGC directed arson attacks on Melbourne’s Adass Israel Synagogue and Sydney’s Lewis Continental Kitchen.",
+    "source": true,
+    "standaloneTweets": [
+      "1960278969430732841"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://minister.homeaffairs.gov.au/TonyBurke/Pages/press-conference-parliament-house-26082025.aspx"
   }
 ]

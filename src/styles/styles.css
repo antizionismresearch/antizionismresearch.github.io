@@ -16,7 +16,7 @@ button:hover:not(:disabled) { background-color: #edf2f8; }
 .site-description { border-left: 1px solid var(--line); padding-left: 18px; font-size: 14px; color: var(--muted); }
 .site-header nav { margin-left: auto; display: flex; gap: 22px; font-size: 14px; }
 .site-header nav a { text-decoration: none; padding: 8px 0; }
-.site-header nav a:hover { text-decoration: underline; }
+.site-header nav a[aria-current="page"], .site-header nav a:hover { text-decoration: underline; }
 .archive-page { padding: 24px 36px 18px; }
 .calendar { min-width: 0; }
 .month-controls { display: flex; gap: 10px; align-items: center; margin-bottom: 12px; }

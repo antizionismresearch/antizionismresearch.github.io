@@ -298,5 +298,26 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://townhall.com/news/amy-curtis/2025/10/02/funding-the-fall-of-the-west-qatars-dirty-money-on-american-campuses-n2664360"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-10",
+    "claimIds": [
+      "50"
+    ],
+    "exampleId": "codex-20261019-150-085",
+    "keywordIds": [],
+    "text": "Northwestern appoints Henry Bienen as interim president amid scrutiny of its Qatar ties, even though Bienen helped launch the Qatar campus and sat on the Qatar Foundation’s advisory board.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1965786280039506279"
+    ],
+    "usTweets": [
+      "1965835200073785412"
+    ]
   }
 ]

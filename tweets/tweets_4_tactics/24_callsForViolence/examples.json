@@ -464,5 +464,96 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://nos.nl/artikel/2582406-tientallen-meldingen-en-aangiften-na-optreden-bob-vylan-in-amsterdam"
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2021-05-16",
+    "claimIds": [
+      "24",
+      "56",
+      "6y"
+    ],
+    "exampleId": "codex-20261020-next150-003",
+    "keywordIds": [
+      "United Kingdom",
+      "England",
+      "Britain"
+    ],
+    "text": "The London convoy that shouted “Fuck the Jews” and threatened to rape Jewish daughters in May 2021 in a Jewish area.",
+    "source": true,
+    "standaloneTweets": [
+      "1962969044773900416"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.jewishnews.co.uk/cps-chief-we-tried-as-hard-as-we-could-to-prosecute-palestine-car-convoy-suspects/"
+  },
+  {
+    "dateAdded": "2026-10-06",
+    "date": "2025-11-23",
+    "claimIds": [
+      "28",
+      "24",
+      "56"
+    ],
+    "exampleId": "codex-20261006-next100-046",
+    "keywordIds": [],
+    "text": "A street-interview clip from Ireland shows young people signing a petition as the interviewer invokes “October 7th ASAP”; Noa Magid condemns the support for Hamas.",
+    "source": false,
+    "standaloneTweets": [
+      "1992703425684144549"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2024-12-09",
+    "claimIds": [
+      "28",
+      "24",
+      "56"
+    ],
+    "exampleId": "codex-20261011-b2-005",
+    "keywordIds": [],
+    "text": "Fliers reading “Oct. 7 do it again” were found scattered through Melbourne, Australia.",
+    "source": false,
+    "standaloneTweets": [
+      "1866331307250500037"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2024-10-10",
+    "claimIds": [
+      "28",
+      "55y",
+      "24"
+    ],
+    "exampleId": "codex-20261012-166-154",
+    "keywordIds": [],
+    "text": "Writer Ta-Nehisi Coates says he does not know whether, growing up under Palestinian conditions, he would be strong enough to reject taking part when “the wall comes down,” in an exchange about October 7.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1844499893442007450"
+    ],
+    "usTweets": [
+      "1844682945124016454"
+    ]
   }
 ]

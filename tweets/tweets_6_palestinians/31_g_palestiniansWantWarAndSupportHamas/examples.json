@@ -23,6 +23,76 @@
     "usTweets": []
   },
   {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-27",
+    "claimIds": [
+      "27",
+      "31g",
+      "31l",
+      "1"
+    ],
+    "exampleId": "codex-20261012-166-013",
+    "keywordIds": [],
+    "text": "West Bank interviewees reject recognition of a Palestinian state limited to the 1967 lines, insisting on all of the land rather than coexistence with Israel.",
+    "source": false,
+    "standaloneTweets": [
+      "1972068543366942795",
+      "1972194610320658655"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2025-09-21",
+    "claimIds": [
+      "28",
+      "31g",
+      "52",
+      "22"
+    ],
+    "exampleId": "codex-20261012-166-123",
+    "keywordIds": [],
+    "text": "Antizionist activist Saiaf Abdallah openly supports Hamas and rejects peace in a talk-show exchange, after earlier being arrested for refusing to leave a gym while wearing an “Israel Kills Children” shirt.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1877024532579368967"
+    ],
+    "nowTweets": [
+      "1969661222564892969"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-09-29",
+    "date": "2026-03-24",
+    "claimIds": [
+      "30w",
+      "31g"
+    ],
+    "exampleId": "claude-b04-07",
+    "keywordIds": [
+      "SJP"
+    ],
+    "text": "UC Berkeley's Students for Justice in Palestine shared a reel of Farouk Salameh, a Jenin commander of Palestinian Islamic Jihad's al-Quds Brigade, saying armed struggle is “the only way,” that land taken by force “will be taken back by force,” and that there is “no place for negotiations.”",
+    "source": true,
+    "sourceLink": "https://www.algemeiner.com/2026/03/26/uc-berkeley-students-justice-palestine-shares-reel-calling-terrorism-against-israel-allies/",
+    "standaloneTweets": [
+      "2037214589574639927"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "",
     "date": "2019-05-27",
     "claimIds": [
@@ -39,6 +109,46 @@
     "sourceLink": "",
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2024-07-11",
+    "claimIds": [
+      "31e",
+      "31g",
+      "31j",
+      "31k"
+    ],
+    "exampleId": "31e12",
+    "keywordIds": [],
+    "text": "Kutaiba Hatab, student at UNRWA’s Jalazone school, directly funded by US taxpayers. His UNRWA school teaches him to “keep fighting until Palestine is liberated.” His dream: to “be a jihadist,” kill Jews for Allah, and “become a martyr.”",
+    "standaloneTweets": [
+      "1818980888492790216"
+    ],
+    "source": false,
+    "sourceLink": "",
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2023-08-21",
+    "claimIds": [
+      "31e",
+      "31g"
+    ],
+    "exampleId": "31e35",
+    "keywordIds": [
+      "Askar – UNRWA: Cradle of Killers by David Bedein’s Center for Near East Policy Research / CFNEPR"
+    ],
+    "text": "Palestinian children at an UNRWA school openly admit: “We are taught to kill Jews and sacrifice our souls for Allah.”",
+    "source": true,
+    "sourceLink": "https://vimeo.com/856467890",
+    "standaloneTweets": [
+      "2040061134774935643"
+    ],
+    "usTweets": [],
+    "themTweets": []
   },
   {
     "dateAdded": "",
@@ -569,6 +679,161 @@
     "standaloneTweets": [
       "1975354638561124699",
       "1975330644621131801"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-13",
+    "date": "2019-07-12",
+    "claimIds": [
+      "31g",
+      "31j",
+      "27"
+    ],
+    "exampleId": "codex-20261012-166-105",
+    "keywordIds": [],
+    "text": "Hamas leader Fathi Hamad calls for slaughtering Jews around the world, says a knife costs five shekels, and boasts that Gazans are ready to blow themselves up.",
+    "source": true,
+    "standaloneTweets": [
+      "1970127419966456027"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.terrorism-info.org.il/en/news-of-terrorism-and-the-israeli-palestinian-conflict-july-10-16-2019/"
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-05-06",
+    "claimIds": [
+      "31g",
+      "29"
+    ],
+    "exampleId": "codex-20261020-next150-024",
+    "keywordIds": [],
+    "text": "A May 2025 Palestinian Center for Policy and Survey Research poll found 64% of Gazans opposed disarming Hamas to end the war, while 33% supported it. A separate question found 51% opposed expelling Hamas leaders from Gaza and 47% supported it.",
+    "source": true,
+    "standaloneTweets": [
+      "1962476374691606912"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.pcpsr.org/sites/default/files/Poll%2095%20press%20release%206May2025%20ENGLISH.pdf"
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-26",
+    "claimIds": [
+      "31j",
+      "31g",
+      "31p",
+      "Iran",
+      "27"
+    ],
+    "exampleId": "codex-20261012-166-028",
+    "keywordIds": [],
+    "text": "Palestinian clerics call for destroying Israel, establishing a caliphate, conquering Europe and the Vatican, and using nuclear weapons against America until Islam rules the world. Compilation.",
+    "source": false,
+    "standaloneTweets": [
+      "1971452761712816247"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-07-31",
+    "claimIds": [
+      "31o",
+      "31g"
+    ],
+    "exampleId": "0000031o0016",
+    "keywordIds": [],
+    "text": "Canadian Islamic scholar Younus Kathrada: 'Palestine is Muslim land. No infidel can rule it. It cannot be governed by democracy or infidel laws, only Sharia. It is the Muslims' duty to expel the Jews from Palestine.'",
+    "source": false,
+    "standaloneTweets": [
+      "2087161607109394872"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-25",
+    "claimIds": [
+      "32",
+      "55y",
+      "31g"
+    ],
+    "exampleId": "codex-20261020-b2-013-r1",
+    "keywordIds": [],
+    "text": "Middle East Eye eulogizes Ahmed Abu Aziz as an “exceptional,” brave reporter killed by Israel. His own posts celebrated October 7 as his generation’s greatest day, thanked the attacking factions, called Thai hostages “mercenaries,” and labeled kidnapped girls Ella and Dafna Elyakim “Israeli soldiers.”",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1960006016671601002",
+      "1960021729872392403"
+    ],
+    "usTweets": [
+      "1960049758695010333",
+      "1960049768174145626",
+      "1960049776587633070",
+      "1960049784363868386",
+      "1960049792731496469",
+      "1960049800352506266",
+      "1960049809525486020"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "1967-05-01",
+    "claimIds": [
+      "33",
+      "31g",
+      "31r"
+    ],
+    "exampleId": "codex-20261004-next100-017",
+    "keywordIds": [],
+    "text": "CptAllenHistory shares an attributed 1967 Arab broadcast threatening Jews before the Six-Day War. \"Slaughter! Have no mercy on a Jew … Kill, smash, slaughter and tomorrow we will throw the bodies of the Jews into the sea.\"",
+    "source": false,
+    "standaloneTweets": [
+      "2012932270793818449"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "1967-05-27",
+    "claimIds": [
+      "33",
+      "31g",
+      "30w"
+    ],
+    "exampleId": "codex-20261004-next100-026",
+    "keywordIds": [],
+    "text": "CptAllenHistory shares material presenting destruction of Israel as an Arab objective in 1967.",
+    "source": false,
+    "standaloneTweets": [
+      "2012199315947590140"
     ],
     "thenVsNowFormat": false,
     "thenTweets": [],

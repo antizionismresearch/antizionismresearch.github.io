@@ -29,13 +29,22 @@ test('chapter evidence uses Tweet embeds, hosted screenshots, or source links, w
   const evidence = study.pages.flatMap(p => p.evidence);
   for (const item of evidence) {
     if (item.type === 'tweet') assert.match(item.tweetId, /^\d+$/);
-    else if (item.type === 'image') {
+    else if (item.id === 'image-1714686604189794524-0') {
+      assert.equal(item.type, 'image');
+      assert.equal(item.imageUrl, 'https://pbs.twimg.com/media/F8vKYNeagAI128H.jpg');
+      assert.equal(item.url, 'https://x.com/yashar/status/1714686604189794524');
+      assert.equal(item.tweetId, undefined);
+    } else if (item.id === '045b1b14-2210-4f2d-9177-5bc9ce3b965d') {
+      assert.equal(item.type, 'image');
+      assert.equal(item.imageUrl, 'https://pbs.twimg.com/media/F8vYeH-XYAA-Kkc?format=jpg&name=medium');
+      assert.equal(item.url, item.imageUrl);
+    } else if (item.type === 'image') {
       assert.match(item.imageUrl, /^https:\/\/honestreporting\.com\/app\/uploads\//);
       assert.match(item.url, /^https:\/\/honestreporting\.com\/media-commits/);
     } else { assert.equal(item.type, 'link'); assert.match(item.url, /^https?:/); }
     for (const key of ['mediaUrl', 'snapshot']) assert.equal(item[key], undefined);
   }
-  assert.deepEqual(evidence.filter(e => e.type === 'image').map(e => e.id).sort(), ['p1-abc-australia', 'p1-reuters']);
+  assert.deepEqual(evidence.filter(e => e.type === 'image').map(e => e.id).sort(), ['045b1b14-2210-4f2d-9177-5bc9ce3b965d', 'image-1714686604189794524-0', 'p1-abc-australia', 'p1-reuters']);
   for (const {coverUrl} of study.pages) {
     assert.ok(coverUrl);
     if (coverUrl.startsWith('case-study-thumbs/')) {

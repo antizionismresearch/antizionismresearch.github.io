@@ -1244,5 +1244,271 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://presseportal.zdf.de/pressemitteilung/identitaet-des-getoeteten-mitarbeiters-der-produktionsfirma-pmp-in-gaza-geklaert"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-10",
+    "claimIds": [
+      "13"
+    ],
+    "exampleId": "codex-20261020-b2-075",
+    "keywordIds": [],
+    "text": "Canada condemns Anas al-Sharif’s killing as that of a journalist; evidence shows his earlier Hamas media work and a January 2023 post using a Quranic verse to celebrate the murder of seven Jews outside a Jerusalem synagogue.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1954997812615102708"
+    ],
+    "usTweets": [
+      "1955233092521570331",
+      "1955155413172711451",
+      "1954938702200721835"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-25",
+    "claimIds": [
+      "13"
+    ],
+    "exampleId": "codex-20261020-b2-012-r1",
+    "keywordIds": [],
+    "text": "NBC cameraman Muath Abu Taha posted a masked-militant T-shirt as his profile image and later praised Ahmad Jarrar, who organized the murder of Rabbi Raziel Shevach.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1959897017712251205"
+    ],
+    "usTweets": [
+      "1960071153042493527",
+      "950843917448163329"
+    ],
+    "sourceLink": "https://www.idf.il/en/mini-sites/palestinian-terrorism/israeli-killed-in-a-shooting-attack/"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-25",
+    "claimIds": [
+      "13",
+      "32"
+    ],
+    "exampleId": "codex-20261020-b2-014-r1",
+    "keywordIds": [],
+    "text": "AP journalist Mariam Abu Daqqa, killed in the Nasser Hospital strike, taught photography through the Hamas-run Information Ministry; a 2019 ministry post shows her leading the session.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1959910605411713366"
+    ],
+    "usTweets": [
+      "1960071119001784570",
+      "1811687779195068849"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-25",
+    "claimIds": [
+      "13"
+    ],
+    "exampleId": "codex-20261020-b2-015-r1",
+    "keywordIds": [],
+    "text": "Al Jazeera cameraman Mohammed Salama, killed at Nasser Hospital, was documented inside Israel during the October 7 invasion and later filmed Hamas’s parade of the Bibas family’s bodies.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1959955437958173008",
+      "1959897017712251205"
+    ],
+    "usTweets": [
+      "1902389304908718510",
+      "1902389316325666938",
+      "1902389329646727284",
+      "1902389377214365792",
+      "1902389419610440020"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-09-19",
+    "claimIds": [
+      "31c",
+      "13",
+      "31a"
+    ],
+    "exampleId": "00000031c08",
+    "keywordIds": [],
+    "text": "BOMBSHELL: Motaz Azaiza admits he filmed Israeli hostages being beaten in the streets of Gaza on October 7, and deliberately never published it, to protect the identities of the people beating them. Azaiza is an influential 'photojournalist' from Ghazza. TIME named him to the TIME 100. He was nominated for the 2024 Nobel Peace Prize. CNN, the Guardian and Sky all interviewed him. Ms. Rachel Griffin-Accurso, who has 16 million subscribers, made a video for preschoolers introducing 'my friend Motaz.' She deleted it later.",
+    "deepDive": false,
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "2101098330369700327"
+    ],
+    "nowTweets": [
+      "2100991727595049171",
+      "2101414389094011220"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-09-19",
+    "claimIds": [
+      "31c",
+      "13",
+      "31a"
+    ],
+    "exampleId": "00000031c09",
+    "keywordIds": [
+      "Zohran Mamdani"
+    ],
+    "text": "Just the mayor of New York meeting multiple times with a man (Motaz Azaiza) who admitted being in Hamas groups to coordinate propaganda, and who filmed Hamas terrorists kidnapping and torturing Israeli civilians (but didn’t take part because he didn’t want to be killed).",
+    "deepDive": false,
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "2101664242139107328"
+    ],
+    "nowTweets": [
+      "2100991727595049171",
+      "2101414389094011220"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-27",
+    "claimIds": [
+      "31f",
+      "13"
+    ],
+    "exampleId": "codex-20261020-b2-004-r1-r2",
+    "keywordIds": [],
+    "text": "Freed hostage Sharon Aloni Cunio: she and her three-year-old twins were held at Nasser Hospital, where a nurse knew they were hostages and cooperated with their captivity.",
+    "source": true,
+    "standaloneTweets": [
+      "1960800996038263177"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://transcripts.cnn.com/show/acd/date/2024-01-17/segment/01"
+  },
+  {
+    "dateAdded": "",
+    "date": "2023-11-13",
+    "claimIds": [
+      "32",
+      "13",
+      "31a"
+    ],
+    "exampleId": "00003207",
+    "keywordIds": [],
+    "text": "On Oct. 16, 2023, reports came out that Israel had bombed al-Alhi hospital, killing 500 people. The media ran with it. The NY Times, AP, Reuters, Guardian, and LA Times all had it prominantly in their publications. The LA Times ran a front-page headline: 'At least 500 killed in Israeli airstrike on Gaza City Hospital, Gaza Healthy Ministry says'. In reality, an errant Palestinian Islamic Jihad rocket hit the hospital parking lot, as demonstrated in subsequent days by video footage, intercepted calls between Palestinian groups, and multiple independent open-source intel analaysts. The hospital itself was fully in tact and operational. And there were less than 10 killed.",
+    "themTweets": [
+      "1714343713801957435",
+      "1714353899040358550",
+      "1714619599017157072",
+      "1714336328312144180",
+      "1714593437142393153"
+    ],
+    "usTweets": [
+      "1714708365899612274",
+      "1714552335051989483",
+      "1714570324455416202",
+      "1714552321760202859",
+      "1714552323945472323",
+      "1714552325988053127",
+      "1714552328471138777",
+      "1714552330605973966",
+      "1714552332749357479",
+      "1714579782761959791",
+      "1714588649361207627"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2025-09-10",
+    "claimIds": [
+      "32",
+      "13",
+      "30a",
+      "45"
+    ],
+    "exampleId": "codex-20261012-166-129",
+    "keywordIds": [],
+    "text": "Washington Post headline says Israel killed 31 journalists but they are working for the Houthis, a designated terrorist group. A so-called \"expert\" for Human Rights Watch claims they are not legitimate targets because \"propaganda is not enough to make a media institution a military target\", but the Geneva Conventions explicitly says otherwise.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1969424930404995079",
+      "1969424932288290908",
+      "1969466169556918601",
+      "1969424936453226982"
+    ],
+    "usTweets": [
+      "1969424934481904038"
+    ],
+    "sourceLink": "https://marsadak.org/en/marsadak-condemns-the-targeting-of-26-september-and-al-yemen-newspapers-and-the-killing-of-31-journalists/"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-02",
+    "claimIds": [
+      "32",
+      "13"
+    ],
+    "exampleId": "codex-20261019-150-150",
+    "keywordIds": [],
+    "text": "The Guardian mourns Gaza media workers while its list includes 14 employees of Al-Aqsa TV, which the United States designated as a Hamas-controlled terrorist entity. Researcher Aizenberg points to the outlet’s role in recruiting children for terrorism.",
+    "source": true,
+    "standaloneTweets": [
+      "1962706409071473005",
+      "1962706411395133850"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://home.treasury.gov/news/press-releases/tg594"
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2014-08-11",
+    "claimIds": [
+      "32",
+      "13"
+    ],
+    "exampleId": "codex-20261020-next150-009",
+    "keywordIds": [],
+    "text": "The Foreign Press Association’s August 2014 statement condemned Hamas intimidation of foreign reporters in Gaza, including threats, harassment and attempts to blacklist journalists. The statement exposes coercion behind supposedly independent reporting.",
+    "source": false,
+    "standaloneTweets": [
+      "1962597725557412078"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

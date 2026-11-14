@@ -1,0 +1,378 @@
+{
+  "schemaVersion": "1.0",
+  "type": "caseStudy",
+  "exampleId": "case-mohammed-al-mutawaq-20250725",
+  "dateAdded": "2026-11-12",
+  "date": "2025-07-25",
+  "title": "3 starvation cases in 1 week reveal hypocrisy and the relentless force of media narrative",
+  "text": "July 31, 2025 - Aug. 17, 2025: the famine hoax in Gaza gets an image, real starvation of Israeli hostages is dismissed, and the exact same pattern plays out less than two weeks later.",
+  "claimIds": [
+    "32",
+    "4",
+    "10"
+  ],
+  "keywordIds": [
+    "Mohammed al-Mutawaaq"
+  ],
+  "timelineLinks": [
+    {
+      "entryId": "000001001",
+      "pageId": "mutawaq-front-page"
+    }
+  ],
+  "linkedEntryIds": [
+    "000001001",
+    "codex-20261020-b2-049-r1-nyt",
+    "case-al-ahli-20231017"
+  ],
+  "pages": [
+    {
+      "id": "mutawaq-front-page",
+      "title": "Mohammed’s photo makes headlines",
+      "date": "2025-07-25",
+      "topline": "The global frenzy began on July 23 2025, when the Daily Express ran the image of Mohammed on its front page to promote the narrative of a mass famine in Gaza.\n\nWithin hours, almost every major outlet was using the image to tell the same story. Sky News, CNN, The Guardian, Daily Mail, New York Times, and The Times (UK). Eager propagandist Ms. Rachel also shared it.",
+      "tileTitle": "A viral image of starvation in Gaza",
+      "coverUrl": "case-study-thumbs/70ebbe9eec20aa0cf728.jpg",
+      "evidence": [
+        {
+          "id": "d84f61a2-b8e5-4738-a6ed-2853f01500f8",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1950196286885679280"
+        },
+        {
+          "caption": "",
+          "publication": "Vivid.🇮🇱",
+          "date": "2025-07-27",
+          "type": "tweet",
+          "tweetId": "1949499916197265487"
+        },
+        {
+          "id": "fe2b3faa-c8c1-45a3-8c7b-d1feea279a89",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1949387654392398057"
+        },
+        {
+          "id": "4202b6f3-b59e-4a14-bb4c-f4962fa873ff",
+          "caption": "",
+          "type": "link",
+          "url": "https://pbs.twimg.com/media/Gw24DjhXMAAovSM?format=jpg&name=medium"
+        },
+        {
+          "id": "4e388a14-5e7e-4883-b404-aa8e05f0dbff",
+          "caption": "",
+          "type": "link",
+          "url": "https://pbs.twimg.com/media/Gw2deJXXkAAQZ1w?format=jpg&name=medium"
+        },
+        {
+          "caption": "",
+          "publication": "Open Source Intel",
+          "date": "2025-07-27",
+          "type": "tweet",
+          "tweetId": "1949348549059035352"
+        },
+        {
+          "caption": "",
+          "publication": "Hamas Atrocities",
+          "date": "2025-07-30",
+          "type": "tweet",
+          "tweetId": "1950497011918139463"
+        },
+        {
+          "id": "e2fa3021-38d5-4acb-bc7f-ef04caf51209",
+          "caption": "",
+          "type": "link",
+          "url": "https://pbs.twimg.com/media/GxCR0hAWYAEnavm?format=jpg&name=large"
+        }
+      ]
+    },
+    {
+      "id": "mutawaq-family-frame",
+      "title": "The wider family photos",
+      "date": "2025-07-30",
+      "topline": "The images were taken by an Anadolu Agency journalist Ahmed Jihad Ibrahim Al-arini and posted on his Instagram account. But another image of the family shows Mohammed with his 3-year-old brother Joud. Both mother and brother are healthy and fed. This is visible in multiple images.\n\nThe published images in all the various news broadcasts and publications either deliberately cropped out the image of the healthy brother, blurred him into obscurity, or the journalists chose to use photos in which the brother is not visible at all.",
+      "tileTitle": "Family photos tell a different story",
+      "coverUrl": "case-study-thumbs/020826b5d1df0354c99b.jpg",
+      "evidence": [
+        {
+          "id": "fb9079d6-59a2-4b1b-83be-138fdff3db43",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1949363288908734605"
+        },
+        {
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1950555821219230203"
+        },
+        {
+          "caption": "",
+          "publication": "Eyal Yakoby",
+          "date": "2025-07-30",
+          "type": "tweet",
+          "tweetId": "1950555821219230203"
+        }
+      ]
+    },
+    {
+      "id": "mutawaq-medical-context",
+      "title": "Mohammed’s medical history",
+      "date": "2025-07-27",
+      "topline": "It was not starvation. Mohammed suffered from cerebral palsy, had hypoxemia, and was born with a serious genetic disorder.\n\nHe required nutritional supplements since birth. A medical report issued in Gaza in May 2025 confirmed all of this.\n\nThis wasn’t disclosed in a single major outlet.",
+      "tileTitle": "The medical diagnosis",
+      "coverUrl": "case-study-thumbs/55a17c60e4731eb7db76.jpg",
+      "evidence": [
+        {
+          "id": "662b164a-16a3-48f9-90ed-cd654ba98da3",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1949363291916038145"
+        }
+      ]
+    },
+    {
+      "id": "63feffd2-d430-4950-a298-aebfe8fd9664",
+      "title": "The Times’ editors’ note",
+      "date": "",
+      "topline": "The New York Times quietly posted a correction, stating the child actually had a muscle condition, on its alternate account with just 89,000 followers.",
+      "tileTitle": "A quiet correction",
+      "coverUrl": "case-study-thumbs/413e16ae0b34711466af.jpg",
+      "evidence": [
+        {
+          "id": "f40c1227-12e6-4435-bfb8-8ae96467ceb6",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1950500459677929511"
+        },
+        {
+          "id": "0f56c608-2037-412e-953e-6a6b5839264f",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1950497011918139463"
+        },
+        {
+          "id": "017e11a7-4943-4814-9dde-d0bff656ec9e",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1950316829840462262"
+        }
+      ]
+    },
+    {
+      "id": "mutawaq-david-front-page-callouts",
+      "title": "The hostage videos",
+      "date": "2025-08-01",
+      "topline": "Days after the starvation hoax photo was featured on the front page of many newspapers, Palestinian terrorist organizations released video of two Israeli hostages, Rom Braslavski and Evyatar David, truly emaciated. Evyatar was digging his own grave in a Hamas tunnel.\n\nAnalyst Elica Le Bon points out the brutal, purposeful intention of the timing:\n\n\"Hamas’s message is clear -  they own you. They’re showing you that while the world is screaming from the rooftops that we must speak out about starvation in Gaza, they can show you the cruelest, highest form of international starvation in ruthless captivity and nobody will bat an eyelid. ... And they're right.\"",
+      "tileTitle": "Real starvation: Israeli hostage videos surface",
+      "coverUrl": "case-study-thumbs/e07a1df3ffe8372996ff.jpg",
+      "evidence": [
+        {
+          "caption": "",
+          "publication": "Dr. Eli David",
+          "date": "2025-08-01",
+          "type": "tweet",
+          "tweetId": "1951342217228067006"
+        },
+        {
+          "id": "981c79b1-c846-4ad9-a7a3-df2cc575336a",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1951681676050084120"
+        },
+        {
+          "caption": "",
+          "publication": "AIPAC 🇺🇸🇮🇱",
+          "date": "2025-08-02",
+          "type": "tweet",
+          "tweetId": "1951669992086245837"
+        },
+        {
+          "id": "2adc5f63-b862-439b-8041-aee14e32c6a2",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1951024391241998624"
+        },
+        {
+          "caption": "VividProwess shared this clip and accused the Times of silence.",
+          "publication": "Vivid.🇮🇱",
+          "date": "2025-08-02",
+          "type": "tweet",
+          "tweetId": "1951674086616072686"
+        },
+        {
+          "caption": "",
+          "publication": "ABC News Australia",
+          "date": "2025-08-03",
+          "type": "link",
+          "url": "https://www.abc.net.au/news/2025-08-03/video-released-by-hamas-of-israeli-hostage/105607904"
+        }
+      ]
+    },
+    {
+      "id": "mutawaq-david-coverage",
+      "title": "How the media covered the hostages",
+      "date": "2025-08-02",
+      "topline": "When The New York Times did cover the story in an Aug. 2 online report, they framed it as a result of \"mass hunger\" in Gaza \"as Israel limits the amount of humanitarian aid.\" The image they showed didn't show the healthy arm of the Hamas terrorist handing him his food. And the story was buried, not on the front page.\n\nSky News, CNN, and the Washington Post similarly buried the story or framed it as occurring because of a wider starvation crisis in Gaza. This reflects a broader media bias prioritizing Palestinian suffering, however fabricated, over Hamas's real deliberate starvation of Israeli hostages.",
+      "tileTitle": "No outcry for starving Israeli hostages",
+      "coverUrl": "case-study-thumbs/59150ac6f21321f498bd.jpg",
+      "evidence": [
+        {
+          "id": "b48ada99-d982-430f-935d-3488eb35b3dd",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1953176298743894518"
+        },
+        {
+          "id": "e65ee83c-d39b-4735-a790-74c2c4e2e74c",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1951751879874265543"
+        },
+        {
+          "id": "cb883368-974f-485c-bca1-4be1426eb46f",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1952039067677339814"
+        },
+        {
+          "id": "35b06d15-81fe-4a3a-9e76-7a5ec777d8d8",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1951708294751670686"
+        },
+        {
+          "id": "380d2d45-cee6-49d2-97a1-17cc98020f56",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1951703069273514131"
+        }
+      ]
+    },
+    {
+      "id": "689e63e4-6161-4b3b-8913-55b8ba6b63f6",
+      "title": "Maryam in the headlines",
+      "date": "",
+      "topline": "Less than two weeks later, the exact same pattern unfolds. This time it's Maryam. She is covered by Sky News, the Daily Mirror, and the Los Angeles Times, among many others.\n\nThe LA Times quoted doctors claiming tests showed ‘no underlying medical condition’ and  that her condition was solely the result of hunger and malnutrition. ",
+      "tileTitle": "Another starving Gazan child",
+      "coverUrl": "case-study-thumbs/73b2e8177c7621aee711.jpg",
+      "evidence": [
+        {
+          "id": "87eb4c5d-b632-44cd-88e5-84d630be3e11",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1956738236954415488"
+        },
+        {
+          "id": "2c47786a-1ecc-496e-96bb-240a7ee43b69",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1957025891449454990"
+        },
+        {
+          "id": "fe97176a-6c8b-44b8-81a6-8d72f279335d",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1957025894876221475"
+        }
+      ]
+    },
+    {
+      "id": "cbd4bbd0-0f63-4162-a771-175e12e2c665",
+      "title": "Maryam’s siblings and diagnosis",
+      "date": "",
+      "topline": "The exact same pattern occurred. Photos showing healthy siblings. And a medical diagnosis of intestinal malabsorption. Her body can’t absorb nutrients, even when food and medicine are given.",
+      "tileTitle": "Fool me twice: the identical pattern unfolds",
+      "coverUrl": "case-study-thumbs/ca5b2824b7651de8853d.jpg",
+      "evidence": [
+        {
+          "id": "d6e0f1c7-10fb-4c8c-98d6-884fa11bb9b9",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1957025898244329528"
+        },
+        {
+          "id": "03902352-c601-4a13-9465-e2ee7bab764a",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1957025901788410235"
+        }
+      ]
+    },
+    {
+      "id": "875719b0-c91e-49c2-8259-6184783c0072",
+      "title": "Maryam’s treatment",
+      "date": "",
+      "topline": "In Maryam's case, she was given treatment - lots of it... but her body just cannot take it in.",
+      "coverUrl": "case-study-thumbs/59bee5b30661f30d0543.jpg",
+      "evidence": [
+        {
+          "id": "84ea5a06-31a4-4128-8cb2-ba0e60bd5627",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1957025906465136931"
+        },
+        {
+          "id": "814b61bb-8996-499b-90d9-60c42d185115",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1957025911070400595"
+        }
+      ]
+    },
+    {
+      "id": "7912bdce-6dc5-480f-bc7e-49ea7afbd215",
+      "title": "Comparing reported malnutrition deaths",
+      "date": "",
+      "topline": "Here's the face-blower:\n\n- United States: Had 23,000 malnutrition related deaths in 2023, 25,000 in 2024 and 27,000 in 2025. The population size was around 335 millions. \n- France: Had 5,600 malnutrition related deaths in 2023. The population was 68.40 millions.\n- Somalia: Had 2,087 malnutrition related deaths in 2023. The population was 18.36 millions.\n- South Sudan: Had 1,427 malnutrition related deaths in 2023. The population was 11.90 millions.\n- Nigeria: Had 31,269 malnutrition related deaths in 2023. The population was 223.8 millions.\n- Niger: Had 8,536 malnutrition related deaths in 2023. The population was 26.16 millions.\n- Gaza: Had 461 malnutrition-related deaths for the entirety of the war as of November 2026 (fighting mostly stopped in October 2025).\n\nFrom 2023-2026, Gaza (68.9) had fewer malnutrition-related deaths per million people per year than the United States, France 81.9, Somalia 113.7, South Sudan 128.7, Nigeria 139.7 and Niger 326.3.",
+      "tileTitle": "Gaza: Fewer malnutrition deaths p/c than the U.S.",
+      "coverUrl": "case-study-thumbs/22e4254a8e0da657887d.jpg",
+      "evidence": [
+        {
+          "id": "f567ad75-b5ae-40ee-97c2-de1444a088ee",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "2119769243818369290"
+        }
+      ]
+    },
+    {
+      "id": "018d6025-871d-459f-b7d7-20d5a36a8ae2",
+      "title": "How Gaza’s hunger was described",
+      "date": "",
+      "topline": "Why this matters? Well, Gaza often got described as the worst starvation on earth. This was repeated over and over again, during all periods since late 2023, just a couple of weeks after the war began, until even during the current ceasefire in 2026 by activists.",
+      "tileTitle": "A relentless narrative persists",
+      "coverUrl": "case-study-thumbs/0094ae4fd8e5e0b002ab.jpg",
+      "evidence": [
+        {
+          "id": "7deafa75-519e-433c-b6ee-0452472248fc",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "2119769247035355274"
+        }
+      ]
+    },
+    {
+      "id": "e09ca6a5-3763-4395-9b70-95010221ddfe",
+      "title": "What the coverage emphasized",
+      "date": "",
+      "topline": "The specific episode of starvation-related reporting from July 31, 2025 - Aug. 17, 2025 has many layers to it:\n1) The hypocrisy in how the media differs in its coverage of not just equivalent starvation between Israelis and Palestinians, but the elevation of even fallacious Palestinian suffering/starvation to its front pages vs. downplaying or rationalizing legitimate Israeli suffering/starvation to its back pages.\n2) It's an opportunity also to point out the stunning fallacy of the broader starvation narrative, as Gaza during wartime has fewer starvation deaths than even the United States and France -- and significantly less than third-world African countries -- on both an absolute and a per capita basis.\n\nPalestinian suffering, particularly starvation, is an easy, archetype narrative. Even when reality contradicts it, events are interpreted in the easy, archetypal way.",
+      "tileTitle": "Hypocrisy and fallacy: the famine libel",
+      "coverUrl": "case-study-thumbs/05560e2efe89a9a8d1c6.jpg",
+      "evidence": [
+        {
+          "id": "e2a3568a-181b-4d0a-9621-710d8cc8eb6c",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1957025917831692366"
+        },
+        {
+          "id": "90b0b25d-69b4-416f-a242-61d1d05d4b1c",
+          "caption": "",
+          "type": "tweet",
+          "tweetId": "1957025925452693926"
+        }
+      ]
+    }
+  ]
+}

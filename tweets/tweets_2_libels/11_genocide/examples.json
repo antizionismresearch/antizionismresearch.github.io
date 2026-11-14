@@ -392,5 +392,155 @@
     "usTweets": [
       "1978208535935648102"
     ]
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "1961-03-30",
+    "claimIds": [
+      "11",
+      "45"
+    ],
+    "exampleId": "codex-20261012-166-138",
+    "keywordIds": [],
+    "text": "British historian Arnold Toynbee equates Israel’s treatment of Arabs with Nazi genocide in 1961, decades before the current Gaza war.",
+    "source": false,
+    "standaloneTweets": [
+      "1969457473799991318",
+      "1969457493311881646"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-11",
+    "claimIds": [
+      "11"
+    ],
+    "exampleId": "codex-20261019-150-062",
+    "keywordIds": [],
+    "text": "The IDF drops evacuation leaflets in Gaza City’s Old City warning of an impending operation against Hamas and telling civilians to move south to Mawasi for safety.",
+    "source": false,
+    "standaloneTweets": [
+      "1966088059990192577"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-09",
+    "claimIds": [
+      "11"
+    ],
+    "exampleId": "codex-20261019-150-110",
+    "keywordIds": [],
+    "text": "More than 500 signatories join Scholars for Truth About Genocide’s rejection of the Gaza genocide accusation, including roughly 220 PhDs and military specialists, according to researcher Aizenberg’s update.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1962574766595768483"
+    ],
+    "usTweets": [
+      "1965107457967210897",
+      "1965438195195330676"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-07",
+    "claimIds": [
+      "11",
+      "45"
+    ],
+    "exampleId": "codex-20261020-next150-025-r1",
+    "keywordIds": [
+      "Omer Bartov"
+    ],
+    "text": "In 2024, IAGS president Melanie O’Brien notes proving genocidal intent is extremely difficult, citing ICJ rulings that evidence must “only point” to this intent, the “only inference reasonably drawn.” O’Brien expresses twice in her lecture a “hope” that the ICJ moves away from the requirement that genocide must be the \"only inference\" that could be reasonably drawn. We know why—she wants Israel to be guilty of genocide but she knows the current standard does not apply.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1952390810810368049"
+    ],
+    "usTweets": [
+      "1953457271695962316",
+      "1953457273726005485",
+      "1953457275659563404",
+      "1953457277517566453",
+      "1953457279446974507",
+      "1953457281338597821",
+      "1953457283377062283",
+      "1953457285461635176",
+      "1953457287315489210",
+      "1953457289215553707",
+      "1953457290863858081",
+      "1953457292885520777",
+      "1953457295020417236"
+    ],
+    "sourceLink": "https://opiniojuris.org/2025/08/04/is-genocide-happening-in-gaza/"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2024-01-29",
+    "claimIds": [
+      "11",
+      "30a",
+      "30x"
+    ],
+    "exampleId": "codex-20261020-b2-053-r1",
+    "keywordIds": [
+      "International Court of Justice"
+    ],
+    "text": "Former ICJ president Joan Donoghue explains that the Court did not find there was genocide in Gaza, nor did it decide the genocide claim was plausible; its provisional ruling concerned Palestinians’ right to protection from genocide. Court ruling was in January 2024; Donoghue interview is from April 2024.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1751681559957008663",
+      "1752134321442341056",
+      "1752303987359940815",
+      "1750940109585715291"
+    ],
+    "nowTweets": [
+      "1956849131382530559"
+    ],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.bbc.co.uk/programmes/m001yplc"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-14",
+    "claimIds": [
+      "31f",
+      "11"
+    ],
+    "exampleId": "codex-20261011-068",
+    "keywordIds": [],
+    "text": "Gaza journalist Motasem Dalloul justifies Hamas’s public executions by branding the victims Israeli collaborators who steal aid and sabotage Gaza; Adin Haykin: 0 photos of IDF soldiers executing Palestinians like this in the \"most documented genocide everrr\"",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1977938982714392869"
+    ],
+    "usTweets": [
+      "1978141701706289397"
+    ]
   }
 ]

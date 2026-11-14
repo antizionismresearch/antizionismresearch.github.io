@@ -32,6 +32,10 @@ function tweetId(e) {
 }
 
 async function cover(page) {
+  if (/^case-study-thumbs\/[a-f0-9]{20}\.jpg$/.test(page.coverUrl || '')) {
+    await access(resolve(mediaDir, basename(page.coverUrl)));
+    return page.coverUrl;
+  }
   let remote;
   for (const e of page.evidence) {
     const image = e.imageUrl || e.snapshot?.photos?.[0];
@@ -65,14 +69,19 @@ for (const study of raw) {
   for (const link of study.timelineLinks || []) if (!link.entryId || !pages.has(link.pageId)) throw Error('Invalid timeline link');
   const result = pick(study, ['schemaVersion','type','exampleId','dateAdded','date','title','text','claimIds','keywordIds','timelineLinks','linkedEntryIds']);
   result.pages = await Promise.all(study.pages.map(async p => ({
-    ...pick(p, ['id','title','date','topline']),
+    ...pick(p, ['id','title','date','topline','tileTitle']),
     coverUrl: await cover(p),
     evidence: p.evidence.map(e => {
-      const id = tweetId(e);
+      // This exhibit displays the existing headline image rather than its containing post.
+      const useHeadlineImage = e.id === 'image-1714686604189794524-0'
+        && e.originalImageUrl === 'https://pbs.twimg.com/media/F8vKYNeagAI128H.jpg';
+      const id = useHeadlineImage ? undefined : tweetId(e);
       const source = publicUrl(e.originalUrl) || publicUrl(e.url);
       // Preserve publisher-hosted screenshots as an explicit exception to Tweet embeds.
       const originalImage = publicUrl(e.originalImageUrl);
-      const imageUrl = !id && e.type === 'image' && originalImage?.startsWith('https://honestreporting.com/app/uploads/')
+      const useDirectImage = e.id === '045b1b14-2210-4f2d-9177-5bc9ce3b965d'
+        && originalImage === 'https://pbs.twimg.com/media/F8vYeH-XYAA-Kkc?format=jpg&name=medium';
+      const imageUrl = !id && e.type === 'image' && (useHeadlineImage || useDirectImage || originalImage?.startsWith('https://honestreporting.com/app/uploads/'))
         ? originalImage : undefined;
       return {
         ...pick(e, ['id','title','caption','publication','date']),

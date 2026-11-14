@@ -258,5 +258,411 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-03-13",
+    "claimIds": [
+      "47",
+      "31a"
+    ],
+    "exampleId": "codex-20261012-166-151-r1",
+    "keywordIds": [],
+    "text": "Columbia encampment leader Mahmoud Khalil is detained by Homeland Security as the Trump administration seeks his deportation. Days later, another woman reads his wife’s statement publicly. This woman is not Mahmoud Khalil's wife; she is just some random \"Western-looking woman\" that they chose to read his wife's statement to make Mahmoud look more American.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1898833686960669166",
+      "1898819027822338104"
+    ],
+    "nowTweets": [
+      "1900196305143496787"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-09",
+    "claimIds": [
+      "47",
+      "31a",
+      "53"
+    ],
+    "exampleId": "codex-20261019-150-064",
+    "keywordIds": [],
+    "text": "Flotilla claims a second drone attack on the Alma, showing the fireball and the charred object presented as a weapon. It was a staged flare stunt.",
+    "source": false,
+    "standaloneTweets": [
+      "1965763650292961410",
+      "1965763658228670781"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-02",
+    "claimIds": [
+      "47",
+      "31a"
+    ],
+    "exampleId": "codex-20261019-150-145",
+    "keywordIds": [],
+    "text": "A Gaza video presents a girl as shot by Israeli forces while displaying an intact cartridge. There's no blood and the unfired-looking ammunition shows its clearly staged.",
+    "source": false,
+    "standaloneTweets": [
+      "1962769974662947271"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-31",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-next150-032",
+    "keywordIds": [],
+    "text": "GAZAWOOD compares clips of the same man holding IV bags beside different boys with casts, accusing him of staging Gaza suffering imagery by switching the children.",
+    "source": false,
+    "standaloneTweets": [
+      "1962079580677611612"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-27",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-next150-051",
+    "keywordIds": [],
+    "text": "Hillel Fuld shares a clip that uses a Snapchat filter to fake Gaza suffering and solicit donations from naive idiots in the West.",
+    "source": false,
+    "standaloneTweets": [
+      "1960705544395567526"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2024-10-14",
+    "claimIds": [
+      "47",
+      "54"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-fire",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Within Our Lifetime circulates known Hamas propagandist Mr. FAFO's footage of burning tents outside Al-Aqsa Hospital under the headline “Israel is burning Palestinians in Gaza,” describing the strike as part of an “ongoing genocide.” Search \"Mr. Fafo\" in the search bar to see more of his wild escapades.",
+    "source": false,
+    "standaloneTweets": [
+      "1845689853897261293"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-07-01",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-armed",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Mr. Fafo sings in camouflage with a rifle in a militant music video glorifying armed Palestinian resistance. Search \"Mr. Fafo\" in the search bar to see more of his wild escapades.",
+    "source": true,
+    "standaloneTweets": [
+      "1845720165247549489"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.sochfactcheck.com/palestinian-journalist-and-activist-falsely-presented-as-a-crisis-actor/"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-10-07",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-rockets",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Mr. Fafo celebrates Hamas rocket attacks on Israel on October 7, filming himself smiling and cheering in Gaza.",
+    "source": false,
+    "standaloneTweets": [
+      "1845720227226755280"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-10-31",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-scanner",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Mr. Fafo appears beside a bloodied patient at a hospital scanner in an image circulated as one of his changing public roles.",
+    "source": false,
+    "standaloneTweets": [
+      "1719438404281049252"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-12-23",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-shelter",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Mr. Fafo films himself using a hammer to help build a wooden shelter, showing Palestinians building and industrious.",
+    "source": false,
+    "standaloneTweets": [
+      "1738504660523078030"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2024-03-21",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-cats",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Mr. Fafo films himself feeding a crowd of cats amid damaged buildings in Gaza, adding animal rescue to his public persona.",
+    "source": false,
+    "standaloneTweets": [
+      "1845720432546398648",
+      "1770846537054093763"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-10-30",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-oxygen",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Mr. Fafo appears wearing an oxygen mask in a medical setting with the Arabic appeal “Your prayers for Saleh.”",
+    "source": false,
+    "standaloneTweets": [
+      "1718959587829641349"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2024-03-31",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-music",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Mr. Fafo’s produced music video intercuts singing with footage of Gaza’s destroyed buildings.",
+    "source": false,
+    "standaloneTweets": [
+      "1845720630534258716",
+      "1774523138207871251"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-16",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-mee",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Middle East Eye presents Mr. Fafo as a threatened “Palestinian journalist” determined to keep reporting. His earlier videos show him singing in camouflage with a rifle and celebrating Hamas’s October 7 rocket attacks.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1956611813250056459"
+    ],
+    "usTweets": [
+      "1845720165247549489",
+      "1845720227226755280"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2024-10-14",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-casualty-r2",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "The thread juxtaposes Mr. Fafo’s casualty footage with its caption “resurrects the dead”; the video shows a bloodied man lying on the pavement.",
+    "source": false,
+    "standaloneTweets": [
+      "1845720885053083952"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2024-10-14",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-prayer-r2",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Mr. Fafo leads a religious recitation for “our martyrs,” asking those gathered to recite al-Fatiha.",
+    "source": false,
+    "standaloneTweets": [
+      "1845720947824947206"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-12-03",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-20261020-b2-069-r1-fafo-gathering-r2",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Mr. Fafo sings to a packed gathering of men in a video circulated with the caption “Mr. FAFO sings for the Hamas troops.”",
+    "source": false,
+    "standaloneTweets": [
+      "1845721051453645258"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-10-25",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-feedback-20261023-1717530203067470069",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "Mr. Fafo cradles a bloodied baby while antizionist Sarah Wilkinson presents him as a father singing his injured son to sleep. A community note adds that he is a known actor and the videos are likely staged.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1718265870709821788"
+    ],
+    "usTweets": [
+      "1717720217374032095"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-10-24",
+    "claimIds": [
+      "47"
+    ],
+    "exampleId": "codex-feedback-20261023-1716722914609725495",
+    "keywordIds": [
+      "Saleh al-Jafarawi"
+    ],
+    "text": "\"Mr. Fafo\" is born. Mr. Fafo sings in camouflage holding a rifle and cheers rockets fired at Israel, then cries after Israel strikes Hamas.",
+    "source": false,
+    "standaloneTweets": [
+      "1716722914609725495"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

@@ -1,6 +1,124 @@
 [
   {
     "dateAdded": "",
+    "date": "2026-04-16",
+    "claimIds": [
+      "1",
+      "5",
+      "28"
+    ],
+    "exampleId": "0000001006",
+    "keywordIds": [],
+    "text": "Nosheen Majid, Green Party candidate for Killingbeck and Seacroft (Leeds), telling an elderly couple that they can't get on their bus home in Leeds because Jews are modern Nazis and Hamas are fighting them.",
+    "standaloneTweets": [
+      "2044790919388369184"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-09-13",
+    "claimIds": [
+      "1",
+      "5"
+    ],
+    "exampleId": "0000001007",
+    "keywordIds": [
+      "New York City"
+    ],
+    "text": "“White socialists” wearing swastikas and chanting “Free Palestine” in NYC seem very confused.",
+    "standaloneTweets": [
+      "2099422719842406656"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-04-04",
+    "claimIds": [
+      "1",
+      "5"
+    ],
+    "exampleId": "0000001008",
+    "keywordIds": [],
+    "text": "Far-Left or Far-Right? Doesn’t matter. Same conspiracy theories and lies. Same hate, just in different packaging.",
+    "standaloneTweets": [
+      "2040571117937516712"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-09-29",
+    "date": "2026-07-02",
+    "claimIds": [
+      "1",
+      "5"
+    ],
+    "exampleId": "codexB03013",
+    "keywordIds": [],
+    "text": "David Duke praises far-left politician Darializa Avila Chevalier’s racial rhetoric; the same Free Beacon report describes his praise for Zohran Mamdani’s stance on Israel and his claim of Jewish control over US foreign policy.",
+    "source": true,
+    "sourceLink": "https://freebeacon.com/politics/darializa-avila-chevaliers-hostility-to-interracial-romances-and-ugly-colonizer-women-earns-praise-from-ex-kkk-grand-wizard-david-duke/",
+    "standaloneTweets": [
+      "2072641645019886012"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-03",
+    "date": "2026-01-27",
+    "claimIds": [
+      "1",
+      "5"
+    ],
+    "exampleId": "codex-20261003b-next50-28",
+    "keywordIds": [],
+    "text": "Canary Mission juxtaposes older and newer Young Turks clips, alleging that Cenk Uygur and Ana Kasparian now repeat anti-Jewish tropes they once condemned.",
+    "source": false,
+    "standaloneTweets": [
+      "2016129042836046308"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-01-03",
+    "claimIds": [
+      "2",
+      "1",
+      "5",
+      "6",
+      "16",
+      "17",
+      "24",
+      "30"
+    ],
+    "exampleId": "000002009",
+    "keywordIds": [],
+    "text": "Matt Chun, a prominent Australian children's artist, posted a lengthy article on why he is not mourning the victims of the Bondi Beach shooting. The fact that one of the people murdered was 10-year-old Matilda does not seem to bother him too much.",
+    "themVsUsFormat": true,
+    "standaloneTweets": [],
+    "themTweets": [
+      "2007628651928367545"
+    ],
+    "usTweets": [
+      "2000939666502004802",
+      "2006429342038114601"
+    ]
+  },
+  {
+    "dateAdded": "",
     "date": "2025-11-21",
     "claimIds": [
       "5",
@@ -1077,6 +1195,56 @@
     "thenVsNowFormat": false,
     "thenTweets": [],
     "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-20",
+    "claimIds": [
+      "5",
+      "18",
+      "2",
+      "56",
+      "30y"
+    ],
+    "exampleId": "codex-20261012-166-136-r1",
+    "keywordIds": [],
+    "text": "Flensburg shop owner Hans Velten Reisch displays “Jews are banned from here! Nothing personal. No antisemitism. Just can’t stand you,” invoking the Gaza war to justify excluding Jews. This is why antizionism has to be centered as a hateful violent movement. The \"no antisemitism\" paradigm doesn't work and Jews continue to try to operate within it.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1822687603017367624"
+    ],
+    "nowTweets": [
+      "1969396914647896335"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2024-04-25",
+    "claimIds": [
+      "5",
+      "24",
+      "55y"
+    ],
+    "exampleId": "codexx-20261012-166-136-r1",
+    "keywordIds": [
+      "Kymani James"
+    ],
+    "text": "One of the Columbia students leading the “protest” posted this video stating that “Zionists do not deserve to live”",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1783618133166625005"
+    ],
+    "nowTweets": [
+      "1783615459751014702"
+    ],
     "themTweets": [],
     "usTweets": []
   },

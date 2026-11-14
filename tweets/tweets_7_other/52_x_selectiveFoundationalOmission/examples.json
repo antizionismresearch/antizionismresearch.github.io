@@ -24,6 +24,192 @@
     ]
   },
   {
+    "dateAdded": "2026-10-01",
+    "date": "2026-09-30",
+    "claimIds": [
+      "32",
+      "52x"
+    ],
+    "exampleId": "claude-b05-03r",
+    "keywordIds": [
+      "CNN",
+      "New York Times",
+      "AFP",
+      "Wall Street Journal",
+      "Sky News",
+      "BBC"
+    ],
+    "text": "An Arab pilot stabbed his co-pilot and attempted to hijak an Israel-bound flydubai flight when Israeli passengers miraculously saved the plane after a nosedive. CNN called it an “altercation,” the New York Times an “altercation between the pilot and co-pilot,” AFP said the pilots “fought,” the WSJ a “struggle,” Sky News a “brawl,” and the BBC a “fight between pilots.” Ben Shapiro: an attempt to murder 180 mostly Israeli passengers by crashing the plane.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "2105348825359474896"
+    ],
+    "usTweets": [
+      "2105372381212483997"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-03",
+    "date": "2026-02-10",
+    "claimIds": [
+      "32",
+      "52x"
+    ],
+    "exampleId": "codex-20261003b-next50-07",
+    "keywordIds": [],
+    "text": "NPR says the Palestinian Authority's pay for slay program, which pays families of terrorists who murder or maim Jews, \"a controversial program that pays the families of Palestinians who are detained in Israeli jails or killed or injured by the Israeli military.\"",
+    "source": false,
+    "standaloneTweets": [
+      "2021141376507711583"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-03",
+    "date": "2026-01-27",
+    "claimIds": [
+      "32",
+      "52x",
+      "46"
+    ],
+    "exampleId": "codex-20261003b-next50-20-r1",
+    "keywordIds": [],
+    "text": "CNN and TRT report Gaza cemetery destruction in 2024; Aizenberg contrasts that reporting with the January 2026 recovery of Ran Gvili’s remains from a Gaza cemetery, accompanied by IDF footage and photographs.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1749427947746779334",
+      "1749420366970359923"
+    ],
+    "nowTweets": [
+      "2016201281321189886",
+      "2015837229965255020",
+      "2016179393333277165"
+    ],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://transcripts.cnn.com/show/ampr/date/2026-01-26/segment/01"
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "2026-01-20",
+    "claimIds": [
+      "32",
+      "52x"
+    ],
+    "exampleId": "codex-20261004-next100-002",
+    "keywordIds": [],
+    "text": "David Collier challenges the BBC's football-pitch demolition story for omitting the pitch's proximity to Israel's security fence and disputes the legality of its construction.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "2013543231158378787"
+    ],
+    "usTweets": [
+      "2013577832954270199",
+      "2013617018839175439"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-07",
+    "date": "2025-11-13",
+    "claimIds": [
+      "32",
+      "52x"
+    ],
+    "exampleId": "codex-20261007-048",
+    "keywordIds": [],
+    "text": "Aizenberg challenges Reuters’ presentation of Gaza war-crime allegations, pointing to the article’s account that US government lawyers could not make a legal finding.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1988683546693890225"
+    ],
+    "usTweets": [
+      "1988994588900569301"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "32",
+      "52x"
+    ],
+    "exampleId": "codex-20261011-058-r1",
+    "keywordIds": [],
+    "text": "The BBC interviews the crying sister of Palestinian prisoner Murad Abu al-Rub without mentioning his four life sentences for involvement in a suicide bombing that killed four Israelis.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1978041373027692583",
+      "1978546461127123371"
+    ],
+    "usTweets": [
+      "1978041376110461321",
+      "1978041379004555732"
+    ],
+    "sourceLink": "https://www.jewishnews.co.uk/bbc-fails-to-tell-viewers-that-palestinian-prisoner-is-hamas-suicide-bomb-plotter/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-04",
+    "claimIds": [
+      "32",
+      "52x"
+    ],
+    "exampleId": "codex-20261011-b2-028",
+    "keywordIds": [],
+    "text": "Richard Tice highlights reporting that a BBC Gaza documentary ignored evidence of Hamas killing Palestinians in humanitarian aid queues, obscuring responsibility for their deaths.",
+    "source": false,
+    "standaloneTweets": [
+      "1974486134638924254"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-10",
+    "claimIds": [
+      "32",
+      "52x"
+    ],
+    "exampleId": "codex-20261019-150-067",
+    "keywordIds": [],
+    "text": "The Independent maps the countries Israel has attacked; HonestReporting supplies the omitted context: Hamas’s October 7 massacre, Iranian proxy warfare, Hezbollah rockets, Houthi missiles and drones, and Qatar’s sheltering of Hamas leaders.",
+    "source": false,
+    "standaloneTweets": [
+      "1965673197472502262"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "",
     "date": "2026-04-24",
     "claimIds": [
@@ -115,29 +301,6 @@
       "2007686664291053961",
       "1958890065632879049"
     ]
-  },
-  {
-    "dateAdded": "2026-10-06",
-    "date": "1941-01-11",
-    "claimIds": [
-      "52x"
-    ],
-    "exampleId": "codex-20261005-next100-043-r1",
-    "keywordIds": [],
-    "text": "Mehdi Hasan attempts to \"gotcha\" us by claiming former Israeli Prime Minister Yitzhak Shamir attempted to ally with the Nazis in World War II. But Shamir wasn't in Israeli paramilitary group Lehi at the time. And the so-called \"alliance\" was about getting German Jews out of Germany so they can come safely to Israel, and to get the British out of Palestine, not to support the Nazis. And it failed because the Nazis were loyal to the Arabs. So it's doubly bullshit from Mehdi.",
-    "source": true,
-    "standaloneTweets": [],
-    "thenVsNowFormat": false,
-    "thenTweets": [],
-    "nowTweets": [],
-    "themTweets": [
-      "2006006011119931596"
-    ],
-    "usTweets": [
-      "2006102048111235551",
-      "2006102994975146149"
-    ],
-    "sourceLink": "https://lehi.org.il/en/yitzhak-shamir/"
   },
   {
     "dateAdded": "2026-10-07",
@@ -279,5 +442,74 @@
       "1976780326094721033"
     ],
     "sourceLink": "https://apnews.com/article/4ff433ea39a313c1937d1c0a577efaf4"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2024-09-27",
+    "claimIds": [
+      "52x",
+      "45"
+    ],
+    "exampleId": "codex-20261012-166-156-r1",
+    "keywordIds": [],
+    "text": "A response challenges climate scientist Julia Steinberger’s comparison of Israel’s strike on Hezbollah’s headquarters with the September 11 attacks, pointing to the terrorist command meeting at the target.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1839720957004706096"
+    ],
+    "usTweets": [
+      "1839737821114118451",
+      "1839695359070662958",
+      "1839698777445118310"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-09",
+    "claimIds": [
+      "52x"
+    ],
+    "exampleId": "codex-20261019-150-101",
+    "keywordIds": [],
+    "text": "Congresswoman Rashida Tlaib says Israel is murdering ceasefire negotiators and has no interest in a deal after the Doha strike. Researcher Mark Zlochin answers the negotiating-team argument with a September 9 report that Hamas rejected the US proposal as a surrender deal.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1965520095826116907"
+    ],
+    "usTweets": [
+      "1965427753442050066",
+      "1965403047556780348"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-08-31",
+    "claimIds": [
+      "52x",
+      "31a"
+    ],
+    "exampleId": "codex-20261019-150-122",
+    "keywordIds": [],
+    "text": "Journalist Mehdi Hasan calls Israel’s strike on Houthi leaders the wiping out of a Middle Eastern government, while the screenshot’s community note points out that the Houthis are not Yemen’s recognized government and are in fact a terrorist organization.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1961879483729821941"
+    ],
+    "usTweets": [
+      "1962185539739910540",
+      "1961882179216248985"
+    ]
   }
 ]

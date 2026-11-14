@@ -115,5 +115,24 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://www.washingtonjewishweek.com/fairfax-county-schools-local-jewish-leaders-condemn-student-video-depicting-hostage-taking/"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-08-31",
+    "claimIds": [
+      "31m"
+    ],
+    "exampleId": "codex-20261019-150-126",
+    "keywordIds": [],
+    "text": "At the People’s Conference for Palestine, children as young as five are led in chants including “globalize the intifada,” teaching antizionist mobilization to young children in the West.",
+    "source": false,
+    "standaloneTweets": [
+      "1962922084549480499"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

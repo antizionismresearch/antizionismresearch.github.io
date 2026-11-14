@@ -353,5 +353,111 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2025-09-21",
+    "claimIds": [
+      "22",
+      "5",
+      "56"
+    ],
+    "exampleId": "codex-20261012-166-113",
+    "keywordIds": [],
+    "text": "Jewish vegan chef Guy Vaknin’s New York restaurants face antizionist vandalism and he reportedly receives photographs of his children as threats.",
+    "source": false,
+    "standaloneTweets": [
+      "1969630432649232630"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2025-09-16",
+    "claimIds": [
+      "22",
+      "5",
+      "56"
+    ],
+    "exampleId": "codex-20261012-166-163",
+    "keywordIds": [],
+    "text": "A Barcelona bookshop is sprayed with “Zionist genocide accomplice” after its non-Jewish owner refuses anti-Israel posters and criticizes the Gaza flotilla.",
+    "source": false,
+    "standaloneTweets": [
+      "1968036435543593233"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-08",
+    "claimIds": [
+      "22",
+      "5",
+      "56"
+    ],
+    "exampleId": "codex-20261019-150-102",
+    "keywordIds": [
+      "Canada"
+    ],
+    "text": "An antizionist mob storms and vandalizes Montreal’s Jewish-owned Indigo bookstore, part of repeated targeting of the business over its Jewish ownership.",
+    "source": false,
+    "standaloneTweets": [
+      "1965145353566765438"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2024-02-26",
+    "claimIds": [
+      "22",
+      "25",
+      "56"
+    ],
+    "exampleId": "codex-20261019-150-123",
+    "keywordIds": [],
+    "text": "An antizionist mob forces police to evacuate a Jewish event at UC Berkeley. A Jewish student describes a girl grabbed by the neck and shoved and another student spat at.",
+    "source": false,
+    "standaloneTweets": [
+      "1962257111045554231"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-02",
+    "claimIds": [
+      "22",
+      "20"
+    ],
+    "exampleId": "codex-20261019-150-148",
+    "keywordIds": [],
+    "text": "Antizionist activist Daniela Bonamico says she has infiltrated Jewish groups that give her access to Jewish children, in a video highlighted by Leviathan.",
+    "source": false,
+    "standaloneTweets": [
+      "1962878354090058144"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

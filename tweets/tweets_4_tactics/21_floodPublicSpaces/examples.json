@@ -236,5 +236,60 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2023-10-30",
+    "claimIds": [
+      "28",
+      "21"
+    ],
+    "exampleId": "000002803",
+    "keywordIds": [],
+    "text": "'Long Live Hamas!' one man shouted, as crowds gathered at Union Square in NYC following a march from Brooklyn demanding to Free Palaestine",
+    "standaloneTweets": [
+      "1718451744827404674"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-01-08",
+    "claimIds": [
+      "28",
+      "21",
+      "22"
+    ],
+    "exampleId": "000002806",
+    "keywordIds": [],
+    "text": "Mamdani’s NYC: protesters outside a synagogue in New York are chanting, “Say it loud, say it clear, we support Hamas here.”",
+    "standaloneTweets": [
+      "2009475093026742425"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "2026-01-08",
+    "claimIds": [
+      "28",
+      "21",
+      "6y",
+      "56"
+    ],
+    "exampleId": "codex-20261004-feedback-queens-pro-hamas",
+    "keywordIds": [],
+    "text": "Protesters in a predominantly Jewish Queens neighborhood chant: “Say it loud, say it clear, we support Hamas here.”",
+    "source": false,
+    "standaloneTweets": [
+      "2009430503582257396"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

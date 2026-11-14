@@ -143,5 +143,30 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-09-29",
+    "date": "2026-05-11",
+    "claimIds": [
+      "32",
+      "31b"
+    ],
+    "exampleId": "codexB03041",
+    "keywordIds": [
+      "Nicolas Kristof",
+      "Nicholas Kristof"
+    ],
+    "text": "The New York Times alleges the IDF training dogs to rape Palestinian prisoners by their reliance on Sami al-Sai. Dave Collier shares a screenshot of al-Sai that praises fighters following October 7.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "2053946218108072307"
+    ],
+    "usTweets": [
+      "2053889266707550484"
+    ]
   }
 ]

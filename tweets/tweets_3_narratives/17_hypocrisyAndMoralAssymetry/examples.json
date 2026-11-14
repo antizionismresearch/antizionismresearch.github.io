@@ -1,5 +1,70 @@
 [
   {
+    "dateAdded": "2026-10-04",
+    "date": "2026-01-01",
+    "claimIds": [
+      "1",
+      "17"
+    ],
+    "exampleId": "codex-20261004-next100-044",
+    "keywordIds": [],
+    "text": "Free Palestiner uses all 3 of her braincells to explain why she won't call to FREE IRAN. \"Oh the brave women in Iran! I'm so sorry. Are there not women in Gaza?!\" Post by Dahlia Kurtz",
+    "source": false,
+    "standaloneTweets": [
+      "2011809070424916333"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-16",
+    "claimIds": [
+      "1",
+      "17",
+      "45",
+      "41"
+    ],
+    "exampleId": "codex-20261011-050",
+    "keywordIds": [],
+    "text": "London School of Economics’ feminist society joins an open letter demanding cancellation of “A Quest for Justice – October 7 and Beyond,” an event about Hamas’s sexual violence, calling the Dinah Project event “egregious.” Antizionism consumes everything else.",
+    "source": false,
+    "standaloneTweets": [
+      "1978845328066453516"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-08",
+    "date": "2025-11-04",
+    "claimIds": [
+      "7",
+      "31c",
+      "17"
+    ],
+    "exampleId": "codex-20261008-030",
+    "keywordIds": [],
+    "text": "British Palestinian Doctor Rahmeh Aladwan denies Jewish indigeneity to Palestine; Adin answers by poointing out the Aladwan clan is from Arabia, not Palestine, and that she is herself not indigenous.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1985707577708105975"
+    ],
+    "usTweets": [
+      "1985827120925270166"
+    ]
+  },
+  {
     "dateAdded": "2026-10-10",
     "date": "2025-10-28",
     "claimIds": [
@@ -18,6 +83,31 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2025-09-21",
+    "claimIds": [
+      "0000009009",
+      "17"
+    ],
+    "exampleId": "codex-20261012-166-119",
+    "keywordIds": [],
+    "text": "Legal scholar Alonso Gurmendi welcomes recognition of Palestine after saying he opposes Israel because he believes and has written academically about the need to \"dismantle the nation-state,\" believing in \"Plurinational and Postnational States.\" But the Palestinian Basic Law is completely centered around Arab identity and uses Arab and Palestinian Arab throughout its legal structure.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1958057628577194467",
+      "1948475163177353255"
+    ],
+    "usTweets": [
+      "1969806857855291894",
+      "1958087055457636643"
+    ],
+    "sourceLink": "https://security-legislation.ps/latest-laws/the-amended-basic-law-of-2003"
   },
   {
     "dateAdded": "",
@@ -1146,5 +1236,525 @@
       "1973365825626345900",
       "1973352249775534313"
     ]
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-26",
+    "claimIds": [
+      "17",
+      "41"
+    ],
+    "exampleId": "codex-20261012-166-034",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "From 2015–2025, UN General Assembly condemned Israel 173 times, compared with 29 of Russia, 12 of Syria, 10 of Iran and none of Hamas or China. Between 2015 and 2025, the UN General Assembly condemned Israel more than twice as much as the rest of the world put together.",
+    "source": false,
+    "standaloneTweets": [
+      "1971566939169227147",
+      "1971425442750951756",
+      "1971625782343786619",
+      "1971425627451674991"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2025-09-17",
+    "claimIds": [
+      "17"
+    ],
+    "exampleId": "codex-20261012-166-145",
+    "keywordIds": [],
+    "text": "Actor Benedict Cumberbatch reads poem from Palestinian Mahmoud Darwish at Together for Palestine event because he's so against occupation. But he also was the title character in Doctor Strange, whose character the was Tibetan in the original comic strip. But the movie creators didn’t want to risk losing the Chinese market, so they turned the character Celtic instead. (Tibet is currently occupied by China.)",
+    "source": false,
+    "standaloneTweets": [
+      "1969319959315513578",
+      "1968459697263878361",
+      "1969396018018967949"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-17",
+    "claimIds": [
+      "17",
+      "41",
+      "11"
+    ],
+    "exampleId": "codex-20261019-150-010",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "A chart contrasts the UN’s overwhelming focus on condemning Israel with far fewer resolutions against Syria, Russia, Iran, North Korea and other states, under the caption “It isn’t paranoia when the world really is out to get you.”",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1968097587136803101"
+    ],
+    "usTweets": [
+      "1968286666935918730"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-10",
+    "claimIds": [
+      "17",
+      "55y"
+    ],
+    "exampleId": "codex-20261019-150-077",
+    "keywordIds": [],
+    "text": "Aviva Klompas contrasts outrage over Israel targeting Hamas leaders in Qatar with the treatment of an Israeli hostage abducted from a music festival and shown emaciated in a tunnel.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1965464597042692415",
+      "1965519234592899316",
+      "1965517676241191410",
+      "1965573629162520941",
+      "1965520095826116907"
+    ],
+    "usTweets": [
+      "1965650494090858838"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-09",
+    "claimIds": [
+      "17",
+      "30a",
+      "31c"
+    ],
+    "exampleId": "codex-20261019-150-086",
+    "keywordIds": [],
+    "text": "Senator Bernie Sanders condemns Israel’s strike on Hamas leaders in Qatar as illegal after having praised the US killing of Osama bin Laden in Pakistan. Legal advocate Mark Goldfeder sets out the double standard, cites the UN duty to deny terrorists safe havens, and reproduces Sanders’s 2011 statement.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1965519234592899316"
+    ],
+    "usTweets": [
+      "1965554587462717883",
+      "1965555073997853154",
+      "1965555291170504863",
+      "1965555415250600073",
+      "1965555590136033411",
+      "1965555908878238025",
+      "1965556902592667934",
+      "1965557003453169958",
+      "1965557074185912442",
+      "1965557161452601453",
+      "1965557260043911424",
+      "1965557610939326889"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-09",
+    "claimIds": [
+      "17",
+      "55y"
+    ],
+    "exampleId": "codex-20261019-150-098-r1",
+    "keywordIds": [],
+    "text": "David Collier contrasts Keir Starmer’s condemnation of Israel’s strike on Hamas leaders with his silence after six Israelis were murdered in Jerusalem the previous day.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1965780772444352770",
+      "1965856153407205623"
+    ],
+    "usTweets": [
+      "1965484794776879601",
+      "1965033573183860931"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-30",
+    "claimIds": [
+      "17",
+      "46"
+    ],
+    "exampleId": "codex-20261020-next150-031-r1-hypocrisy",
+    "keywordIds": [],
+    "text": "Cenk Uygur accuses Israel of starving Palestinians and even blames Israel for starving Israeli hostages, then mourns the Houthi-appointed administration, which imposed a siege of Taizz, restrictions on food and water; Captain Allen adds their child recruitment and landmines maiming Yemeni civilians.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1951388661708476732",
+      "1951391249354858891"
+    ],
+    "nowTweets": [
+      "1961853233896603661",
+      "1961887698303484209",
+      "1961988093843538154",
+      "1961989942290026540"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-01",
+    "claimIds": [
+      "27",
+      "17",
+      "0000009009"
+    ],
+    "exampleId": "codex-20261011-b2-076",
+    "keywordIds": [],
+    "text": "Pakistani writer Fatima Bhutto rejects a two-state solution and calls for one Palestine replacing Israel; Lee Kern points out that Pakistan itself was created through partition into Muslim-majority Pakistan and Hindu-majority India.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1972713884080320766"
+    ],
+    "usTweets": [
+      "1973317167329226775"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-25",
+    "claimIds": [
+      "30a",
+      "17"
+    ],
+    "exampleId": "codex-20261012-166-053-r1-r1",
+    "keywordIds": [],
+    "text": "Max (@MaxNordau) compares recognition of Palestine with the EC’s 1991 state-recognition criteria. His chart argues that Palestine falls short on ten points: 1) democratic government and human rights—no national elections since 2005/2006, Hamas’s violent takeover, and abuses by both Hamas and the PA; 2) minority safeguards—persecution of political critics, women, religious minorities and LGBT people; 3) peacefully agreed borders—the 1967 lines are presumed without agreement; 4) negotiated dispute resolution—recognition bypasses Oslo’s final-status negotiations; 5) disarmament and regional stability—Hamas retains rockets, tunnels and an army committed to war; 6) good-faith peace efforts—the PA negotiates while Hamas rejects coexistence; 7) exclusion of entities resulting from aggression—Hamas seized Gaza in 2007 and governs by force; 8) rejection of territorial demands and hostile propaganda—the asserted right of return would eliminate Israel, while hostile propaganda continues; 9) consideration of neighboring states—recognition undermines Israeli security and incentives for negotiated peace; and 10) ordinary international recognition standards—Palestine lacks unified effective territorial control and a constitutional order.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1969752747260981363",
+      "1969942486836810149",
+      "1970378171292791257",
+      "1969872138422079621"
+    ],
+    "usTweets": [
+      "1971200018108530797"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-01-13",
+    "claimIds": [
+      "30w",
+      "32",
+      "17"
+    ],
+    "exampleId": "0000030w0001",
+    "keywordIds": [],
+    "text": "Palestinian writer Randa Abdel-Fattah was canceled from the Adelaide Festival for supporting 10/7 and saying Zionists shouldn't feel safe anywhere. She also tried to get Jewish writer Thomas Friedman canceled from a previous festival. ABC in Australia lying through omission. Again. They’re now claiming terror-supporting Randa Abdel-Fattah was ‘cancelled for criticising Israel and Zionism’, while conveniently leaving out what she actually said: celebrating Oct 7 and declaring that Zionists shouldn’t feel safe anywhere. They also neglect to mention that Abdel-Fattah herself tried to get Jewish writers cancelled.",
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "2003299938688729527",
+      "2011244396835135814",
+      "2009548664822542789",
+      "2010132407148831059"
+    ],
+    "nowTweets": [
+      "2011235936659784096"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-01-27",
+    "claimIds": [
+      "31c",
+      "17",
+      "30x"
+    ],
+    "exampleId": "00000031c04",
+    "keywordIds": [],
+    "text": "Renowned antizionist Nerdeen Kiswani, close advisor to Zohran Mamdani, is bothered by how casually 'Zionists' are 'inventing' death toll figures in Iran, which are based on opposition figure estimates. 'Suddenly,' she writes, 'we’re expected to accept an enormous number of people killed in Iran within the span of weeks, with no evidence, no independent verification, no sustained reporting . And we’re supposed to suspend every standard of skepticism we were told was sacred.' Yet she has no problem promoting and mourning insanely inflated numbers of those killed in Gaza using the same standard she is so 'bothered by' when it comes to Iran. 'What matters is controlling the narrative: when death is real, when it’s fake, when numbers count, and when they don’t.' Indeed.",
+    "deepDive": false,
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "2016372890568921249",
+      "1972704175000629634"
+    ],
+    "nowTweets": [
+      "2016255362450505807",
+      "2015693913273536939"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2023-11-11",
+    "claimIds": [
+      "31c",
+      "17"
+    ],
+    "exampleId": "00000031c05",
+    "keywordIds": [],
+    "text": "Mass murderer Bashar al-Assad, Assad condemns Israel and demands that the Palestinians be protected at the “Emergency Meeting” of the Arab League and the Organisation of Islamic Corporation in the Saudi Capital to discuss the Hamas-Israel war. Video 2:  Execution of dozens of  civilians in Syria by members of military Syrian intelligence. Unarmed civilians are taken blindfolded one by one to a pit in a suburb of Damascus,Tadamon. There they are shot in the head. “Greetings to the boss [teacher],” says one of the two perpetrators, smiling into the camera.",
+    "deepDive": false,
+    "source": true,
+    "sourceLink": "https://www.syriahr.com/en/291981/",
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "themTweets": [
+      "1723340264163426514"
+    ],
+    "usTweets": [
+      "1740976877651517934",
+      "1723671780164841946"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-06-08",
+    "claimIds": [
+      "31c",
+      "17",
+      "15"
+    ],
+    "exampleId": "00000031c06",
+    "keywordIds": [
+      "Graham Platner"
+    ],
+    "text": "Leftists says she’s OK with the Nazi tattoo, but if he had an Israeli flag tattoo that would be a deal breaker for her because then he would support genocide…..",
+    "deepDive": false,
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "themTweets": [
+      "2064544415998492888"
+    ],
+    "usTweets": [
+      "2064527638593450197"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-03-23",
+    "claimIds": [
+      "31c",
+      "17"
+    ],
+    "exampleId": "00000031c10",
+    "keywordIds": [
+      "Britain",
+      "UK",
+      "United Kingdom",
+      "London",
+      "Golders Green"
+    ],
+    "text": "“British Muslims are scared,” says Sadiq Khan - after FOUR Jewish communities had their voluntary ambulance services torched.",
+    "deepDive": false,
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "2036012509270880767"
+    ],
+    "nowTweets": [
+      "2036016151998709999",
+      "2036133501687242996"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-06",
+    "date": "2025-06-11",
+    "claimIds": [
+      "31f",
+      "51",
+      "17",
+      "41"
+    ],
+    "exampleId": "codex-20261005-next100-021-r1",
+    "keywordIds": [
+      "UNRWA",
+      "Amnesty International",
+      "Human Rights Watch",
+      "Francesca Albanese",
+      "António Guterres",
+      "Ken Roth",
+      "Greta Thunberg",
+      "Drop Site News",
+      "Mehdi Hasan"
+    ],
+    "text": "Eitan Fischberger reports that Hamas killed Gaza Humanitarian Foundation aid workers and challenges humanitarian organizations’ silence about attacks on Palestinians delivering food.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1932978755229655065"
+    ],
+    "usTweets": [
+      "1933020283176362349"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-18",
+    "claimIds": [
+      "31f",
+      "17",
+      "51"
+    ],
+    "exampleId": "codex-20261011-012",
+    "keywordIds": [
+      "Ana Kasparian",
+      "Cenk Uygur",
+      "Mehdi Hasan"
+    ],
+    "text": "Posts document Hamas’s renewed crackdown after the October 2025 ceasefire, including public executions and torture of Palestinians; Gazans appeal for outside intervention.",
+    "source": false,
+    "standaloneTweets": [
+      "1979171880557822144",
+      "1978901678465200575",
+      "1979684091181289708",
+      "1979611989564633097"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "31f",
+      "12",
+      "51",
+      "17"
+    ],
+    "exampleId": "codex-20261011-038",
+    "keywordIds": [],
+    "text": "Gazan dissident Hamza Howidy reports that Hamas executed a mother and her two young sons after their father joined an anti-Hamas militia; Alex Gideon criticizes the lack of attention to Hamas killing Palestinian children.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1978565985738117391"
+    ],
+    "usTweets": [
+      "1978666690427699480"
+    ]
+  },
+  {
+    "dateAdded": "2026-09-30",
+    "date": "2026-03-08",
+    "claimIds": [
+      "32",
+      "55",
+      "17"
+    ],
+    "exampleId": "claude-b04-23",
+    "keywordIds": [
+      "Canada"
+    ],
+    "text": "At a press conference outside a Toronto synagogue hit by gunfire, the third synagogue shooting in five days, a Toronto Star reporter asked the police chief whether he was worried about Islamophobia, according to Ezra Levant.",
+    "source": false,
+    "standaloneTweets": [
+      "2030699344014258207"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "2026-01-18",
+    "claimIds": [
+      "32",
+      "17",
+      "1"
+    ],
+    "exampleId": "codex-20261004-next100-005",
+    "keywordIds": [],
+    "text": "A post contrasts claimed New York Times coverage totals for Gaza with Mosul, Tigray and Syria.",
+    "source": false,
+    "standaloneTweets": [
+      "2012921494297333866"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-09",
+    "claimIds": [
+      "32",
+      "17"
+    ],
+    "exampleId": "codex-20261019-150-104",
+    "keywordIds": [],
+    "text": "The Independent equates Israel with the Palestinian terrorists who deliberately murdered civilians at a Jerusalem bus stop; HonestReporting contrasts the headline with the perpetrators’ deliberate targeting of innocents.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1965311565999280263"
+    ],
+    "usTweets": [
+      "1965033573183860931"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-02-26",
+    "claimIds": [
+      "55",
+      "17"
+    ],
+    "exampleId": "00005502",
+    "keywordIds": [],
+    "text": "Brilliant from Steven Crowder exposing the 'bake my cake' hypocrisy. The woke mob ruined a Christian business for not wanting to bake a gay cake. Every Muslim business refused to do the same in Dearborn, Michigan. Woke mob silent.",
+    "standaloneTweets": [
+      "2026980816505422314"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": []
   }
 ]

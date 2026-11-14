@@ -1,5 +1,296 @@
 [
   {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-03",
+    "claimIds": [
+      "13a",
+      "2",
+      "56",
+      "30y"
+    ],
+    "exampleId": "codex-20261011-b2-031",
+    "keywordIds": [
+      "united kingdom"
+    ],
+    "text": "British doctor Rahmeh Aladwan circulates posts excusing synagogue attacks and shares an image branding Chief Rabbi Ephraim Mirvis “Rabbi Genocide” immediately after Jews are killed in Manchester.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1973880632586686624"
+    ],
+    "usTweets": [
+      "1974500576684613911"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-13",
+    "claimIds": [
+      "13a",
+      "56"
+    ],
+    "exampleId": "codex-20261019-150-032",
+    "keywordIds": [],
+    "text": "An Israeli mother in Ireland says her doctor lectured her about “genocide” while she was about to give birth during a high-risk pregnancy. She told the doctor the comments were inappropriate and refused further care from her.",
+    "source": false,
+    "standaloneTweets": [
+      "1966875146766909908"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-15",
+    "claimIds": [
+      "26",
+      "30w",
+      "56"
+    ],
+    "exampleId": "codex-20261011-060",
+    "keywordIds": [],
+    "text": "A street poster declares that a ceasefire does not matter and “We don’t stop until Israel ceases to exist.”",
+    "source": false,
+    "standaloneTweets": [
+      "1978469479504880090"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-01",
+    "date": "2026-09-29",
+    "claimIds": [
+      "28",
+      "56"
+    ],
+    "exampleId": "claude-b05-07r",
+    "keywordIds": [
+      "NYC",
+      "boycott"
+    ],
+    "text": "Five Jewish members sued Brooklyn's Park Slope Food Coop, alleging an intimidation campaign over its Israel boycott: they were called “racist,” “genocide supporter” and “spiritually disfigured.” In the boycott organizers' Signal chat, one activist wrote “Long live Yahya Al-Sinwar.”",
+    "source": true,
+    "sourceLink": "https://freebeacon.com/america/long-live-yahya-al-sinwar-brooklyns-park-slope-food-coop-slapped-with-discrimination-suit-for-rampant-antisemitism-crushing-dissent-over-israel-boycott/",
+    "standaloneTweets": [
+      "2105295077706698836",
+      "2105031372234735914"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-05",
+    "date": "2025-12-30",
+    "claimIds": [
+      "28",
+      "56",
+      "52",
+      "31p"
+    ],
+    "exampleId": "codex-20261005-next100-035",
+    "keywordIds": [],
+    "text": "Antizionists at a Los Angeles anti-ICE protest display support for Hamas and call for death to Israeli soldiers, linking their American activism to jihadist violence.",
+    "source": false,
+    "standaloneTweets": [
+      "2006187696352620560"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-06-10",
+    "claimIds": [
+      "28",
+      "31o",
+      "56"
+    ],
+    "exampleId": "codex-20261009-068",
+    "keywordIds": [],
+    "text": "A Palestinian woman interviewed in Canada says she supports Hamas, calls its members the true fighters for Palestine and adds “alhamdulillah.”",
+    "source": false,
+    "standaloneTweets": [
+      "1981012673593762170"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-18",
+    "claimIds": [
+      "28",
+      "56",
+      "21",
+      "16",
+      "52",
+      "30x"
+    ],
+    "exampleId": "codex-20261011-017",
+    "keywordIds": [],
+    "text": "At Seattle’s No Kings march, a protester shouts “Long live October 7” and tells journalist Brandi Kruse that the massacre’s rapes and murders were Israeli propaganda. So Oct. 7 was a great day, but also it never happened and was Israeli propaganda.",
+    "source": false,
+    "standaloneTweets": [
+      "1979741435676229876"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-05",
+    "claimIds": [
+      "28",
+      "56",
+      "31m"
+    ],
+    "exampleId": "codex-20261011-b2-023",
+    "keywordIds": [
+      "Canada"
+    ],
+    "text": "Canadian antizionist Firas al Najim leads chants that “October 7 was justified,” with a child beside him joining the demonstration.",
+    "source": false,
+    "standaloneTweets": [
+      "1974863772574445609"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2024-10-07",
+    "claimIds": [
+      "28",
+      "56"
+    ],
+    "exampleId": "codex-20261011-b2-046",
+    "keywordIds": [],
+    "text": "A Bergen, Norway rally poster urges “Support Palestinian resistance” and celebrates one year of “Al-Aqsa Flood,” Hamas’s name for the October 7 massacre.",
+    "source": false,
+    "standaloneTweets": [
+      "1974038398705750197"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-09-28",
+    "claimIds": [
+      "28",
+      "51",
+      "56",
+      "5"
+    ],
+    "exampleId": "codex-20261011-b2-086",
+    "keywordIds": [],
+    "text": "An antizionist crowd boos Reggio Emilia mayor Marco Massari and shouts “shame” when he calls for the release of Israeli hostages while honoring UN rapporteur Francesca Albanese.",
+    "source": true,
+    "standaloneTweets": [
+      "1973535387055427935"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.reggioreport.it/2025/09/teatro-valli-finisce-in-gazzarra-pro-hamas-il-primo-tricolore-a-francesca-albanese-video-urla-e-fischi-al-sindaco-massariche-chiede-la-restituzione-degli-ostaggi/"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-17",
+    "claimIds": [
+      "28",
+      "56",
+      "31n",
+      "6y"
+    ],
+    "exampleId": "codex-20261020-b2-041",
+    "keywordIds": [],
+    "text": "An antizionist woman spits at an Israeli’s car window in New York, screams abuse and declares, “I love Hamas.”",
+    "source": false,
+    "standaloneTweets": [
+      "1957049860118475152"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-06",
+    "date": "2025-11-15",
+    "claimIds": [
+      "54",
+      "56"
+    ],
+    "exampleId": "codex-20261006-next100-084",
+    "keywordIds": [],
+    "text": "Antisemitic graffiti brands Mexico’s Jewish president Claudia Sheinbaum a “Jewish whore” and crosses out a Star of David; Her leftist politics and criticism of Israel offer no protection.",
+    "source": true,
+    "sourceLink": "https://www.timesofisrael.com/antisemitic-graffiti-sprayed-in-mexico-during-protests-against-sheinbaums-government/amp/",
+    "standaloneTweets": [
+      "1989851127332884808"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-03",
+    "claimIds": [
+      "55",
+      "56"
+    ],
+    "exampleId": "codex-20261011-b2-040",
+    "keywordIds": [],
+    "text": "Good Morning Britain presenter Kate Garraway says the Manchester synagogue attacker’s religion and motive are unknown, despite being a Syrian named Jihad. The Tweets on the right are images from the attack, being blocked by Twitter's embed tool. Click through to see (WARNING: GRAPHIC).",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1973988008471798191"
+    ],
+    "usTweets": [
+      "1973694184751309196",
+      "1973695664283615437"
+    ]
+  },
+  {
     "dateAdded": "",
     "date": "2026-04-06",
     "claimIds": [
@@ -337,6 +628,168 @@
     "source": false,
     "standaloneTweets": [
       "1979486007318770101"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-28",
+    "claimIds": [
+      "56",
+      "3",
+      "5"
+    ],
+    "exampleId": "codex-20261012-166-006",
+    "keywordIds": [],
+    "text": "Students from Escuela Humanos in Buenos Aires chant “Today we will burn the Jews” on their graduation-trip bus while an adult dances with them. The school’s motto is “Building more humane people.”",
+    "source": false,
+    "standaloneTweets": [
+      "1972443848527012119",
+      "1972580218872402136"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-17",
+    "claimIds": [
+      "56"
+    ],
+    "exampleId": "codex-20261019-150-006",
+    "keywordIds": [],
+    "text": "Agitators in London chant “Khaybar, Khaybar, ya Yahud”—invoking the historic Muslim battle against Jews—and say Muhammad’s army will return.",
+    "source": false,
+    "standaloneTweets": [
+      "1968197785876148247"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-14",
+    "claimIds": [
+      "56"
+    ],
+    "exampleId": "codex-20261019-150-031",
+    "keywordIds": [],
+    "text": "Actor Javier Bardem wears a keffiyeh at the Emmy Awards, calls Gaza a genocide, endorses the boycott of Israeli film institutions, and urges commercial and diplomatic pressure and sanctions on Israel.",
+    "source": true,
+    "standaloneTweets": [
+      "1967397670190010519"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://au.variety.com/2025/tv/news/javier-bardem-gaza-genocide-palestine-film-workers-27597/"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-10",
+    "claimIds": [
+      "56"
+    ],
+    "exampleId": "codex-20261019-150-078",
+    "keywordIds": [],
+    "text": "A crowd member immediately shouts “Free Palestine” when comedian Big Jay Oakerson says he is Jewish on stage.",
+    "source": false,
+    "standaloneTweets": [
+      "1965781793971548243"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-09-01",
+    "claimIds": [
+      "56",
+      "25"
+    ],
+    "exampleId": "codex-20261020-next150-012",
+    "keywordIds": [],
+    "text": "George Mason University reinstated its Students for Justice in Palestine chapter after a police investigation uncovered guns, ammunition and signs reading “death 2 Jews” at the former leaders’ home.",
+    "source": true,
+    "standaloneTweets": [
+      "1962480597151997993"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.gmu.edu/news/2025-09/statement-status-sjp"
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-31",
+    "claimIds": [
+      "56"
+    ],
+    "exampleId": "codex-20261020-next150-013",
+    "keywordIds": [],
+    "text": "After a child asks a shop for a Palestinian flag and is offered an Israeli one, his father returns to berate the shopkeeper: “Why would you tell him you have the Jewish flag?” followed by “Fuck Israel” and “Go fuck yourself.”",
+    "source": false,
+    "standaloneTweets": [
+      "1962295498359943544"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-22",
+    "claimIds": [
+      "56",
+      "4"
+    ],
+    "exampleId": "codex-20261020-next150-057",
+    "keywordIds": [],
+    "text": "WNBA player Natasha Cloud tells followers to cross-reference AIPAC with the Epstein files and calls Zionism no different from the KKK. An earlier screenshot shows her describing Israel’s founding as white settlers seizing land, raping women and murdering men and children.",
+    "source": false,
+    "standaloneTweets": [
+      "1960429742659920005"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-11",
+    "claimIds": [
+      "56",
+      "5",
+      "31o",
+      "27"
+    ],
+    "exampleId": "codex-20261020-b2-038",
+    "keywordIds": [],
+    "text": "Undercover reporter Zach Sage Fox discusses antizionist hostility in London and the threat it poses to Jewish life, drawing a warning for New York under Zohran Mamdani. \"Where will the Jews go if we make Israel Palestine?\" \"They can go to hell!\"",
+    "source": false,
+    "standaloneTweets": [
+      "1954961228599538133"
     ],
     "thenVsNowFormat": false,
     "thenTweets": [],

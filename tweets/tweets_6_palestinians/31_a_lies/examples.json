@@ -561,22 +561,6 @@
   },
   {
     "dateAdded": "",
-    "date": "2023-10-07",
-    "claimIds": [
-      "31a"
-    ],
-    "exampleId": "00000031a029",
-    "keywordIds": [],
-    "standaloneTweets": [
-      "1710846971290726867"
-    ],
-    "source": false,
-    "text": "This is a fake Jerusalem Post account falsely reporting that Prime Minister Benjamin Netanyahu has been taken to hospital, and somehow racking up over 600,000 views. The post has now got a Community Note attached to it.",
-    "themTweets": [],
-    "usTweets": []
-  },
-  {
-    "dateAdded": "",
     "date": "2023-10-14",
     "claimIds": [
       "31a"
@@ -1326,5 +1310,337 @@
       "1975160506156544223"
     ],
     "sourceLink": "https://www.jns.org/israel-news/miss-israel-decries-lies-in-miss-palestines-gaza-war-posts"
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-29",
+    "claimIds": [
+      "31a",
+      "14"
+    ],
+    "exampleId": "codex-20261012-166-002",
+    "keywordIds": [],
+    "text": "Antizionist commentator Candace Owens accuses Netanyahu of misrepresenting Charlie Kirk’s letter; the published letter expressly affirms Kirk’s deep love for Israel and the Jewish people while urging a better response to rising anti-Israel sentiment.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1972856602496766021"
+    ],
+    "usTweets": [
+      "1972988696526995648",
+      "1972856606657487231",
+      "1972856610746949707"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2024-03-25",
+    "claimIds": [
+      "31a"
+    ],
+    "exampleId": "codex-20261012-166-072",
+    "keywordIds": [],
+    "text": "Al Jazeera withdraws an al-Shifa rape allegation after a former managing director says the account was fabricated, as reported in the New York Sun. Dated March 25, 2024.",
+    "source": true,
+    "standaloneTweets": [
+      "1970328427925230026"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.nysun.com/article/al-jazeera-says-its-story-that-idf-soldiers-are-raping-gazans-is-a-lie"
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-23",
+    "claimIds": [
+      "31a"
+    ],
+    "exampleId": "codex-20261012-166-075",
+    "keywordIds": [],
+    "text": "Antizionist commentator Ana Kasparian says Israel killed an American father and three American children in Lebanon; The US State Department says they were not US citizens and shows that NBC attributed the citizenship claim to Lebanese speaker Nabih Berri.",
+    "source": false,
+    "standaloneTweets": [
+      "1970354368634343452"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2025-09-19",
+    "claimIds": [
+      "31a",
+      "12"
+    ],
+    "exampleId": "codex-20261012-166-128",
+    "keywordIds": [],
+    "text": "A bullet from the IDF apparently stops midway through a child's skull without going through and without causing any damage or blood. This is fantastical, but people literally believe it because it's about Israel.",
+    "source": false,
+    "standaloneTweets": [
+      "1969123954477392235"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-09",
+    "claimIds": [
+      "31a",
+      "46",
+      "47",
+      "53",
+      "21a"
+    ],
+    "exampleId": "codex-20261019-150-099",
+    "keywordIds": [],
+    "text": "Flotilla activist Yasemin Acar says a drone dropped a bomb onto the boat and caused a fire. Other posts contrast that allegation with Tunisia’s denial that a drone entered its airspace and challenge the flotilla’s attribution of the blaze to Israel.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1965242586094018928"
+    ],
+    "usTweets": [
+      "1965281428528345508",
+      "1965392378275217682"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-01",
+    "claimIds": [
+      "31a",
+      "31n"
+    ],
+    "exampleId": "codex-20261019-150-142",
+    "keywordIds": [],
+    "text": "An account claims Iranian zereshk polo ba morgh as Palestinian cuisine; Nioh Berg identifies the dish and rejects the cultural appropriation.",
+    "source": false,
+    "standaloneTweets": [
+      "1962597600420364388"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "1946-07-22",
+    "claimIds": [
+      "31a",
+      "33"
+    ],
+    "exampleId": "codex-20261019-150-147",
+    "keywordIds": [],
+    "text": "Antizionist activist Shaun King calls the 1946 King David Hotel bombing an early Mossad false flag blamed on Arabs. Adin Haykin responds that the Irgun carried out the bombing and gave advance warnings.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1962912631842365723"
+    ],
+    "usTweets": [
+      "1962921517630488666"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "1948-01-10",
+    "claimIds": [
+      "31a",
+      "52x",
+      "33"
+    ],
+    "exampleId": "codex-20261020-next150-040",
+    "keywordIds": [
+      "Muslims and Jews got along",
+      "Muslims welcomed Jews",
+      "Cenk Uygur"
+    ],
+    "text": "An Iranian Jewish woman describes her family’s persecution in Isfahan and Hamadan: Jews were forbidden to go outside in the rain because they supposedly polluted the water, and her great-grandfather was lynched. Her account rejects the fantasy of equal, harmonious Jewish life under Islamic rule.",
+    "source": false,
+    "standaloneTweets": [
+      "1961947723453944100"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-25",
+    "claimIds": [
+      "31a",
+      "10"
+    ],
+    "exampleId": "codex-20261020-next150-054",
+    "keywordIds": [],
+    "text": "TRT World uses a 2016 Reuters photograph of a starving child in Yemen as if it is a Gazan child. The comparison exposes an old Yemeni image being presented in a Gaza context.",
+    "source": true,
+    "standaloneTweets": [
+      "1960582699359298002"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.thejc.com/news/israel/trt-world-starving-yemeni-child-gaza-yj1whju8"
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-31",
+    "claimIds": [
+      "31a"
+    ],
+    "exampleId": "codex-20261020-next150-022-r1-elica",
+    "keywordIds": [
+      "Cenk Uygur",
+      "Max Blumenthal",
+      "Shaun King"
+    ],
+    "text": "Antizionists claim Israel killed the Prime Minister of Yemen, mourn it, and then call Israel evil in various ways.  Israel did not eliminate the Prime Minister of Yemen, they eliminated the head of the Houthi terror regime.",
+    "source": false,
+    "standaloneTweets": [
+      "1961973419357986945"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-30",
+    "claimIds": [
+      "31a",
+      "52x"
+    ],
+    "exampleId": "codex-20261020-next150-031-r1-ag",
+    "keywordIds": [],
+    "text": "The Young Turks host Cenk Uygur calls Israel a terrorist state for killing “the Prime Minister of Yemen.” AG answers that Yemen’s internationally recognized prime minister, Salem bin Braik, is alive: the dead man was the prime minister appointed by the Houthi terrorist movement.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1961853233896603661"
+    ],
+    "usTweets": [
+      "1961882119300677997",
+      "1961994166025826588",
+      "1961882179216248985"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-20",
+    "claimIds": [
+      "31c",
+      "31a"
+    ],
+    "exampleId": "codex-20261009-095",
+    "keywordIds": [],
+    "text": "Eye on Palestine accuses Israeli soldiers of stealing a scooter in Nablus; a response compares the visible payment module with Israeli Lime rental scooters and identifies it as a stolen Israeli scooter.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1980393459895927134"
+    ],
+    "usTweets": [
+      "1980405366291587404"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-02",
+    "claimIds": [
+      "32",
+      "31a"
+    ],
+    "exampleId": "codex-20261011-b2-055",
+    "keywordIds": [],
+    "text": "A screenshot of BBC Russian coverage labels a photograph of a Tel Aviv market as Tehran; Hebrew signs expose the mismatch.",
+    "source": false,
+    "standaloneTweets": [
+      "1973759750098526368"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-10",
+    "claimIds": [
+      "32",
+      "31a"
+    ],
+    "exampleId": "codex-20261019-150-084",
+    "keywordIds": [
+      "Anthony Aguilar"
+    ],
+    "text": "MSNBC deletes its report that Tony Aguilar’s aid-site boy “Amir” was gunned down, then offers no comment. GHF identifies the boy as Abdul Rahim Muhammad Hamden, says he is alive and safe, and publishes the correction.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1965825861917323696"
+    ],
+    "usTweets": [
+      "1963609901114298787",
+      "1963595896190304448"
+    ]
+  },
+  {
+    "dateAdded": "",
+    "date": "1948-04-09",
+    "claimIds": [
+      "33",
+      "31a",
+      "31c",
+      "46",
+      "47",
+      "52x"
+    ],
+    "exampleId": "00003302",
+    "keywordIds": [],
+    "text": "On April 9, 1948, a fierce battle took place in the Arab village of Deir Yassin, just outside Jerusalem. For decades, it has been held up as proof of “Zionist barbarity” — the supposed deliberate massacre of 254 innocent villagers, including rapes and mutilations. The story is still repeated as gospel. Deir Yassin was a tragedy of war — a hard-fought battle in a war the Arabs launched to prevent any Jewish state from existing anywhere in the Land. It was not the deliberate ethnic cleansing or massacre of legend. The real lesson is darker: Arab leaders’ own fabricated atrocity stories caused far more Palestinian suffering than the battle itself — and they have spent decades blaming the Jews for the consequences.",
+    "standaloneTweets": [
+      "2047032130153386298",
+      "2047172947291378099"
+    ],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

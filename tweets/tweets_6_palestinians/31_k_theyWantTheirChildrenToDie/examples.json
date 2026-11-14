@@ -1,6 +1,151 @@
 [
   {
     "dateAdded": "",
+    "date": "2021-06-29",
+    "claimIds": [
+      "31e",
+      "31k",
+      "31r"
+    ],
+    "exampleId": "31e08",
+    "keywordIds": [],
+    "text": "In June 2021, a child at Islamic Jihad Gaza Summer Camp: 'Hitler Left Some of You Alive to Show Us How Wicked You Are; We Will Tear Your Bodies Apart with Our Rockets.' PIJ Official: 'The children of Palestine Will Sacrifice Their Blood and Body Parts.'",
+    "standaloneTweets": [
+      "1986070983355056574"
+    ],
+    "source": false,
+    "sourceLink": "",
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2007-05-31",
+    "claimIds": [
+      "31e",
+      "31k"
+    ],
+    "exampleId": "31e18",
+    "keywordIds": [],
+    "text": "Young children are shown wearing military uniforms and carrying rifles. Some wear masks and suicide vests. The children are shown marching in formation, crawling on the ground, jumping over obstaces, and shouting slogans. Children chant: 'Jihad! Allah Akbar! Your role model? The Prophet [Muhammad]. Your path? Jihad! Your aspiration? Death for Allah. Your movement? Hamas! Your movement? Hamas!'",
+    "standaloneTweets": [
+      "1805332984179945824"
+    ],
+    "source": true,
+    "sourceLink": "https://www.youtube.com/watch?v=vRuuDI0KCR8",
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-06",
+    "date": "2018-11-21",
+    "claimIds": [
+      "31e",
+      "31k",
+      "31d"
+    ],
+    "exampleId": "codex-20261005-next100-096-r1",
+    "keywordIds": [],
+    "text": "Palestinian children point toy rifles at Israeli police on the Temple Mount while their mother laughs and films them.",
+    "source": true,
+    "standaloneTweets": [
+      "1993219825427247467"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.israelunwired.com/palestinian-pretend-shoot-soldiers/"
+  },
+  {
+    "dateAdded": "2026-10-07",
+    "date": "2023-02-15",
+    "claimIds": [
+      "31e",
+      "31k"
+    ],
+    "exampleId": "codex-20261006-next100-052-pending-review-20261007",
+    "keywordIds": [],
+    "text": "A clip of a Palestinian kindergarten promotes killing Jews, dying for Allah and producing more martyrs.",
+    "source": false,
+    "standaloneTweets": [
+      "1625903491863523346"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-02-22",
+    "claimIds": [
+      "31e",
+      "31k"
+    ],
+    "exampleId": "codex-20261012-166-044",
+    "keywordIds": [],
+    "text": "\"The military arm of Hamas is our children and grandchildren; we are the ones who raised and educated them\" | An uninvolved woman in Gaza recounts the extent of her non-involvement with Hamas at the event of releasing our hostages from Rafah on Feb. 22, 2025.",
+    "source": false,
+    "standaloneTweets": [
+      "1971371643160199373"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2006-04-23",
+    "claimIds": [
+      "31e",
+      "31j",
+      "31k",
+      "31g",
+      "30"
+    ],
+    "exampleId": "codex-20261020-b2-077",
+    "keywordIds": [],
+    "text": "At an Islamic Jihad summer school, Palestinian boys reject peace with Israel: “That’s impossible. It’s either jihad or martyrdom.”",
+    "source": true,
+    "standaloneTweets": [
+      "1955244786148925774"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.childrensrightsinstitute.org/127/if-i-died-as-a-martyr-id-go-to-paradise"
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "2008-02-29",
+    "claimIds": [
+      "31f",
+      "31k",
+      "31g"
+    ],
+    "exampleId": "codex-20261004-next100-010",
+    "keywordIds": [],
+    "text": "Fathi Hammad praises using women, children and elderly people as human shields in an Al-Aqsa TV appearance.",
+    "source": true,
+    "standaloneTweets": [
+      "2013405863898190142"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://palwatch.org/page/1382"
+  },
+  {
+    "dateAdded": "",
     "date": "2023-06-01",
     "claimIds": [
       "31k",
@@ -343,5 +488,43 @@
     "themTweets": [],
     "usTweets": [],
     "sourceLink": "https://afmda.org/news/gush-etzion-stabbing/"
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-25",
+    "claimIds": [
+      "31k",
+      "31g"
+    ],
+    "exampleId": "codex-20261012-166-030",
+    "keywordIds": [],
+    "text": "Hamas official Ghazi Hamad defends October 7 despite the Palestinian death toll, refuses responsibility for Gaza’s suffering, and celebrates international condemnation of Israel as a “golden moment.”",
+    "source": true,
+    "standaloneTweets": [
+      "1971649270525616583"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://transcripts.cnn.com/show/tbwjs/date/2025-09-25/segment/01"
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-06-19",
+    "claimIds": [
+      "31o",
+      "31k"
+    ],
+    "exampleId": "0000031o0021",
+    "keywordIds": [],
+    "text": "Dearborn Shiite scholar Usama Abdulghani: 'Every Muslim should dream of engaging in jihad and raise their children with that ideal.' The crowd recited the Fatiha prayer for Khamenei and Nasrallah.",
+    "source": false,
+    "standaloneTweets": [
+      "2069774780375453926"
+    ],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

@@ -1,6 +1,102 @@
 [
   {
     "dateAdded": "",
+    "date": "2022-03-15",
+    "claimIds": [
+      "31e",
+      "41"
+    ],
+    "exampleId": "31e26",
+    "keywordIds": [
+      "children"
+    ],
+    "text": "Defense of Children NGO claims Israeli forces fatally shot Nader Haitham Fathi Rayyan, 16, at least twice in the back. '“As Israeli forces withdrew from the camp in a convoy of at least seven armored military vehicles, Nader and another boy passed the military convoy on a motorcycle. … An eyewitness told DCIP that the motorcycle broke down, forcing Nader and the other child to get off the motorcycle. They then attempted to flee the area on foot. … An Israeli soldier fired at least three bullets at Nader and the other boy from inside his armored vehicle.” Yet Palestinian news outlets claim he was killed in 'clashes,' the IDF claims he fired upon them, and there are tons of pictures of him with military grade weapons.",
+    "source": true,
+    "sourceLink": "https://qudsn.co/post/190910/%d8%a3%d8%ad%d8%af%d9%87%d9%85-%d9%81%d9%8a-%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83-%d9%85%d8%b3%d9%84%d8%ad-%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b9%d8%b1%d8%a8%d9%8a%d9%86-3-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-%d9%86%d8%a7%d8%a8%d9%84%d8%b3-%d9%88%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d9%88%d8%b1%d9%87%d8%b7",
+    "themTweets": [
+      "1594321460419493888",
+      "1503725510798372867",
+      "1523600950740533248",
+      "1503703423639764998",
+      "1504123833485340675"
+    ],
+    "usTweets": [
+      "1503762316453580801",
+      "1527250337366687746",
+      "1527007262589521921",
+      "1527552955288801280",
+      "1527554797494206464"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-01",
+    "date": "2024-06-08",
+    "claimIds": [
+      "31e",
+      "41",
+      "45"
+    ],
+    "exampleId": "claude-b05-17r",
+    "keywordIds": [
+      "Hamas"
+    ],
+    "text": "Hamas's official martyr video shows 17-year-old Fadi Abu Ghazala of the Qassam Brigades' Rafah Brigade at a youth military camp. Its notice gives his death as June 8, 2024. Aizenberg notes the silence from NGOs and “experts.”",
+    "source": false,
+    "standaloneTweets": [
+      "2105005195067601012"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2016-06-22",
+    "claimIds": [
+      "31e",
+      "41",
+      "31j"
+    ],
+    "exampleId": "codex-20261012-166-091",
+    "keywordIds": [],
+    "text": "Mais Jingilani, UNRA student: “Stabbing Jews brings dignity to the Palestinians. We have to stab the Jews. They teach us that Jews are terrorists. I am ready to stab a jew and drive a car over them. I am ready to join ISIS.”",
+    "source": true,
+    "standaloneTweets": [
+      "1970124205305045108"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://israelbehindthenews.com/2016/06/24/filmmaker-calls-unrwa-self-introspection-palestinian-classroom-incitement/"
+  },
+  {
+    "dateAdded": "2026-10-03",
+    "date": "1960-06-23",
+    "claimIds": [
+      "33",
+      "41",
+      "45"
+    ],
+    "exampleId": "codex-20261003b-next50-30",
+    "keywordIds": [],
+    "text": "The United Nations Security Council voted 8-0 to condemn Israel’s capture of one of the architects of the Holocaust, Adolf Eichmann, from Argentina in June 1960.",
+    "source": true,
+    "standaloneTweets": [
+      "2015924508524224803"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://unscr.com/en/resolutions/138/"
+  },
+  {
+    "dateAdded": "",
     "date": "2025-11-14",
     "claimIds": [
       "41"
@@ -795,5 +891,520 @@
     "usTweets": [
       "1974000741384647036"
     ]
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-27",
+    "claimIds": [
+      "41",
+      "45"
+    ],
+    "exampleId": "codex-20261012-166-020",
+    "keywordIds": [],
+    "text": "Faisal Ali Mussalem al-Naami is one of dozens of UNRWA employees identified in the abduction of murdered Israeli Yonatan Samerano’s body on October 7; the United Nations seeks immunity for its workers who were complicit in the Oct. 7 massacre.",
+    "source": false,
+    "standaloneTweets": [
+      "1971951123654222259",
+      "1970395456799994335"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-13",
+    "date": "2025-09-21",
+    "claimIds": [
+      "41"
+    ],
+    "exampleId": "codex-20261012-166-103",
+    "keywordIds": [],
+    "text": "Amnesty staff reportedly resist publishing an October 7 investigation because documenting Hamas’s mass murder could “help Israel.”",
+    "source": false,
+    "standaloneTweets": [
+      "1969895313243807859"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-17",
+    "date": "2025-07-25",
+    "claimIds": [
+      "41",
+      "30a",
+      "30x",
+      "17",
+      "46"
+    ],
+    "exampleId": "codex-20261012-166-144",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "A reporter challenges a UN spokesman over demanding safe Israeli aid delivery while objecting to Israeli forces securing the convoys.",
+    "source": false,
+    "standaloneTweets": [
+      "1948846975677276252"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-18",
+    "claimIds": [
+      "41",
+      "45",
+      "11"
+    ],
+    "exampleId": "codex-20261012-166-146-r1-kothari",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "UN commissioner Miloon Kothari invokes “the Jewish lobby” controlling social media and questions Israel’s UN membership in 2022, drawing condemnation for antisemitism; in 2025 he helps write the commission’s genocide accusation against Israel.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1553510043013750785",
+      "1555199277651165184",
+      "1552716633550061571"
+    ],
+    "nowTweets": [
+      "1968819992562176374",
+      "1968097587136803101"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-18",
+    "claimIds": [
+      "41",
+      "45",
+      "11"
+    ],
+    "exampleId": "codex-20261012-166-146-r1-sidoti",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "UN commissioner Chris Sidoti dismisses antisemitism accusations as being thrown around “like rice at a wedding” in 2022; in 2025 he helps write the commission’s genocide accusation against Israel.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1584905379586211842",
+      "1563116804083367938"
+    ],
+    "nowTweets": [
+      "1968819992562176374",
+      "1968097587136803101"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-18",
+    "claimIds": [
+      "41",
+      "45"
+    ],
+    "exampleId": "codex-20261012-166-146-r1-pillay",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "Navi Pillay campaigns to boycott and sanction “apartheid Israel” and defends her impartiality in 2022; in 2025 she chairs the commission accusing Israel of genocide and promotes its conclusion in the New York Times.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1494514330628407296",
+      "1537236410779852801"
+    ],
+    "nowTweets": [
+      "1968819992562176374",
+      "1968097587136803101"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-17",
+    "claimIds": [
+      "41",
+      "45",
+      "11"
+    ],
+    "exampleId": "codex-20261012-166-146-r1",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "The New York Times publishes UN commissioner Navi Pillay’s genocide accusation. One of the three commissioners who wrote the accusation is Miloon Kothari, a man condemned in 2022 for his blatant antisemitism by the UN Secretary General and every major Western Democratic Country.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1968097587136803101"
+    ],
+    "usTweets": [
+      "1968819992562176374",
+      "1968261389254091067"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-13",
+    "claimIds": [
+      "41"
+    ],
+    "exampleId": "codex-20261019-150-035",
+    "keywordIds": [],
+    "text": "Former Israeli lawmaker Einat Wilf argues that endorsing a Palestinian state while preserving a hereditary “right of return” promises two Arab states rather than coexistence with a Jewish state. She identifies clause 39 of the UN-backed declaration as preserving that demand.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1966513311547032059"
+    ],
+    "usTweets": [
+      "1966922627739443612"
+    ],
+    "sourceLink": "https://www.un.org/unispal/document/ga-meeting-coverage-12sep25/"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-11",
+    "claimIds": [
+      "41",
+      "10"
+    ],
+    "exampleId": "codex-20261019-150-049",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "An Israeli review of the UN-backed famine committee identifies members’ public support for Hamas, the Houthis and October 7, challenging the political neutrality of the body behind the Gaza famine declaration.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1958817325936713813"
+    ],
+    "nowTweets": [
+      "1966038746593185900"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "1960-06-23",
+    "claimIds": [
+      "41"
+    ],
+    "exampleId": "codex-20261019-150-068",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "After Israel captures Holocaust architect Adolf Eichmann in Argentina, the UN Security Council debates Argentina’s sovereignty complaint. Golda Meir asks whether bringing Eichmann to trial is the threat to peace, rather than leaving him free to spread Nazi hatred.",
+    "source": true,
+    "standaloneTweets": [
+      "1965777982213251211",
+      "1965780063120773254"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://digitallibrary.un.org/record/619744?v=pdf"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-10",
+    "claimIds": [
+      "41",
+      "13"
+    ],
+    "exampleId": "codex-20261019-150-072",
+    "keywordIds": [],
+    "text": "NGO Monitor publishes Hamas internal documents describing hospitals as command infrastructure and coordination with incoming aid delegations. One document places the Red Cross’s Al-Shifa Hospital office beside a Hamas office, which Leslie Kajomovitz contrasts with the ICRC’s friendly handling of Hamas hostage-release spectacles.",
+    "source": false,
+    "standaloneTweets": [
+      "1965748390932963330",
+      "1965748402559562141",
+      "1965807545110675865"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2023-12-07",
+    "claimIds": [
+      "41",
+      "31o"
+    ],
+    "exampleId": "codex-20261019-150-124",
+    "keywordIds": [],
+    "text": "The Biden White House distances itself from CAIR after executive director Nihad Awad says he was happy to see Palestinians break out of Gaza on October 7.",
+    "source": false,
+    "standaloneTweets": [
+      "1962261188190089486"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2023-10-07",
+    "claimIds": [
+      "41"
+    ],
+    "exampleId": "codex-20261019-150-149",
+    "keywordIds": [],
+    "text": "The Committee to Protect Journalists lists Yaniv Zohar as killed on “dangerous assignment” by a “political group,” although Hamas murdered him at home with his wife and daughters during the October 7 massacre.",
+    "source": true,
+    "standaloneTweets": [
+      "1962797530074247642"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://cpj.org/data/people/yaniv-zohar/"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2024-12-05",
+    "claimIds": [
+      "41",
+      "52x",
+      "31c"
+    ],
+    "exampleId": "codex-20261019-150-132-r1-03",
+    "keywordIds": [],
+    "text": "Amnesty International opens its Gaza genocide report by saying Israel began a military offensive on October 7, omitting Hamas’s massacre and hostage-taking from that opening paragraph.",
+    "source": true,
+    "standaloneTweets": [
+      "1962826742621495527",
+      "1864674989623955905"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.amnesty.org/en/documents/mde15/8668/2024/en/"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2024-12-05",
+    "claimIds": [
+      "41",
+      "11"
+    ],
+    "exampleId": "codex-20261019-150-132-r1-04",
+    "keywordIds": [],
+    "text": "Amnesty International rejects an interpretation of genocide jurisprudence as “overly cramped” in its Gaza report; researcher Aizenberg shows the passage and argues Amnesty rewrote the standard for intent to accuse Israel of genocide.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1864674989623955905"
+    ],
+    "usTweets": [
+      "1865416977394577871",
+      "1865416987091849392",
+      "1962826745922338899"
+    ],
+    "sourceLink": "https://www.amnesty.org/en/documents/mde15/8668/2024/en/"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-01-22",
+    "claimIds": [
+      "41"
+    ],
+    "exampleId": "codex-20261019-150-132-r1-05",
+    "keywordIds": [],
+    "text": "Romi Gonen, Emily Damari and Doron Steinbrecher return home after 471 days as Hamas hostages; an Amnesty International critic calls out the organization for not issuing a statement about their release.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1881043803366474207",
+      "1881085236874023116"
+    ],
+    "nowTweets": [
+      "1882059170637320503"
+    ],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.amnesty.org/en/latest/news/2025/01/israel-opt-tragically-overdue-ceasefire-will-not-repair-lives-of-palestinians-shattered-by-israels-genocide-in-gaza/"
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2024-03-08",
+    "claimIds": [
+      "41",
+      "17",
+      "55y"
+    ],
+    "exampleId": "codex-20261019-150-132-r1-06",
+    "keywordIds": [],
+    "text": "On International Women’s Day, Amnesty International singles out women in Gaza for solidarity without mentioning Israeli women raped and abducted by Hamas, four days after the UN reported evidence of October 7 sexual violence and abuse of hostages.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1766138893236158676"
+    ],
+    "usTweets": [
+      "1962826752377438643",
+      "1764807939334832373"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2024-04-08",
+    "claimIds": [
+      "41",
+      "52x",
+      "55y"
+    ],
+    "exampleId": "codex-20261019-150-132-r1-07",
+    "keywordIds": [],
+    "text": "Amnesty International mourns Walid Daqqa as a Palestinian writer without mentioning in its tribute Tweet that he was convicted of commanding the group that abducted and murdered 19-year-old Israeli soldier Moshe Tamam.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1777390873518489613"
+    ],
+    "usTweets": [
+      "1962826755875471734"
+    ],
+    "sourceLink": "https://www.amnesty.at/news-events/news/statement-zum-tod-von-walid-daqqa/"
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-30",
+    "claimIds": [
+      "41"
+    ],
+    "exampleId": "codex-20261020-next150-033",
+    "keywordIds": [],
+    "text": "Doctors Without Borders calls itself independent, neutral and impartial. Yehuda Teitelbaum answers with images identifying MSF employee Fadi Al-Wadiya with Palestinian Islamic Jihad; the IDF said he developed the group’s rocket capabilities.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1961836810222420334"
+    ],
+    "usTweets": [
+      "1961960720448311407",
+      "1805708917294420469"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-26",
+    "claimIds": [
+      "41",
+      "13"
+    ],
+    "exampleId": "codex-20261020-b2-008",
+    "keywordIds": [],
+    "text": "The Committee to Protect Journalists lists Al-Aqsa TV staff as journalists; Aizenberg supplies the US designation identifying the station as Hamas-controlled and \"airs programs designed to recruit children to become Hamas armed fighters and suicide bombers upon reaching adulthood.\"",
+    "source": true,
+    "standaloneTweets": [
+      "1960449531214225471",
+      "1960449534104101117",
+      "1960449536239001790"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://home.treasury.gov/news/press-releases/tg594"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-14",
+    "claimIds": [
+      "41",
+      "31f"
+    ],
+    "exampleId": "codex-20261020-b2-067",
+    "keywordIds": [],
+    "text": "Gaza Humanitarian Foundation (GHF) spokesman Chapin Fay says twenty workers wounded in a Hamas bus ambush were denied treatment by Doctors Without Borders at Nasser Hospital and left outside.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1933453228739379345"
+    ],
+    "nowTweets": [
+      "1956366910762680561",
+      "1956370363925074299"
+    ],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://israel365news.com/411582/ghf-spokesman-doctors-without-borders-refused-to-treat-workers-wounded-by-hamas/"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-08",
+    "claimIds": [
+      "41",
+      "45",
+      "28"
+    ],
+    "exampleId": "codex-20261020-b2-072",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "UN rapporteur Francesca Albanese tells a Sicily audience not to think of Hamas as cut-throats or armed fighters, presenting it instead as a political authority that built schools and hospitals.",
+    "source": true,
+    "standaloneTweets": [
+      "1956346295171285155"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://unwatch.org/francesca-albaneses-seven-most-shameful-moments-in-august-2025/"
   }
 ]

@@ -219,5 +219,24 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-26",
+    "claimIds": [
+      "49"
+    ],
+    "exampleId": "codex-20261012-166-029",
+    "keywordIds": [],
+    "text": "A man in New York City tears down posters of hostages still held by Hamas, including American citizens.",
+    "source": false,
+    "standaloneTweets": [
+      "1971719923971092489"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
   }
 ]

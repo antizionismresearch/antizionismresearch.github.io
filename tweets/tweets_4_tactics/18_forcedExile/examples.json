@@ -1,6 +1,22 @@
 [
   {
     "dateAdded": "",
+    "date": "2025-12-03",
+    "claimIds": [
+      "1",
+      "18"
+    ],
+    "exampleId": "0000001004",
+    "keywordIds": [],
+    "text": "A NYC middle school principal will only allow a Holocaust survivor to speak to the students if the survivor doesn’t support Israel.",
+    "standaloneTweets": [
+      "1996275936992416116"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
     "date": "2024-03-29",
     "claimIds": [
       "18"
@@ -479,5 +495,153 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-12",
+    "date": "2025-09-26",
+    "claimIds": [
+      "18",
+      "5",
+      "56",
+      "55y"
+    ],
+    "exampleId": "codex-20261012-166-024",
+    "keywordIds": [
+      "Britain",
+      "United Kingdom"
+    ],
+    "text": "A London promoter cancels Israeli queer DJ Roi Perez’s show after objections to his support for Nova massacre survivors, including Bedouin and Arab Israeli survivors.",
+    "source": false,
+    "standaloneTweets": [
+      "1971700682614051261"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-12",
+    "claimIds": [
+      "18",
+      "56"
+    ],
+    "exampleId": "codex-20261019-150-044",
+    "keywordIds": [],
+    "text": "Seven Israeli chess players withdraw from a tournament in Spain after being barred from using Israel’s flag while a Palestinian flag remains displayed. Two players are told to leave their booked hotel for a shared hostel in another city, and an antizionist demonstration is planned outside the venue.",
+    "source": false,
+    "standaloneTweets": [
+      "1966427244361843090",
+      "1966427713209508104"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-10",
+    "claimIds": [
+      "18",
+      "5",
+      "56"
+    ],
+    "exampleId": "codex-20261019-150-083",
+    "keywordIds": [],
+    "text": "A Belgian festival cancels the Munich Philharmonic’s performance because Israeli conductor Lahav Shani has not publicly denounced Israel, excluding the orchestra over its conductor’s nationality and political conformity.",
+    "source": false,
+    "standaloneTweets": [
+      "1965891424425226396"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-09-08",
+    "claimIds": [
+      "18",
+      "5",
+      "2"
+    ],
+    "exampleId": "codex-20261019-150-111",
+    "keywordIds": [],
+    "text": "More than 1,800 actors, directors and filmmakers pledge to boycott Israeli film institutions. The reporting post contrasts the campaign with their lack of equivalent pledges against Russian institutions.",
+    "source": false,
+    "standaloneTweets": [
+      "1965192200003948646"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-05",
+    "date": "2025-12-21",
+    "claimIds": [
+      "31i",
+      "31h",
+      "18",
+      "56"
+    ],
+    "exampleId": "codex-20261005-next100-048",
+    "keywordIds": [],
+    "text": "Protesters outside Istanbul’s Neve Shalom synagogue reportedly demand that Jews leave Turkey during Hanukkah, targeting a Jewish community for its identity.",
+    "source": false,
+    "standaloneTweets": [
+      "2002820163192676576"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-03-14",
+    "claimIds": [
+      "32",
+      "18"
+    ],
+    "exampleId": "00003209",
+    "keywordIds": [],
+    "text": "Hezbollah has confirmed that eight of the victims were its members, including a senior commander.",
+    "standaloneTweets": [
+      "2032877036352459117",
+      "2033209724158484739"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-09-25",
+    "claimIds": [
+      "54",
+      "18"
+    ],
+    "exampleId": "codex-20261011-b2-037",
+    "keywordIds": [],
+    "text": "Israeli DJ Roi Perez’s London show is cancelled over his Israeli background despite his public antizionist advocacy, support for Palestinian causes and rejection of the Israeli government.",
+    "source": true,
+    "standaloneTweets": [
+      "1974036940312777091"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://mixmag.net/read/roi-perez-issues-statement-response-london-party-origins-cancellation-news"
   }
 ]

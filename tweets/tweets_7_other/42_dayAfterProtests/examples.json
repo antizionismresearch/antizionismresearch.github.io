@@ -1,5 +1,66 @@
 [
   {
+    "dateAdded": "2026-10-08",
+    "date": "2023-10-07",
+    "claimIds": [
+      "28",
+      "42"
+    ],
+    "exampleId": "codex-20261008-029",
+    "keywordIds": [],
+    "text": "Mia Khalifa’s October 7 post urged Palestinian fighters to film horizontally while the massacre was unfolding, implying the film the dead Jews who were laying horizontally on the ground.",
+    "source": false,
+    "standaloneTweets": [
+      "1985731028846071819"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-10-28",
+    "claimIds": [
+      "28",
+      "42"
+    ],
+    "exampleId": "codex-20261020-b2-052",
+    "keywordIds": [],
+    "text": "Penn student Tara Tarawneh calls the October 7 massacre “joyful” and “powerful” and urges the crowd to bring that feeling into the streets.",
+    "source": false,
+    "standaloneTweets": [
+      "1956770533980491850"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2023-10-07",
+    "claimIds": [
+      "31c",
+      "42"
+    ],
+    "exampleId": "codex-20261009-088",
+    "keywordIds": [],
+    "text": "On October 7, 2023, Qatar’s foreign ministry holds Israel solely responsible for the escalation while Hamas is massacring Israelis and taking hostages.",
+    "source": true,
+    "standaloneTweets": [
+      "1710625372348576116"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://mofa.gov.qa/en/latest-articles/statements/qatar-expresses-concern-over-the-developments-in-gaza-strip-and-calls-for-de-escalation"
+  },
+  {
     "dateAdded": "",
     "date": "2023-10-08",
     "claimIds": [
@@ -43,7 +104,8 @@
     "keywordIds": [],
     "text": "A large celebration of the Hamas attacks on Israel shut down Kensington High Street in London outside the @IsraelinUK embassy.",
     "standaloneTweets": [
-      "1711467975482479063"
+      "1711467975482479063",
+      "1855210713884594495"
     ],
     "themTweets": [],
     "usTweets": []
@@ -344,6 +406,25 @@
     "source": false,
     "standaloneTweets": [
       "1983157326841557073"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2023-10-08",
+    "claimIds": [
+      "42"
+    ],
+    "exampleId": "codex-20261020-b2-054",
+    "keywordIds": [],
+    "text": "A video shared by Casey Babb shows Canadian antizionists celebrating on October 8, 2023, immediately after Hamas’s massacre.",
+    "source": false,
+    "standaloneTweets": [
+      "1956685272969560332"
     ],
     "thenVsNowFormat": false,
     "thenTweets": [],

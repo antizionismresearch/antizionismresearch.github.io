@@ -1,5 +1,173 @@
 [
   {
+    "dateAdded": "2026-10-10",
+    "date": "2024-05-10",
+    "claimIds": [
+      "30",
+      "31o",
+      "31l"
+    ],
+    "exampleId": "codex-20261009-024",
+    "keywordIds": [],
+    "text": "British Muslim Mohammed Hijab describes jihad as expansion and conquest and says Jews and Christians must be fought until they pay jizya.",
+    "source": false,
+    "standaloneTweets": [
+      "1788871534653657242"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2025-01-11",
+    "claimIds": [
+      "31e",
+      "31l"
+    ],
+    "exampleId": "31e13",
+    "keywordIds": [],
+    "text": "Children of ISIS fighters in Syria start attacking NBC News reporter Richard Engel, threatening to kill him. This is what Radical Islamist child indoctrination looks like. And Hamas is exactly the same as ISIS.",
+    "standaloneTweets": [
+      "1890958696697471011"
+    ],
+    "source": false,
+    "sourceLink": "",
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-06",
+    "date": "2024-12-02",
+    "claimIds": [
+      "31e",
+      "31l",
+      "27",
+      "31k"
+    ],
+    "exampleId": "codex-20261006-next100-059",
+    "keywordIds": [],
+    "text": "A Palestinian girl identifying herself as a UNRWA pupil says she hates Jews, wants to shoot them and hopes to become a martyr for Allah.",
+    "source": true,
+    "sourceLink": "https://unwatch.org/unrwa-student-they-teach-that-we-dont-like-israel-that-well-shoot-them/",
+    "standaloneTweets": [
+      "1991271965298958499"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2023-03-05",
+    "claimIds": [
+      "31h",
+      "31j",
+      "30",
+      "31l"
+    ],
+    "exampleId": "codex-20261011-023",
+    "keywordIds": [],
+    "text": "March 2023,  Palestinian Sheikh Muhammad bin Maher Al-Aklouk / Muhammad Al-Aklouk in Beit Lahia’s Abu Muslim Grand Mosque in Gaza, waves a gun in a mosque and declares that killing an infidel is the best way to worship Allah and blesses those who kill disbelievers, in footage shared by Wall Street Apes. ",
+    "source": false,
+    "standaloneTweets": [
+      "1979574441589055494"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2016-09-26",
+    "claimIds": [
+      "31i",
+      "31l",
+      "31j"
+    ],
+    "exampleId": "0000031i03",
+    "keywordIds": [],
+    "text": "Islamic 'Aksa Preacher' at Temple Mount calling to slaughter the Jews while dehumanizing Jews as monkeys and pigs",
+    "standaloneTweets": [
+      "780302451949862912"
+    ],
+    "source": true,
+    "sourceLink": "https://www.jpost.com/arab-israeli-conflict/aksa-preacher-gets-8-months-prison-for-calling-to-slaughter-jews-468654#article=6024OUI1MThBODAwMzJGODAyRkEyOUVDNTA1RjM4QzQwQTA=",
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2026-01-28",
+    "claimIds": [
+      "31i",
+      "31h",
+      "31j",
+      "31l"
+    ],
+    "exampleId": "0000031i04",
+    "keywordIds": [
+      "children"
+    ],
+    "text": "After the brutal viral video showing Syrians displaying the braid cut from a Kurdish girl, a young Syrian girl openly supports the attackers and asks, 'Why didn’t you cut her infidel neck?'",
+    "standaloneTweets": [],
+    "source": false,
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "2014245443056599267"
+    ],
+    "nowTweets": [
+      "2016495823262027977"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-07",
+    "date": "2025-11-13",
+    "claimIds": [
+      "31i",
+      "31l"
+    ],
+    "exampleId": "codex-20261007-039",
+    "keywordIds": [],
+    "text": "A compilation of clerics portrays Jews and Christians as enemies because they are non-Muslims, expressing religious hostility rather than a dispute over Israeli policies.",
+    "source": false,
+    "standaloneTweets": [
+      "1988967539855306923"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "2026-01-17",
+    "claimIds": [
+      "31j",
+      "31i",
+      "31l"
+    ],
+    "exampleId": "codex-20261004-next100-012",
+    "keywordIds": [],
+    "text": "A speaker is captioned as calling Jews and Christians monkeys and pigs, and saying that dehumanizing them makes it easier to kill them.",
+    "source": false,
+    "standaloneTweets": [
+      "2012702585463972115"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
     "dateAdded": "",
     "date": "2024-01-30",
     "claimIds": [
@@ -231,5 +399,112 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-08",
+    "claimIds": [
+      "31l",
+      "27",
+      "30y",
+      "5"
+    ],
+    "exampleId": "codex-20261020-b2-028",
+    "keywordIds": [],
+    "text": "Palestinian \"activist\" Ahed Tamimi says “We are fighting the Jews, not Zionism.”",
+    "source": true,
+    "standaloneTweets": [
+      "1958009527292371282"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://podcasts.apple.com/us/podcast/ahed-tamimi-national-symbol-of-resistance-on/id1816568960?i=1000721224623"
+  },
+  {
+    "dateAdded": "2026-10-04",
+    "date": "2026-01-16",
+    "claimIds": [
+      "31o",
+      "31l"
+    ],
+    "exampleId": "codex-20261004-next100-004",
+    "keywordIds": [],
+    "text": "Drew Pavlou shares a Brisbane, Australia (Holland Park) imam's remarks describing Jews as enemies, alongside an earlier clip attributed to the same speaker.",
+    "source": false,
+    "standaloneTweets": [
+      "2013544868140704029"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-05",
+    "date": "1921-05-01",
+    "claimIds": [
+      "33",
+      "31l"
+    ],
+    "exampleId": "codex-20261005-next100-007",
+    "keywordIds": [],
+    "text": "In the 1921 Jaffa riots, Arab mobs killed Jews decades before Israel existed: hatred and violence against Jews did not begin with Israeli government policy.",
+    "source": true,
+    "standaloneTweets": [
+      "2008542764951101572"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://cojs.org/may-1st-1921-palestine-disturbances/"
+  },
+  {
+    "dateAdded": "2026-10-06",
+    "date": "2008-03-29",
+    "claimIds": [
+      "33",
+      "31l"
+    ],
+    "exampleId": "codex-20261005-next100-072-r1",
+    "keywordIds": [],
+    "text": "Muammar Gaddafi asks Arab leaders why they did not establish a Palestinian state during the twenty years before 1967: “Why didn’t you establish a Palestinian state?” He asks why they fought Israel before it controlled the West Bank and Gaza: “Whatever happened to the Palestinian cause we had before 1967?”",
+    "source": false,
+    "standaloneTweets": [
+      "1999757537001009224"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "1938-10-02",
+    "claimIds": [
+      "33",
+      "27",
+      "30b",
+      "31l"
+    ],
+    "exampleId": "codex-20261020-next150-004",
+    "keywordIds": [],
+    "text": "Arab attackers massacred Jewish families in Tiberias, including eleven children, and burned a synagogue during the October 1938 attack. A contemporary newspaper clipping records the slaughter.",
+    "source": true,
+    "standaloneTweets": [
+      "1962992247903027350"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.jta.org/archive/21-jews-slain-in-tiberias-massacre-worst-since-29-synagogue-homes-razed"
   }
 ]

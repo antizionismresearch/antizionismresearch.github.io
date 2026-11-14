@@ -1,0 +1,542 @@
+[
+  {
+    "dateAdded": "",
+    "date": "2025-07-27",
+    "claimIds": [
+      "10",
+      "32"
+    ],
+    "exampleId": "000001001",
+    "keywordIds": [
+      "children"
+    ],
+    "text": "The NY Times uses a front-page photo of Mohammed al-Mutawaaq, a child with a muscular disorder, as the face of famine in Gaza. Even as evidence shows his brother perfectly healthy. The NY Times is forced to acknowledge the error.",
+    "standaloneTweets": [],
+    "themTweets": [
+      "1949348549059035352"
+    ],
+    "usTweets": [
+      "1950339868133036082",
+      "1950430560121168081"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-01",
+    "date": "2026-05-08",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261001-inclusive50-19",
+    "keywordIds": [],
+    "text": "Farai Mazhindu cites a Gaza running event to challenge media descriptions of famine and genocide.",
+    "source": true,
+    "standaloneTweets": [
+      "2053013264729100297"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.timesofisrael.com/liveblog_entry/palestine-marathon-returns-to-west-bank-and-gaza-with-thousands-taking-part/"
+  },
+  {
+    "dateAdded": "2026-10-03",
+    "date": "2026-02-01",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261003-next50-30",
+    "keywordIds": [],
+    "text": "GAZAWOOD shares footage described as recent Gaza market preparations for Ramadan, challenging portrayals of uniformly empty food markets.",
+    "source": false,
+    "standaloneTweets": [
+      "2025278759373258811"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-19",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261011-010",
+    "keywordIds": [],
+    "text": "Max Nordau criticizes Wikipedia’s Gaza famine article for repeating early-2024 predictions that the entire population was starving to death without adequately confronting those predictions afterward.",
+    "source": false,
+    "standaloneTweets": [
+      "1979758889156690350"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-14",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261011-037",
+    "keywordIds": [],
+    "text": "Marina Medvin shares a Gaza social-media video that contradicts claims of pervasive starvation.",
+    "source": false,
+    "standaloneTweets": [
+      "1978642090897571881"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-09",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261011-b2-002",
+    "keywordIds": [],
+    "text": "UNRWA announces food stocks sufficient for Gaza’s population for three months; Eyal Yakoby challenges the famine narrative as a ceasefire approaches.",
+    "source": true,
+    "standaloneTweets": [
+      "1976340553332912381"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://english.wafa.ps/Pages/Details/163208"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-09",
+    "claimIds": [
+      "10",
+      "31c"
+    ],
+    "exampleId": "codex-20261011-b2-003",
+    "keywordIds": [],
+    "text": "A comparison contrasts Gaza journalist Bisan Owda’s photographs during famine claims with Evyatar David, an emaciated Israeli hostage held by Hamas who was forced to dig his own grave.",
+    "source": false,
+    "standaloneTweets": [
+      "1976282259167846697"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-19",
+    "date": "2025-08-31",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261019-150-131",
+    "keywordIds": [],
+    "text": "Gazan influencer Nana Diar films herself shopping in Deir al-Balah at the end of August 2025, providing footage of goods available in local shops during the famine debate.",
+    "source": false,
+    "standaloneTweets": [
+      "1962887747594596489"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-20",
+    "date": "2025-08-25",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261020-b2-010",
+    "keywordIds": [],
+    "text": "Footage shared by Kosher shows food available in Gaza shops during late-August famine claims.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1958825701785702622"
+    ],
+    "usTweets": [
+      "1960282898449248704"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-22",
+    "claimIds": [
+      "10",
+      "41"
+    ],
+    "exampleId": "codex-20261020-b2-026",
+    "keywordIds": [
+      "Famine Review Committee",
+      "FRC",
+      "Integrated Food Security Phase Classification"
+    ],
+    "text": "The IDF challenges the IPC famine declaration with footage of food stocks, markets and aid distribution; Raylan Givens also shares UN footage of Gazans discarding food.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1958825701785702622"
+    ],
+    "usTweets": [
+      "1958823275011641462",
+      "1958819725187650032"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-20",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261020-b2-031",
+    "keywordIds": [],
+    "text": "Reporter Cam Higby films stacks of Gaza aid pallets and challenges claims that food is absent from the territory.",
+    "source": false,
+    "standaloneTweets": [
+      "1958194657181008166"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-16",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261020-b2-071",
+    "keywordIds": [],
+    "text": "An Al-Astel supermarket video from Khan Younis shows sacks and shelves of sugar during famine claims.",
+    "source": false,
+    "standaloneTweets": [
+      "1956772761252102606"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-17",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261020-b2-064-r1",
+    "keywordIds": [],
+    "text": "August 2025 reporting relays demands to end “famine” in Gaza and a World Food Programme warning that 500,000 people are on its brink. A Gaza City video from the same period shows street vendors with delicious treats available.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1957113944033911262",
+      "1955562471936418239"
+    ],
+    "usTweets": [
+      "1958205466040791343",
+      "1958205476841132104"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-17",
+    "claimIds": [
+      "10"
+    ],
+    "exampleId": "codex-20261020-b2-066-r1",
+    "keywordIds": [],
+    "text": "Gaza influencer Hema Barbakh appeals for food while a video caption says he cannot find enough to feed people. Hussain Shafiei promotes the clip as evidence of famine and Western complicity; a later post contrasts those appeals with Barbakh’s well-fed appearance.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1948890538977231277"
+    ],
+    "usTweets": [
+      "1956668353218539841"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-13",
+    "claimIds": [
+      "10",
+      "41",
+      "45",
+      "17",
+      "4"
+    ],
+    "exampleId": "codex-20261020-b2-074-r1",
+    "keywordIds": [
+      "United Nations"
+    ],
+    "text": "The Integrated Food Security Phase Classification (IPC) changed its standards to declare famine in Gaza, calling it a \"worst-case scenario of famine\". In past famine reports, IPC used detailed weight and height measurements to determine whether a child is suffering from acute malnutrition. In Gaza, it used the metric of mid-upper arm circumference (MUAC), which consists only of a child's arm circumference, a measurement that can be done more quickly and is considered less precise. The report also includes a lowered threshold for the proportion of children who must be considered malnourished for the IPC to declare a famine, down to 15 percent from 30 percent. The 15 percent threshold had previously been used to indicate a famine was likely.\n\nMedia outlets like the New York Times, NPR, CNN, and ABC News relied on the IPC report to claim that Israeli policies have led to mass starvation",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1950156036838445288",
+      "1950750788243870094"
+    ],
+    "usTweets": [
+      "1955515213559505073",
+      "1955398059602354352"
+    ],
+    "sourceLink": "https://freebeacon.com/israel/un-backed-famine-watchdog-quietly-changed-standards-easing-way-to-declare-famine-in-gaza/"
+  },
+  {
+    "dateAdded": "2026-10-11",
+    "date": "2025-10-08",
+    "claimIds": [
+      "31c",
+      "1",
+      "10",
+      "17"
+    ],
+    "exampleId": "codex-20261011-b2-012",
+    "keywordIds": [],
+    "text": "Greta Thunberg shares a post about Palestinian prisoners’ suffering using Hamas footage of starved Israeli hostage Evyatar David, then quietly deletes the slide without apology, accountability or explanation after being called out. She doesn't care about famine, and she doesn't care about peace.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1975574089940242760"
+    ],
+    "nowTweets": [
+      "1975944871572652497"
+    ],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.jpost.com/diaspora/antisemitism/article-869703"
+  },
+  {
+    "dateAdded": "2026-10-02",
+    "date": "2025-12-09",
+    "claimIds": [
+      "31f",
+      "51",
+      "10"
+    ],
+    "exampleId": "codex-20261002-latest50-44",
+    "keywordIds": [],
+    "text": "A New York Post headline reports Ahmed Fouad Alkhatib’s allegation that Hamas stored infant formula and nutritional supplies instead of distributing them.",
+    "source": true,
+    "thenVsNowFormat": false,
+    "standaloneTweets": [
+      "2027192210496614848"
+    ],
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.jpost.com/middle-east/article-879971"
+  },
+  {
+    "dateAdded": "2026-10-10",
+    "date": "2025-10-24",
+    "claimIds": [
+      "32",
+      "10"
+    ],
+    "exampleId": "codex-20261009-060",
+    "keywordIds": [],
+    "text": "A leaked BBC memo tells journalists the argument over how much aid entered Gaza is irrelevant; Yakoby criticizes the instruction for directing coverage against Israel.",
+    "source": true,
+    "standaloneTweets": [
+      "1981696483071299693"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://europeanconservative.com/articles/news-corner/bbc-reporters-instructed-to-blame-israel-for-gaza-hunger/"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-24",
+    "claimIds": [
+      "32",
+      "10",
+      "31a",
+      "4"
+    ],
+    "exampleId": "codex-20261020-b2-020",
+    "keywordIds": [],
+    "text": "The Daily Mirror’s “STOP STARVING GAZA’S KIDS” front page features Karim Abu Maamar; a May 2023 medical record identifies the child has a preexisting condition, suffers from a genetic background disease and \"Fanconi Syndrome,\" which leads to muscle weakness and urinary tract issues. The New York Times had a similar scandal with a front page image of a child who turned out to have cerebral palsy. There are no images of skeletal children that are suffering from famine, they are all suffering from a co-existing/pre-existing condition.",
+    "source": false,
+    "standaloneTweets": [
+      "1959673223836016902"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-18",
+    "claimIds": [
+      "32",
+      "10",
+      "31c"
+    ],
+    "exampleId": "codex-20261020-b2-040",
+    "keywordIds": [],
+    "text": "The BBC headlines Marah Abu Zuhri’s death as caused by malnutrition, then deletes the Tweet and changes the headline after her leukemia diagnosis emerges.",
+    "source": true,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1957025496232755444",
+      "1957025928812318905"
+    ],
+    "usTweets": [
+      "1957465936652361782",
+      "1957480655614624043",
+      "1957439796193755436",
+      "1957088623662178516"
+    ],
+    "sourceLink": "https://www.jewishnews.co.uk/bbc-updates-report-on-gazan-womans-death-after-leukaemia-diagnosis-revealed/"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-18",
+    "claimIds": [
+      "32",
+      "10",
+      "52x"
+    ],
+    "exampleId": "codex-20261020-b2-043",
+    "keywordIds": [
+      "Olivia Reingold",
+      "Tanya Lukyanova",
+      "Viral photos"
+    ],
+    "text": "A Free Press investigation finds serious medical conditions omitted from viral Gaza starvation images, including cystic fibrosis and rickets. There are no images of skeletal children in Gaza who were not suffering from a pre-existing disease that caused their situation. \"They Became Symbols for Gazan Starvation. But All 12 Suffer from Other Health Problems.\"",
+    "source": true,
+    "standaloneTweets": [
+      "1957286034577801728",
+      "1957288865288290600",
+      "1957278445248938492"
+    ],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [],
+    "usTweets": [],
+    "sourceLink": "https://www.thefp.com/p/they-became-symbols-for-gazan-starvation"
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-08-17",
+    "claimIds": [
+      "32",
+      "10",
+      "52x",
+      "46",
+      "31a",
+      "4"
+    ],
+    "exampleId": "codex-20261020-b2-048",
+    "keywordIds": [
+      "David Collier"
+    ],
+    "text": "Sky News, The Daily Mirror, and The Los Angeles Times post a graphic and provocative photo of Maryam Dawas to prove famine in Gaza. LA Times says Maryam Dawas had “no underlying medical condition” and suffered solely from hunger; her medical referral records intestinal malabsorption and that she is receiving intravenous fluids, potassium chloride, high levels of Vitamin A, antibiotics, therapeutic foods and milk. There are no photos of skeletal children in Gaza who are are suffering from famine, they are all suffering from a preexisting medical condition.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": false,
+    "thenTweets": [],
+    "nowTweets": [],
+    "themTweets": [
+      "1957025891449454990",
+      "1957025894876221475",
+      "1957025898244329528",
+      "1957025915424100365"
+    ],
+    "usTweets": [
+      "1957025901788410235",
+      "1957025906465136931",
+      "1957025911070400595"
+    ]
+  },
+  {
+    "dateAdded": "2026-10-22",
+    "date": "2025-07-29",
+    "claimIds": [
+      "32",
+      "10",
+      "52x",
+      "31a",
+      "4"
+    ],
+    "exampleId": "codex-20261020-b2-049-r1-nyt",
+    "keywordIds": [],
+    "text": "The New York Times uses Mohammed Zakaria al-Mutawaq’s emaciated image on its Gaza starvation front page without explaining his pre-existing health problems, including cerebral palsy. His own brother and mother are pictured in healthy condition, undermining at the source the famine/malnutrition libel. After David Collier exposes his medical history, the Times adds an editor’s note acknowledging that omission. There are no skeletal children in Gaza who do not have an underlying medical condition causing that.",
+    "source": false,
+    "standaloneTweets": [],
+    "thenVsNowFormat": true,
+    "thenTweets": [
+      "1949499916197265487"
+    ],
+    "nowTweets": [
+      "1952696102446150100",
+      "1957025887980818904"
+    ],
+    "themTweets": [],
+    "usTweets": []
+  },
+  {
+    "dateAdded": "",
+    "date": "2023-10-14",
+    "claimIds": [
+      "51",
+      "10"
+    ],
+    "exampleId": "000005101",
+    "keywordIds": [],
+    "text": "Chocolate brands including Nestle and Mars, who have been subjected activist boycotts for selling their products in Israel, are being SOLD on the streets of Gaza to Palestinians. The chocolates are being sold, despite being part of humanitarian aid packages.",
+    "standaloneTweets": [],
+    "themTweets": [
+      "1992619404039803159"
+    ],
+    "usTweets": [
+      "1761852805776580920"
+    ]
+  }
+]
