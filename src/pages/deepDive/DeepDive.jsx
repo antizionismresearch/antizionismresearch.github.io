@@ -8,6 +8,27 @@ import './deepDive.css';
 function asset(url) {
   return url?.startsWith('case-study-thumbs/') ? import.meta.env.BASE_URL + url : url;
 }
+export function DeepDivePreview({ link, onOpen }) {
+  const { study, pageId } = link;
+  const chapter = study.pages.find(page => page.id === pageId);
+  const studyTitle = study.title.replace(/\s*·\s*deep dive$/i, '');
+  const chapterTitle = chapter?.tileTitle?.trim() || chapter?.title;
+  const cover = asset(chapter?.coverUrl || study.pages.find(page => page.coverUrl)?.coverUrl);
+  const [failedCover, setFailedCover] = useState(null);
+
+  return <button type="button" className="dive-entry-preview" aria-haspopup="dialog"
+    aria-label={'Open deep dive: ' + studyTitle} onClick={onOpen}>
+    {cover && failedCover !== cover && <img className="dive-entry-cover" src={cover} alt="" loading="lazy"
+      referrerPolicy="no-referrer" onError={() => setFailedCover(cover)} />}
+    <span className="dive-entry-copy">
+      <span className="dive-kicker">Deep dive{chapterTitle ? ' · ' + studyTitle : ''}</span>
+      <span className="dive-entry-title">{chapterTitle || studyTitle}</span>
+      <span className="dive-entry-excerpt">{chapter?.topline || study.text || 'Explore the chapters, evidence, and original sources.'}</span>
+    </span>
+    <span className="button dive-entry-open">Open <ArrowRight size={17} aria-hidden="true" /></span>
+  </button>;
+}
+
 function Evidence({ item }) {
   const [imageFailed, setImageFailed] = useState(false);
   const caption = [...new Set([item.title, item.caption].filter(Boolean))].join('\n\n');

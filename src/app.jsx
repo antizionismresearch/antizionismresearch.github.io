@@ -15,15 +15,15 @@ function MainNavigation() {
   const browse = params.size ? '/?' + params : '/';
   params.set('deepDives', '1');
   return <nav aria-label="Main navigation">
-    <Link href={'~' + browse} aria-current={path === '/' && !linkedOnly ? 'page' : undefined}>Browse</Link>
-    <Link href={'~/?' + params} aria-current={linkedOnly ? 'page' : undefined}>Deep dives</Link>
+    <Link href={browse} aria-current={path === '/' && !linkedOnly ? 'page' : undefined}>Browse</Link>
+    <Link href={'/?' + params} aria-current={linkedOnly ? 'page' : undefined}>Deep dives</Link>
     <Link href="/about" aria-current={path === '/about' ? 'page' : undefined}>About</Link>
   </nav>;
 }
 
 export default function Home() {
   return (
-    <Router base="/">
+    <Router>
       <div className="site-shell">
         <a className="skip-link" href="#main-content">Skip to entry</a>
         <header className="site-header">

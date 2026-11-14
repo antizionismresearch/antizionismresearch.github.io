@@ -3,7 +3,7 @@ import { ArrowLeft, ArrowRight, Link as LinkIcon, Search, X, Info } from 'lucide
 import Calendar from '../calendar/Calendar.jsx';
 import Claims from '../claims/Claims.jsx';
 import TweetCarousel from './TweetCarousel.jsx';
-import DeepDive from '../deepDive/DeepDive.jsx';
+import DeepDive, { DeepDivePreview } from '../deepDive/DeepDive.jsx';
 import { deepDives, deepDivesByEntry } from '../../data/deepDives.js';
 import { readDeepDive, searchDeepDives } from '../../lib/deepDives.mjs';
 import { allExamples, claims, claimMap } from '../../data/db.js';
@@ -138,16 +138,14 @@ export default function MainPage() {
     </div>
     {dateHelp && <p className="date-explanation">Dates represent the event date or its best estimate. When the event date is unknown, the post’s publication date is used. Embedded posts may have a different date.</p>}
     {current ? <article className="entry" key={current.exampleId}>
-      <div className="entry-tags">{[...new Set(currentClaims.map(c => c.parentName))].map(name => <span className="tag parent-tag" key={name}>{name}</span>)}{currentClaims.map(c => <button className="tag" key={c.claimId} onClick={() => changeFilters([c.claimId], view.query)} title={`Browse ${c.claimShortText}`}>{c.claimShortText}</button>)}{(current.claimIds || []).filter(id => !claimMap[id]).map(id => <span className="tag" key={id} title="This category has no label in the source data">Category {id}</span>)}</div>
+      <div className="entry-tags">{[...new Set(currentClaims.map(c => c.parentName))].map(name => <span className="tag parent-tag" key={name}>{name}</span>)}{currentClaims.map(c => <button className="tag" key={c.claimId} onClick={() => changeFilters([c.claimId], view.query)} title={`Browse ${c.claimShortText}`}>{c.claimShortText}</button>)}</div>
       <h1>{primaryClaim?.claimShortText || 'Archive entry'}</h1>
       {primaryClaim?.claimText && <p className="claim-explanation">{primaryClaim.claimText}</p>}
       {current.text && <p className="entry-description">{current.text}</p>}
       {current.sourceLink && <p className="source-link"><a href={current.sourceLink} target="_blank" rel="noopener noreferrer">Supporting source ↗</a></p>}
       {deepDivesByEntry.has(current.exampleId) && <div className="dive-entry-links">
-        {deepDivesByEntry.get(current.exampleId).map(link => <button className="dive-entry-link" key={link.study.exampleId} onClick={() => setDeepDive(link)}>
-          <span><strong>Part of a deep dive</strong><small>{link.study.pages.find(page => page.id === link.pageId)?.title || 'Explore all chapters'} · {link.study.title.replace(/\s*·\s*deep dive$/i, '')}</small></span>
-          <ArrowRight size={18} aria-hidden="true" />
-        </button>)}
+        {deepDivesByEntry.get(current.exampleId).map(link =>
+          <DeepDivePreview key={link.study.exampleId} link={link} onOpen={() => setDeepDive({ study: link.study, pageId: null })} />)}
       </div>}
       <div className={`evidence ${standalone ? 'standalone' : ''}`}>
         {standalone ? <TweetCarousel label="Posts" tweets={current.standaloneTweets} /> : <>
