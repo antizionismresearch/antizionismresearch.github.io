@@ -76,18 +76,24 @@
     "date": "2024-01-29",
     "claimIds": [
       "47",
-      "13"
+      "13",
+      "10"
     ],
     "exampleId": "000004705",
     "keywordIds": [],
     "standaloneTweets": [],
-    "text": "The Palestinians report that this journalist collapsed due to lack of water and food.",
+    "text": "Antiizionists post video of a Palestinian \"journalist\" fake collapsing on-air to convey the idea that they are so weak from lack of food and water that they cannot stand. This is a tactic in the Palestinian propaganda complex that they do frequently to win sympathies of international audiences and continue to build the narrative.\n\nZTV points out the absurdity, finds another video of a woman doing the same thing, shows the theater of the propaganda, and an older video of her, where she also faints on camera.",
     "themTweets": [
-      "1752020762251141425"
+      "1752197718544687438",
+      "1751278200867467468",
+      "1752020762251141425",
+      "1751682245817926033"
     ],
     "usTweets": [
       "1752008434504126674"
-    ]
+    ],
+    "important": true,
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",

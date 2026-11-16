@@ -94,24 +94,6 @@
   },
   {
     "dateAdded": "",
-    "date": "2019-05-27",
-    "claimIds": [
-      "31d",
-      "31g"
-    ],
-    "exampleId": "00000031d02",
-    "keywordIds": [],
-    "text": "The Jews are 'cowards,' 'impure schemers', 'can't be trusted', and may rape the Arab women",
-    "standaloneTweets": [
-      "1133000093538365441"
-    ],
-    "source": false,
-    "sourceLink": "",
-    "themTweets": [],
-    "usTweets": []
-  },
-  {
-    "dateAdded": "",
     "date": "2024-07-11",
     "claimIds": [
       "31e",
@@ -234,14 +216,15 @@
     ],
     "exampleId": "31g0005",
     "keywordIds": [],
-    "text": "13 year old Iman Zaher, from the village of Luban a-Sharqiya: 'I want peace without the Jews. ... Peace with ourselves, peace between Arabs. Without Jews.' ...  'In the schools, they teach us that there is no such thing as Jews, that our right is there should be a state of Palestine with no Jews in it.' 'Of course I want to visit [Jaffa, Haifa], but only after liberation, when there are no Jews there.' 'It's not called Tel Aviv. Tal Al-Rabia, Yaffa, Haifa, these were Arabic names, not Jewish names.' 'It's impossible to have two states in one state. There must be one state here. Palestine, not Israel.' 'Our main goal is that there are no Jews.'",
+    "text": "Palestinians do not want peaceful coexistence. They teach their children to destroy the Jewish state.\n\n13 year old Iman Zaher, from the village of Luban a-Sharqiya: 'I want peace without the Jews. ... Peace with ourselves, peace between Arabs. Without Jews.' ...  'In the schools, they teach us that there is no such thing as Jews, that our right is there should be a state of Palestine with no Jews in it.' 'Of course I want to visit [Jaffa, Haifa], but only after liberation, when there are no Jews there.' 'It's not called Tel Aviv. Tal Al-Rabia, Yaffa, Haifa, these were Arabic names, not Jewish names.' 'It's impossible to have two states in one state. There must be one state here. Palestine, not Israel.' 'Our main goal is that there are no Jews.'",
     "source": false,
     "sourceLink": "",
     "standaloneTweets": [
       "1044650449905889282"
     ],
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",
@@ -310,12 +293,13 @@
     ],
     "exampleId": "31g0009",
     "keywordIds": [],
-    "text": "Jamil Ziyada Hamas TV commentator: We cannot coexist with the Jews, life is all about fighting, not negotiations.",
+    "text": "Palestinians do not want peaceful coexistence.\n\nJamil Ziyada Hamas TV commentator: We cannot coexist with the Jews, life is all about fighting, not negotiations.",
     "standaloneTweets": [
       "1542438209015218177"
     ],
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",
@@ -809,7 +793,7 @@
     ],
     "exampleId": "codex-20261004-next100-017",
     "keywordIds": [],
-    "text": "CptAllenHistory shares an attributed 1967 Arab broadcast threatening Jews before the Six-Day War. \"Slaughter! Have no mercy on a Jew … Kill, smash, slaughter and tomorrow we will throw the bodies of the Jews into the sea.\"",
+    "text": "Western antizionists claim that the Arabs never wanted to \"throw the Jews into the sea.\"\n\nCptAllenHistory shares an attributed 1967 Arab broadcast threatening Jews before the Six-Day War. \"Slaughter! Have no mercy on a Jew … Kill, smash, slaughter and tomorrow we will throw the bodies of the Jews into the sea.\" Aligns with posters and an Economist article from 1948, also shown on this site, that encouraged Arabs to leave Haifa so the Arab armies could invade and throw the Jews into the sea.\n\nThis is a rallying cry that continues to this day in the Arab world.",
     "source": false,
     "standaloneTweets": [
       "2012932270793818449"
@@ -830,7 +814,7 @@
     ],
     "exampleId": "codex-20261004-next100-026",
     "keywordIds": [],
-    "text": "CptAllenHistory shares material presenting destruction of Israel as an Arab objective in 1967.",
+    "text": "Western antizionists sometimes rewrite history and claim that the Arabs weren't trying to desroy Israel when they moved to invade in 1967.\n\nCptAllenHistory shares material presenting destruction of Israel as the Arab objective in 1967.",
     "source": false,
     "standaloneTweets": [
       "2012199315947590140"

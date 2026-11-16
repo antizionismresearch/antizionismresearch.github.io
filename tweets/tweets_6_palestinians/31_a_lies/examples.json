@@ -13,9 +13,10 @@
     "keywordIds": [
       "Layla Ghandour",
       "Great March of Return",
-      "Children death for propaganda"
+      "Children death for propaganda",
+      "Baby killers"
     ],
-    "text": "The death of 8-month-old Layla Ghandour during the 2018 Gaza border protests was an international story, initially blamed on Israeli tear gas inhalation, a claim amplified by media, celebrities, and Palestinian officials. But later revelations indicated this narrative was fabricated for propaganda purposes by Hamas. A captured relative testified under Israeli interrogation that Hamas paid the family $8,000 to lie about the cause, revealing she actually died from a congenital blood disease common in the family, corroborated by an anonymous Gaza doctor's statement to the Associated Press attributing her death to a preexisting medical condition and the Gaza Health Ministry's removal of her name from the border protest's casualty list pending investigation, which they never completed.",
+    "text": "The death of 8-month-old Layla Ghandour during the 2018 Gaza border protests was an international story, initially blamed by Palestinian officials on Israeli tear gas inhalation, a claim amplified by media and celebrities. But later revelations indicated this narrative was fabricated for propaganda purposes by Hamas.\n\nAn anonymous Gaza doctor told the Associated Press her death was from a preexisting medical condition and the Gaza Health Ministry removed her name from the border protest's casualty list pending investigation, which they never completed. A relative later testified under Israeli interrogation that Hamas paid the family $8,000 to lie about the cause, revealing she actually died from a congenital blood disease common in the family.\n\nThis is a good example of how Hamas cynically uses the death of their own children to advance the cause of destroying Israel.",
     "standaloneTweets": [],
     "themTweets": [
       "996537228112420864",
@@ -35,7 +36,9 @@
       "996432292200484865",
       "998698509229547520",
       "1009777443828269056"
-    ]
+    ],
+    "important": true,
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",
@@ -892,14 +895,12 @@
     "date": "2018-05-14",
     "claimIds": [
       "31a",
-      "52x"
+      "52x",
+      "47"
     ],
     "exampleId": "claude-b05-23r-3",
-    "keywordIds": [
-      "Gaza",
-      "Hamas"
-    ],
-    "text": "Abby Martin, Susan Abulhawa, Ash Sarkar and others describe Gaza's Great March of Return as a peaceful protest. On May 14, 2018, the day about 60 Gazans were killed at the border fence, martyrdom notices showed members of Hamas's security apparatus, its Qassam Brigades and Islamic Jihad's Al-Quds Brigades among the dead, and Hamas official Salah al-Bardawil said 50 of the 62 killed were Hamas members.",
+    "keywordIds": [],
+    "text": "Abby Martin, Ash Sarkar and others regularly describe Gaza's Great March of Return as a peaceful protest. On May 14, 2018, about 60 Gazans were killed at the border fence, martyrdom notices showed members of Hamas's security apparatus, its Qassam Brigades and Islamic Jihad's Al-Quds Brigades among the dead, and Hamas official Salah al-Bardawil said 50 of the 62 killed were Hamas members.",
     "source": false,
     "standaloneTweets": [],
     "thenVsNowFormat": false,
@@ -907,9 +908,11 @@
     "nowTweets": [],
     "themTweets": [
       "1396548454097162241",
-      "1995429678010499232",
       "1847140747801133093",
-      "1720532680926691650"
+      "1720532680926691650",
+      "996175385829302273",
+      "996135302740742144",
+      "996081805571784704"
     ],
     "usTweets": [
       "1764317984116404520",
@@ -1449,7 +1452,7 @@
     ],
     "exampleId": "codex-20261019-150-147",
     "keywordIds": [],
-    "text": "Antizionist activist Shaun King calls the 1946 King David Hotel bombing an early Mossad false flag blamed on Arabs. Adin Haykin responds that the Irgun carried out the bombing and gave advance warnings.",
+    "text": "Antizionists claim that the early Jewish militas in the land were the original terrorists, and therefore there is no difference between them and Hamas or modern Palestinian terror groups, that it's \"racist\" to make any distinction. One such example they will use is the King David Hotel bombing of 1946.\n\nIn this case, antizionist Shaun King makes the further claim (not as common, but not unexpected) and says the Irgun actually blamed the Arabs for the bombing, which they never did. They took credit for the bombing.\n\nBut more importantly, as Adin points out below, unlike modern terrorist groups who wish to inflict maximum harm to civilians and non-civilians alike through the use of cluster bombs and by targeting civilians and civilian sites, the Irgun gave advance warning to its 1946 bombing. They were trying to avoid death as much as possible.",
     "source": false,
     "standaloneTweets": [],
     "thenVsNowFormat": false,
@@ -1467,7 +1470,6 @@
     "date": "1948-01-10",
     "claimIds": [
       "31a",
-      "52x",
       "33"
     ],
     "exampleId": "codex-20261020-next150-040",
@@ -1476,7 +1478,7 @@
       "Muslims welcomed Jews",
       "Cenk Uygur"
     ],
-    "text": "An Iranian Jewish woman describes her family’s persecution in Isfahan and Hamadan: Jews were forbidden to go outside in the rain because they supposedly polluted the water, and her great-grandfather was lynched. Her account rejects the fantasy of equal, harmonious Jewish life under Islamic rule.",
+    "text": "Antizionists like The Young Turks' Cenk Uygur regularly claim that Muslims and Jews got along well before Israel was established in 1948, the date of the supposed \"Nakba.\" The Persian Jewess on X describes life under Muslim rule: Jews were forbidden to go outside in the rain because they supposedly polluted the water, and her great-grandfather was lynched. Her account rejects the fantasy of equal, harmonious Jewish life under Islamic rule.",
     "source": false,
     "standaloneTweets": [
       "1961947723453944100"
@@ -1635,12 +1637,13 @@
     ],
     "exampleId": "00003302",
     "keywordIds": [],
-    "text": "On April 9, 1948, a fierce battle took place in the Arab village of Deir Yassin, just outside Jerusalem. For decades, it has been held up as proof of “Zionist barbarity” — the supposed deliberate massacre of 254 innocent villagers, including rapes and mutilations. The story is still repeated as gospel. Deir Yassin was a tragedy of war — a hard-fought battle in a war the Arabs launched to prevent any Jewish state from existing anywhere in the Land. It was not the deliberate ethnic cleansing or massacre of legend. The real lesson is darker: Arab leaders’ own fabricated atrocity stories caused far more Palestinian suffering than the battle itself — and they have spent decades blaming the Jews for the consequences.",
+    "text": "On April 9, 1948, a fierce battle took place in the Arab village of Deir Yassin, just outside Jerusalem. For decades, it has been held up as proof of “Zionist barbarity” — the supposed deliberate massacre of 254 innocent villagers, including rapes and mutilations. The story is still repeated as gospel.\n\nDeir Yassin was not a peaceful village minding its own business. It sat on a strategic ridge overlooking the only road connecting Jerusalem to Tel Aviv. Arab irregulars used it as a base from which to ambush Jewish convoys trying to break the siege of Jerusalem — where Arabs were actively trying to starve the Jewish population into submission.\n\nThe Irgun and Lehi (two pre-state Jewish underground groups) decided to seize the village to relieve that pressure. The larger and far-better-organized Haganah (precursor to the IDF) knew of the operation but did not participate.\n\nThe attackers sent a truck with a loudspeaker to warn residents to leave or surrender. The truck got stuck and the warning was never properly delivered. \n\nCommunication between the two small, ragtag Jewish groups failed. What followed was a chaotic, house-to-house battle against far more resistance than expected. In the panic of combat, civilians were tragically killed.\n\nThere was no systematic massacre. No rapes. No mutilations.\n\nProfessor Eliezer Tauber, one of Israel’s leading historians of Arab nationalism, reconstructed the battle using Arab and Jewish testimonies, British and Red Cross records, and previously unavailable archives. He accounted for the circumstances of nearly every death.\n\nHis conclusion: 101 Arabs were killed, most of them in combat conditions (many were armed combatants or positioned with fighters). Roughly 70% of the village’s 1,000 residents fled before or during the fighting. Another 20% were taken prisoner and later released.\n\nThe Jewish fighters suffered heavy casualties themselves — about 30% wounded or killed — which is not consistent with a one-sided slaughter.\n\nThe exaggerated version — 254 dead, rapes, pregnant women butchered — was deliberately manufactured by Arab leaders for propaganda. Hussein Khalidi, the senior Arab official in Jerusalem, instructed his staff: “We must make the most of this.” \n\nHazim Nusayba, the Arabic news editor of the Palestine Broadcasting Service, later admitted they were told to exaggerate so Arab countries would intervene. The fabricated stories of rape and massacre were broadcast widely.",
     "standaloneTweets": [
       "2047032130153386298",
       "2047172947291378099"
     ],
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   }
 ]

@@ -10,11 +10,10 @@
     "keywordIds": [
       "children"
     ],
-    "text": "Defense of Children NGO claims Israeli forces fatally shot Nader Haitham Fathi Rayyan, 16, at least twice in the back. '“As Israeli forces withdrew from the camp in a convoy of at least seven armored military vehicles, Nader and another boy passed the military convoy on a motorcycle. … An eyewitness told DCIP that the motorcycle broke down, forcing Nader and the other child to get off the motorcycle. They then attempted to flee the area on foot. … An Israeli soldier fired at least three bullets at Nader and the other boy from inside his armored vehicle.” Yet Palestinian news outlets claim he was killed in 'clashes,' the IDF claims he fired upon them, and there are tons of pictures of him with military grade weapons.",
+    "text": "Nader Haitham Fathi Rayyan, 17, was killed by the IDF during an operation in Judea/Samaria (West Bank).\n\nHe is a good example of how media and the NGO complex use language like \"youngest victim was 17\" to demonize Israel as a child killer.\n\nYet there are tons of pictures of him with military grade weapons, and Palestinian Islamic Jihad members held posters of him as if he was affiliated with the group.",
     "source": true,
     "sourceLink": "https://qudsn.co/post/190910/%d8%a3%d8%ad%d8%af%d9%87%d9%85-%d9%81%d9%8a-%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83-%d9%85%d8%b3%d9%84%d8%ad-%d9%85%d8%b9-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b9%d8%b1%d8%a8%d9%8a%d9%86-3-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%81%d9%8a-%d9%86%d8%a7%d8%a8%d9%84%d8%b3-%d9%88%d8%a7%d9%84%d9%82%d8%af%d8%b3-%d9%88%d8%b1%d9%87%d8%b7",
     "themTweets": [
-      "1594321460419493888",
       "1503725510798372867",
       "1523600950740533248",
       "1503703423639764998",
@@ -26,7 +25,8 @@
       "1527007262589521921",
       "1527552955288801280",
       "1527554797494206464"
-    ]
+    ],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "2026-10-01",
@@ -57,11 +57,13 @@
     "claimIds": [
       "31e",
       "41",
-      "31j"
+      "31j",
+      "31d",
+      "31g"
     ],
     "exampleId": "codex-20261012-166-091",
     "keywordIds": [],
-    "text": "Mais Jingilani, UNRA student: “Stabbing Jews brings dignity to the Palestinians. We have to stab the Jews. They teach us that Jews are terrorists. I am ready to stab a jew and drive a car over them. I am ready to join ISIS.”",
+    "text": "The Palestinians teach their children to kill Jews.\n\nMais Jingilani, UNRA student: “Stabbing Jews brings dignity to the Palestinians. We have to stab the Jews. They teach us that Jews are terrorists. I am ready to stab a Jew and drive a car over them. I am ready to join ISIS.”",
     "source": true,
     "standaloneTweets": [
       "1970124205305045108"
@@ -71,7 +73,8 @@
     "nowTweets": [],
     "themTweets": [],
     "usTweets": [],
-    "sourceLink": "https://israelbehindthenews.com/2016/06/24/filmmaker-calls-unrwa-self-introspection-palestinian-classroom-incitement/"
+    "sourceLink": "https://israelbehindthenews.com/2016/06/24/filmmaker-calls-unrwa-self-introspection-palestinian-classroom-incitement/",
+    "important": true
   },
   {
     "dateAdded": "2026-10-03",
@@ -83,7 +86,7 @@
     ],
     "exampleId": "codex-20261003b-next50-30",
     "keywordIds": [],
-    "text": "The United Nations Security Council voted 8-0 to condemn Israel’s capture of one of the architects of the Holocaust, Adolf Eichmann, from Argentina in June 1960.",
+    "text": "In a stunning example of anti-Israel bias at the United Nations, the UN Security Council voted 8-0 in June 1960 to condemn Israel’s capture of one of the architects of the Holocaust, Adolf Eichmann, who was enjoying refuge in Argentina.",
     "source": true,
     "standaloneTweets": [
       "2015924508524224803"
@@ -190,12 +193,13 @@
     ],
     "exampleId": "000004106",
     "keywordIds": [],
-    "text": "NBC: Turning a blind eye to child suicide bombers: Human Rights Groups Are Turning a Blind Eye to Child Suicide Bombers.",
+    "text": "Human rights groups participate in the perpetuation of the easy, cliche narrative of the weak Palestinian resistance.\n\nHuman Rights Groups Are Turning a Blind Eye to Child Suicide Bombers. Because it casts a dark shadow over the perfect victims.",
     "standaloneTweets": [
       "1790937292795687303"
     ],
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",
@@ -243,12 +247,13 @@
     "keywordIds": [
       "ICRC"
     ],
-    "text": "Red Cross in 1944: 'We found no traces of installations to exterminate civilian prisoners in Auschwitz.' Red Cross in 2024: 'We found no evidence that weapons or hostages are being held in the hospitals in Gaza.'",
+    "text": "Red Cross in 1944: 'We found no traces of installations to exterminate civilian prisoners in Auschwitz.'\nRed Cross in 2024: 'We found no evidence that weapons or hostages are being held in the hospitals in Gaza.'",
     "standaloneTweets": [
       "1808918641280221609"
     ],
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",
@@ -1114,16 +1119,19 @@
     "dateAdded": "2026-10-19",
     "date": "1960-06-23",
     "claimIds": [
-      "41"
+      "41",
+      "46",
+      "30a"
     ],
     "exampleId": "codex-20261019-150-068",
     "keywordIds": [
       "United Nations"
     ],
-    "text": "After Israel captures Holocaust architect Adolf Eichmann in Argentina, the UN Security Council debates Argentina’s sovereignty complaint. Golda Meir asks whether bringing Eichmann to trial is the threat to peace, rather than leaving him free to spread Nazi hatred.",
+    "text": "The United Nations Security Council voted 8-0 to condemn Israel’s capture of one of the architects of the Holocaust, Adolf Eichmann, from Argentina in June 1960. This is the \"international law\" everyone bows down to as if it is a G-d.\n\nGolda Meir asks whether bringing Eichmann to trial is the threat to peace, rather than leaving him free to spread Nazi hatred.",
     "source": true,
     "standaloneTweets": [
       "1965777982213251211",
+      "2015924508524224803",
       "1965780063120773254"
     ],
     "thenVsNowFormat": false,

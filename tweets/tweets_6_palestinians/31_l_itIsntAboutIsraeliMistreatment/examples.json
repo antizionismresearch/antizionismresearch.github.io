@@ -89,18 +89,20 @@
     "claimIds": [
       "31i",
       "31l",
-      "31j"
+      "31j",
+      "31d"
     ],
     "exampleId": "0000031i03",
     "keywordIds": [],
-    "text": "Islamic 'Aksa Preacher' at Temple Mount calling to slaughter the Jews while dehumanizing Jews as monkeys and pigs",
+    "text": "Islamic 'Aksa Preacher' at Temple Mount calling to slaughter the Jews while dehumanizing Jews as monkeys and pigs. \"The Jews are the most evil of Allah's creations.\"",
     "standaloneTweets": [
       "780302451949862912"
     ],
     "source": true,
     "sourceLink": "https://www.jpost.com/arab-israeli-conflict/aksa-preacher-gets-8-months-prison-for-calling-to-slaughter-jews-468654#article=6024OUI1MThBODAwMzJGODAyRkEyOUVDNTA1RjM4QzQwQTA=",
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",
@@ -198,7 +200,8 @@
     "source": true,
     "sourceLink": "https://trove.nla.gov.au/newspaper/article/31716557?searchTerm=Jews%20doings%20at%20Palestine",
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",
@@ -219,25 +222,6 @@
     ],
     "source": true,
     "sourceLink": "https://nypost.com/2025/12/18/world-news/muslim-bondi-beach-hero-branded-a-traitor-in-arab-media-for-saving-jewish-lives-report/?utm_social_handle_id=17469289&utm_source=twitter&utm_campaign=nypost&utm_medium=social&utm_social_post_id=627173387",
-    "themTweets": [],
-    "usTweets": []
-  },
-  {
-    "dateAdded": "",
-    "date": "2011-01-01",
-    "claimIds": [
-      "31l",
-      "31n"
-    ],
-    "exampleId": "00031l004",
-    "keywordIds": [],
-    "text": "On Jan. 1, 2011, a Gazan militant group bombed a Christian church outside Alexandria, Egypt, and 23 Christians were killed, and 97 injured. The Islamic violence has nothing to do with 'Israeli mistreatment'.",
-    "source": true,
-    "sourceLink": "https://www.reuters.com/article/world/egypt-blames-gaza-militants-for-church-bomb-idUSTRE70M0IW/",
-    "standaloneTweets": [
-      "29125138389671936",
-      "2006402471602647274"
-    ],
     "themTweets": [],
     "usTweets": []
   },
@@ -277,41 +261,45 @@
       "2033179269002674686"
     ],
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",
     "date": "2020-10-30",
     "claimIds": [
       "31l",
-      "30"
+      "30",
+      "31o"
     ],
     "exampleId": "00031l007",
     "keywordIds": [],
-    "text": "Palestinian Muslim scholar: “Europeans are lowlifes and a civilization of prostitutes, promiscuity, and homosexuality. ... We will conquer Paris and Rome and rule Europe with Islam.”",
+    "text": "It's not just about Israel. They want to conquer the whole world. That is what Islam teaches.\n\nPalestinian Muslim scholar: “Europeans are lowlifes and a civilization of prostitutes, promiscuity, and homosexuality. ... We will conquer Paris and Rome and rule Europe with Islam.”",
     "source": false,
     "standaloneTweets": [
       "2039793190006317354"
     ],
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",
     "date": "2009-01-09",
     "claimIds": [
       "31l",
-      "31j"
+      "27"
     ],
     "exampleId": "00031l008",
     "keywordIds": [],
-    "text": "A Qatari cleric on Qatar TV in 2009 said the Jews would still be the enemy even if they handed Palestine back, because they are infidels.",
+    "text": "There is no one state solution.\n\nA Qatari cleric on Qatar TV in 2009 said the Jews would still be the enemy even if they handed Palestine back, because they are infidels.",
     "source": false,
     "standaloneTweets": [
       "2100194856173764679"
     ],
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "2026-10-06",
@@ -452,7 +440,7 @@
     ],
     "exampleId": "codex-20261005-next100-007",
     "keywordIds": [],
-    "text": "In the 1921 Jaffa riots, Arab mobs killed Jews decades before Israel existed: hatred and violence against Jews did not begin with Israeli government policy.",
+    "text": "Antizionists claim that Arab violence in the region is due to Israeli mistreatment. It's \"resistance.\"\n\nYet, in the 1921 Jaffa riots, Arab mobs killed Jews decades before Israel existed: hatred and violence against Jews did not begin with \"Israeli government policy,\" which is a red herring in the debate.",
     "source": true,
     "standaloneTweets": [
       "2008542764951101572"
@@ -473,7 +461,7 @@
     ],
     "exampleId": "codex-20261005-next100-072-r1",
     "keywordIds": [],
-    "text": "Muammar Gaddafi asks Arab leaders why they did not establish a Palestinian state during the twenty years before 1967: “Why didn’t you establish a Palestinian state?” He asks why they fought Israel before it controlled the West Bank and Gaza: “Whatever happened to the Palestinian cause we had before 1967?”",
+    "text": "Muammar Gaddafi exposes the fake idea that the Palestinians want liberation. Hasks Arab leaders why they did not establish a Palestinian state during the twenty years before 1967:\n\n“Why didn’t you establish a Palestinian state?” He asks why they fought Israel before it controlled the West Bank and Gaza: “Whatever happened to the Palestinian cause we had before 1967?”\n\nThe Palestinian cause is not about liberation, it's cause is to destroy the Jewish state.",
     "source": false,
     "standaloneTweets": [
       "1999757537001009224"
@@ -495,7 +483,7 @@
     ],
     "exampleId": "codex-20261020-next150-004",
     "keywordIds": [],
-    "text": "Arab attackers massacred Jewish families in Tiberias, including eleven children, and burned a synagogue during the October 1938 attack. A contemporary newspaper clipping records the slaughter.",
+    "text": "Antizionists claim Arab violence against Israelis is \"resistance\" because of Israel's supposedly despicable actions, that \"Muslims welcomed Jews\" prior to 1948. Yet in October 1938, Arab attackers massacred Jewish families in Tiberias, including eleven children, and burned a synagogue. A contemporary newspaper clipping records the slaughter.",
     "source": true,
     "standaloneTweets": [
       "1962992247903027350"

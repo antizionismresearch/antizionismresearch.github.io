@@ -36,16 +36,22 @@
     "dateAdded": "",
     "date": "2018-05-17",
     "claimIds": [
-      "18"
+      "18",
+      "56"
     ],
     "exampleId": "000001802",
-    "keywordIds": [],
+    "keywordIds": [
+      "United Kingdom",
+      "Britain",
+      "England"
+    ],
     "text": "UK activists demonstrate outside of the Seret Israeli film festival in Brighton, UK, calling for a cultural boycott of Israel.",
     "standaloneTweets": [
       "997203203388256256"
     ],
     "themTweets": [],
-    "usTweets": []
+    "usTweets": [],
+    "thenVsNowFormat": false
   },
   {
     "dateAdded": "",
